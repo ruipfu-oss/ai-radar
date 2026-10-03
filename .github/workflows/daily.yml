@@ -1,0 +1,54 @@
+name: AI Radar Daily
+
+on:
+  schedule:
+    # 每天 UTC 22:00 = 北京时间次日 06:00
+    # GitHub 在整点高峰可能延迟数分钟到十几分钟，属正常现象
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build pages
+        run: python build.py
+
+      - name: Verify output
+        run: |
+          python - <<'PY'
+          import json, sys
+          d = json.load(open("data/latest.json", encoding="utf-8"))
+          n = d["count"]
+          print(f"条数: {n}")
+          if n < 58:
+              print(f"::warning::仅采集到 {n} 条，低于目标 58 条")
+          missing = [i["no"] for i in d["items"] if not i["urlOriginal"]]
+          if missing:
+              print(f"::warning::{len(missing)} 条缺少原文链接")
+          if n == 0:
+              sys.exit("采集结果为空，中止提交")
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html phone/index.html data/latest.json
+          if git diff --cached --quiet; then
+            echo "内容无变化，跳过提交"
+          else
+            git commit -m "chore: 更新 AI 雷达数据 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
