@@ -1,9 +1,28 @@
 {
-  "updatedAt": "2026-10-07 09:10",
+  "updatedAt": "2026-10-07 20:54",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "kxqn0rzbtjdxg7ibbjge08tzt",
+      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+      "originalTitle": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+      "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+      "source": "X：Arena (@arena)",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 68,
+      "reason": "Arena 实测数据显示 Mistral Large 4 的编码得分、排名和价格对比，可帮读者评估其性价比位置。",
+      "publishedAt": "2026-10-07 14:18",
+      "discoveredAt": "2026-10-07 14:42",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791353903.0,
+      "urlOriginal": "https://x.com/arena/status/2107717155374727602",
+      "urlDetail": "https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
       "id": "zvw2i4tg1gnqq72t596vpqoyl",
       "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
       "originalTitle": "Sharing AI progress in mathematics",
@@ -22,7 +41,7 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 3,
       "id": "iq15z1msend1ocusxt2phyms7",
       "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
       "originalTitle": "Building Git infrastructure for agent-scale development",
@@ -41,7 +60,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 4,
       "id": "g1k2ragppm8j4apj75qu1k4ug",
       "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
       "originalTitle": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -60,7 +79,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 5,
       "id": "r5p04sepsb5p5ir85wq1bok58",
       "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
       "originalTitle": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
@@ -79,7 +98,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 6,
       "id": "wbi0gsddrrfnavs6vvuqb2r7j",
       "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
       "originalTitle": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
@@ -98,7 +117,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 7,
       "id": "ktjti7hbm1gor33jpoc6ghili",
       "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
       "originalTitle": "Introducing Personal Agent Protocol",
@@ -117,7 +136,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 8,
       "id": "sah5vczzr22l9ieb4bxrpoowd",
       "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
       "originalTitle": "Claude for Google Workspace™",
@@ -136,7 +155,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 9,
       "id": "quya0qxvagwzjaw5wd9ma7vvu",
       "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
       "originalTitle": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
@@ -155,7 +174,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 10,
       "id": "gyfo8loe7gfo6fmgt762027fp",
       "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
       "originalTitle": "Mistral Large 4 by @MistralAI is now in the Arena!",
@@ -174,7 +193,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 11,
       "id": "z94jsbcn3hkyiagdyb9wai8sm",
       "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
       "originalTitle": "Le Chonk has arrived 🐈",
@@ -193,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 12,
       "id": "sxr71auxicu8uk3e4bqxol02h",
       "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
       "originalTitle": "Claude Code in the cloud: a field guide to cloud sessions",
@@ -212,7 +231,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 13,
       "id": "krivwcmcv6qloa3az7f5j0jip",
       "title": "Reflection 发布 501B-A23B 开源编码模型 Beam",
       "originalTitle": "[AINews] Reflection Beam - 501B-A23B American Open Model",
@@ -231,7 +250,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 14,
       "id": "nnl0kba78980jig0szh0hkfop",
       "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
       "originalTitle": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
@@ -250,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 15,
       "id": "tfuj58rvo46hvh8l2nzcbpf7n",
       "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
       "originalTitle": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
@@ -269,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 16,
       "id": "wiip2ye21b67quiydxlnqmeyc",
       "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
       "originalTitle": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
@@ -288,7 +307,26 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 17,
+      "id": "aj31qyu01hx95ra5sq2f0k5a9",
+      "title": "PromptArmor 解析 WebMCP 的工作机制与安全风险",
+      "originalTitle": "What is WebMCP, and why does it matter?",
+      "summary": "PromptArmor 发布 WebMCP 解析文章，介绍这项让网站直接向 AI 智能体提供工具的技术的机制与采用情况。",
+      "source": "PromptArmor：Threat Intelligence",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 67,
+      "reason": "原文系统拆解 WebMCP 的机制、厂商采用现状和治理、提示词注入等新增风险，可作为评估供应商 WebMCP 暴露面的参考框架。",
+      "publishedAt": "2026-10-06 08:00",
+      "discoveredAt": "2026-10-07 13:20",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791244800.0,
+      "urlOriginal": "https://www.promptarmor.com/resources/what-is-webmcp",
+      "urlDetail": "https://aihot.news/items/aj31qyu01hx95ra5sq2f0k5a9",
+      "pool": "selected"
+    },
+    {
+      "no": 18,
       "id": "wbd0ik8kqdtpjw5u8kjsudqms",
       "title": "Cursor iOS 应用支持远程控制本地智能体",
       "originalTitle": "本地智能体远程控制",
@@ -307,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 19,
       "id": "arlkhdtjzshqi1qdyowqvtwyy",
       "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
       "originalTitle": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
@@ -326,16 +364,16 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 20,
       "id": "d17jcexm93lo85zkz3iil08c9",
-      "title": "Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用",
+      "title": "Gemini Nano Banana 2.1 图像生成模型正式发布，gemini-3.1-flash-image 被弃用",
       "originalTitle": "October 6, 2026",
-      "summary": "Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。",
+      "summary": "Google 在 Gemini API 更新日志中宣布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1）正式可用，作为 Nano Banana 2（gemini-3.1-flash-image）的更新版本。",
       "source": "Gemini API：更新日志（网页）",
       "category": "ai-models",
       "categoryCn": "模型发布",
       "score": 68,
-      "reason": "官方更新日志给出模型名、能力改进范围和旧版停用日期，方便使用者安排迁移和评估是否切换。",
+      "reason": "原文列出新模型相对上一代的具体提升点和新支持的比例与分辨率，可帮助图像生成用户判断是否迁移。",
       "publishedAt": "2026-10-06 08:00",
       "discoveredAt": "2026-10-07 00:44",
       "timeNote": "原文发布时间",
@@ -345,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 21,
       "id": "clggowmf6nncm154a78nnizft",
       "title": "Vercel COO 讲解如何用 Agent 自动化 Inbound 销售",
       "originalTitle": "How to Automate Inbound",
@@ -364,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 22,
       "id": "oj7q14paghhkh66541sg0xdgy",
       "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
       "originalTitle": "Quoting Felix Rieseberg",
@@ -383,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 23,
       "id": "lcxzcuj920lvqlah60vj7utm1",
       "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
       "originalTitle": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
@@ -402,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 24,
       "id": "ncv6u97zqan3hgzng59yel19f",
       "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
       "originalTitle": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
@@ -421,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 25,
       "id": "s3bsk24s6z9jxpbv5p7ju67xz",
       "title": "METR 演示 AI 智能体如何篡改 Inspect 评估记录以掩盖不当行为",
       "originalTitle": "AI systems could cover up misbehavior",
@@ -440,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 26,
       "id": "rmc5fz5rbcwzsr7cdl5jo1ojk",
       "title": "Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
       "originalTitle": "Mistral has released Mistral Large 4, making France home to the most intelligent model outside the US and China",
@@ -459,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 27,
       "id": "xx5mgdemrqmqw5zw410sbawcz",
       "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
       "originalTitle": "Our approach to EU text provenance rules",
@@ -478,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 28,
       "id": "e63lz9ky7ebdxjea930dh3o5y",
       "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
       "originalTitle": "Building advertising for the way people use AI",
@@ -497,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 29,
       "id": "dfcis3hxowljt45i0bvyi3f0n",
       "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过控制实现钓鱼与数据外泄",
       "originalTitle": "Databricks Genie Phishing and Exfiltration",
@@ -516,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 30,
       "id": "uu1qa3hh83kc9i4u832wpywyp",
       "title": "Liquid AI 发布 d1 决策模型并新增图像输入能力",
       "originalTitle": "Introducing d1: The most capable decision model, now with vision",
@@ -535,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 31,
       "id": "ef2o8x2jh4m8n7ggsq5bc5eag",
       "title": "Together AI 推出 Together Link，一键在现有编码智能体中接入开源模型并降费超 50%",
       "originalTitle": "Together Link: open models in the harness you already use. Start with one command today.",
@@ -554,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 32,
       "id": "gqh4yclcjmaci6uhur56580uh",
       "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
       "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
@@ -573,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 33,
       "id": "dkmm9dhgecbuer490f0uqdi3m",
       "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
       "originalTitle": "Hugely revealing paper from Google.",
@@ -592,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 34,
       "id": "cyq72z49wj36fz07iy6o4mvok",
       "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
       "originalTitle": "旗下智能体频繁“闯祸”，OpenAI 每天要烧掉超 50 万美元来调查",
@@ -611,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 35,
       "id": "uwm1ml1igd8k2u81g14uf8pc3",
       "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
       "originalTitle": "Agentic inference optimization: 50-90% faster engines",
@@ -630,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 36,
       "id": "bzodztryi4kvwm4kz9mrwb6nn",
       "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
       "originalTitle": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
@@ -649,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 37,
       "id": "fkxn0msd8ty9lmxchq77chupc",
       "title": "Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿",
       "originalTitle": "Claude Sonnet 5.5 by @AnthropicAI just landed at #3 in the Agent Arena. This model has a median cost per task of $2.74, and a +12.5% net ...",
@@ -668,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 38,
       "id": "mnp85zt9o921l7c28rzor00qy",
       "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
       "originalTitle": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
@@ -687,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 39,
       "id": "ouqidz9vopsnd1srzkmfz4zmn",
       "title": "ChatGPT 推出 Finances 财务管理功能",
       "originalTitle": "With Finances in ChatGPT, you can:",
@@ -706,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 40,
       "id": "zfrloexd1672w3tse0utp4jgb",
       "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
       "originalTitle": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
@@ -725,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 41,
       "id": "cw97qi7nc5ucehymkc1k9s6zk",
       "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
       "originalTitle": "A model guide for the GPT-6 family",
@@ -744,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 42,
       "id": "ljyywltag6vvryw193ryz7lgd",
       "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
       "originalTitle": "Project Suncatcher has liftoff! ☀️🚀",
@@ -763,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 43,
       "id": "epb245so8hb7m1r74gumw2dze",
       "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
       "originalTitle": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
@@ -782,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 44,
       "id": "l7mkdees7p8apb7stdidl4p3i",
       "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
       "originalTitle": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
@@ -801,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 45,
       "id": "nab0yosxdtyh7sbvoo0usb1iq",
       "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
       "originalTitle": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
@@ -820,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 46,
       "id": "n29mugxykl7a9rqouv0hij217",
       "title": "Pi 1.0 与 Pi Durable 发布，Latent Space 同时汇总 Gemini 4 Argon、GPT-6.1 Sol 等动态",
       "originalTitle": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
@@ -839,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 47,
       "id": "jhshh53c18f71tkzk44izbs25",
       "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
       "originalTitle": "This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
@@ -858,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 48,
       "id": "iw7ix94rgvhp2jgamykh261gl",
       "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
       "originalTitle": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
@@ -877,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 49,
       "id": "w0twto4412g72n2ryamc6xpi1",
       "title": "OpenAI 披露一起模型利用 Perl 注入绕过工具限制复制源文件的失准事件",
       "originalTitle": "Command injecting a reference tool to copy a source file",
@@ -896,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
+      "no": 50,
       "id": "j5whyu39ceixq111sobt4fic1",
       "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
       "originalTitle": "Reaching an internal EDA host through a reference tool",
@@ -915,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
+      "no": 51,
       "id": "s3supi9t3z6gkguckfsz4ygzq",
       "title": "OpenAI 披露内部模型从 Slack 获悉可能停机并提前准备重启事件",
       "originalTitle": "Preparing for a restart after reading Slack",
@@ -934,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 50,
+      "no": 52,
       "id": "gr2p1slxzqqbnzv4c08ix4fnj",
       "title": "Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文",
       "originalTitle": "Solving Open Research Problems Together",
@@ -953,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 51,
+      "no": 53,
       "id": "ukk2qw5l1r9jqhsykqai2cf30",
       "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
       "originalTitle": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
@@ -972,7 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 52,
+      "no": 54,
       "id": "rp0ocer4fughonyd9ddfr3r8i",
       "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
       "originalTitle": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
@@ -991,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 53,
+      "no": 55,
       "id": "kaz49j9sbrf1rcugch9d2fdjm",
       "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
       "originalTitle": "Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
@@ -1007,44 +1045,6 @@
       "sortKey": 1790894597.0,
       "urlOriginal": "https://x.com/ArtificialAnlys/status/2105790682376065463",
       "urlDetail": "https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm",
-      "pool": "selected"
-    },
-    {
-      "no": 54,
-      "id": "uveypxyk0fvw6czfi11nn6tph",
-      "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
-      "originalTitle": "FLUX 3 Image is now on Krea.",
-      "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
-      "source": "X：Krea AI (@krea_ai)",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 69,
-      "reason": "官方宣布 FLUX 3 Image 上线 Krea，列出了多轮编辑、4K 生成等具体能力，读者可据此评估是否替换现有图像工作流。",
-      "publishedAt": "2026-10-02 05:18",
-      "discoveredAt": "2026-10-02 05:29",
-      "timeNote": "原文发布时间",
-      "sortKey": 1790889539.0,
-      "urlOriginal": "https://x.com/krea_ai/status/2105769469880799716",
-      "urlDetail": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
-      "id": "x1x0d5mqj4y384t9fcq4415kj",
-      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-      "originalTitle": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
-      "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 72,
-      "reason": "原文给出 FLUX 3 Image 的核心能力与开放权重计划，读者可据此评估是否接入工作流。",
-      "publishedAt": "2026-10-02 04:37",
-      "discoveredAt": "2026-10-02 04:46",
-      "timeNote": "原文发布时间",
-      "sortKey": 1790887058.0,
-      "urlOriginal": "https://x.com/OpenRouter/status/2105759062835220852",
-      "urlDetail": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
       "pool": "selected"
     },
     {
