@@ -1,28 +1,47 @@
 {
-  "updatedAt": "2026-10-09 09:37",
+  "updatedAt": "2026-10-09 17:51",
   "count": 58,
   "items": [
     {
       "no": 1,
-      "id": "f3doqdpq8n9mpmqc95jdyaxq0",
-      "title": "Tibo 宣布发布 ChatGPT",
-      "originalTitle": "Today, we are announcing ChatGPT.",
-      "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
-      "source": "X：Tibo (@thsottiaux)",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 94,
-      "reason": "",
-      "publishedAt": "2026-10-09 08:12",
-      "discoveredAt": "2026-10-09 08:13",
+      "id": "uceike4yt1on0k7sj37f9nfeh",
+      "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
+      "originalTitle": "A note from our research leaders:",
+      "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
+      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 70,
+      "reason": "OpenAI 官方回应离职争议，澄清解雇与提出安全担忧无关，并公布第三方安全评估合作进展。",
+      "publishedAt": "2026-10-09 14:17",
+      "discoveredAt": "2026-10-09 14:37",
       "timeNote": "原文发布时间",
-      "sortKey": 1791504744.0,
-      "urlOriginal": "https://x.com/thsottiaux/status/2108349826727588000",
-      "urlDetail": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0",
+      "sortKey": 1791526620.0,
+      "urlOriginal": "https://x.com/OpenAINewsroom/status/2108441580806025712",
+      "urlDetail": "https://aihot.news/items/uceike4yt1on0k7sj37f9nfeh",
       "pool": "selected"
     },
     {
       "no": 2,
+      "id": "y9clkoyn1giula1pc7pkb9qxd",
+      "title": "Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43",
+      "originalTitle": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
+      "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
+      "source": "X：Arena (@arena)",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 71,
+      "reason": "Arena 用 Agent Arena 实测数据给出 Mistral Large 4 的排名与分数，可对照其官方发布信息核实模型实际表现。",
+      "publishedAt": "2026-10-09 11:53",
+      "discoveredAt": "2026-10-09 12:00",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791518012.0,
+      "urlOriginal": "https://x.com/arena/status/2108405474391728357",
+      "urlDetail": "https://aihot.news/items/y9clkoyn1giula1pc7pkb9qxd",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
       "id": "b2mwouqv4jhfj70uho7s7guti",
       "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
       "originalTitle": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
@@ -41,7 +60,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 4,
       "id": "rs34l7aa23mk54jutma8f7g3r",
       "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
       "originalTitle": "We’re incredibly proud to continue working with @thehousefund!",
@@ -60,7 +79,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 5,
       "id": "jxxgoidojk52fkcs2fz0fkjzy",
       "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
       "originalTitle": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
@@ -79,7 +98,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 6,
       "id": "xc7shuv3raxyv5xvh59ez8hjf",
       "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
       "originalTitle": "How I Generated Live Video with MiniMax H3 on a Single GPU",
@@ -98,7 +117,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 7,
       "id": "qtsvk3wzyp2aab3vi62vjyold",
       "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
       "originalTitle": "Grateful to have @lightspeedvp with us as we build what’s next!",
@@ -117,7 +136,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 8,
       "id": "wf099r75jv1tzyhxa2j2o8n1p",
       "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
       "originalTitle": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
@@ -136,7 +155,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 9,
       "id": "p95hk44dfpkogo2v4rgwvxq30",
       "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
       "originalTitle": "We’re so proud to have worked alongside @felicis from the very beginning!",
@@ -155,7 +174,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 10,
       "id": "dsbzfsw2pdaw0ikh67cyxmlss",
       "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
       "originalTitle": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
@@ -174,7 +193,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 11,
       "id": "l846t7ycr11aqcasu45nowosp",
       "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
       "originalTitle": "Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents",
@@ -193,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 12,
       "id": "g0wo2aksqgzw87bywxaeo631z",
       "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
       "originalTitle": "What's new in Claude: September recap",
@@ -212,16 +231,16 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 13,
       "id": "cal34hameqt3bh6d52vaqt58v",
-      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-      "originalTitle": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-      "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+      "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+      "originalTitle": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+      "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
       "source": "The Decoder：AI News（RSS）",
       "category": "paper",
       "categoryCn": "论文研究",
-      "score": 80,
-      "reason": "原文梳理了 Zenity 演示的完整攻击链和 AWS 此后的权限收紧，读者可以据此评估自己云端智能体的隔离与最小权限配置。",
+      "score": 79,
+      "reason": "原文完整还原了攻击链、AWS 的修复时间线和最小权限权衡，对评估云端 Agent 部署风险有直接参考价值。",
       "publishedAt": "2026-10-08 21:01",
       "discoveredAt": "2026-10-08 21:27",
       "timeNote": "原文发布时间",
@@ -231,7 +250,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 14,
       "id": "gq8yjkqlcdbpy0l5uc8ch2sj8",
       "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
       "originalTitle": "Building effective agent automations",
@@ -250,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 15,
       "id": "br6vb46mhi9mkv2pxiq59k8z7",
       "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
       "originalTitle": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
@@ -269,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 16,
       "id": "pl2oa5clmf0gp3t7x3qsn71kc",
       "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
       "originalTitle": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
@@ -288,7 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 17,
       "id": "zdgw2hhfjitur1qmeuminh3lm",
       "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
       "originalTitle": "Confirmed landed across all accounts. How are we doing so far?",
@@ -307,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 18,
       "id": "yyba9bpxdtqdpqmv739d26ftg",
       "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
       "originalTitle": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
@@ -326,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 19,
       "id": "e9brxl1crqxmo66s80z8vrf0n",
       "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
       "originalTitle": "AI让数学再也回不去那个旧世界了。",
@@ -345,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 20,
       "id": "ylkp4aqm4r5fn7aul2l9kfmxw",
       "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型",
       "originalTitle": "The model that didn't exist, so you made it yourself",
@@ -364,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 21,
       "id": "myoe16r78gjt87vu92995zsae",
       "title": "Block 如何用 Claude Fable 编排数千个 pull request 的代码迁移",
       "originalTitle": "How Block orchestrates Claude Fable across thousands of pull requests",
@@ -383,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 22,
       "id": "winsvtlfubhjfi0wnone83j5c",
       "title": "Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能",
       "originalTitle": "Build live dashboards and animate explainers with Claude",
@@ -402,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 23,
       "id": "vemmtcq70ojxkk343dse8qfuc",
       "title": "Google 开源 ML Drift 端侧 GPU 推理引擎，接替 TFLite GPU delegate",
       "originalTitle": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
@@ -421,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 24,
       "id": "col84h6b3pdq383v6iuju3a9v",
       "title": "Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障",
       "originalTitle": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
@@ -440,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 25,
       "id": "b33i6chgxghls2v7bng0wr0nr",
       "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群",
       "originalTitle": "Disrupting AI-enabled “false front” operations",
@@ -459,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 26,
       "id": "x40bi9csoomsdaflejehop22y",
       "title": "GPT-6 Luna Decisions 上架 OpenRouter",
       "originalTitle": "GPT-6 Luna Decisions is now on OpenRouter",
@@ -478,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 27,
       "id": "m3vyz2bex4i58vffqfx586u3h",
       "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
       "originalTitle": "Revamping Skills in Deep Agents",
@@ -497,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 28,
       "id": "t02toac3ii8mp1lxzl4blewdd",
       "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
       "originalTitle": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
@@ -516,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 29,
       "id": "vk1sotxx6v25hhgn55mwgv4nv",
       "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
       "originalTitle": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
@@ -535,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 30,
       "id": "vd2lvzvjz4tujiqupl30ifq3k",
       "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
       "originalTitle": "v2.1.293",
@@ -554,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 31,
       "id": "ponkn6n046yorr5pg1yv3yjm5",
       "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
       "originalTitle": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
@@ -573,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 32,
       "id": "zn6imszjo14gki6kr2uyydknp",
       "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
       "originalTitle": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
@@ -592,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 33,
       "id": "uir31g728myjry383z17txvrw",
       "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
       "originalTitle": "GPT-6 and Intelligent UI for everyone",
@@ -611,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 34,
       "id": "lfy2ww68p9lgpxxhu5jssflwf",
       "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
       "originalTitle": "We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
@@ -630,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 35,
       "id": "y7db2ly158hip5dw1evmjw5kv",
       "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%",
       "originalTitle": "You can now train your own Decision model like Jev locally!",
@@ -649,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 36,
       "id": "i6n4yv4zs813h6lvir1el1es2",
       "title": "Anthropic 推出 Cyber Mission，发布 Critical Infrastructure Defense Program 和 OSS Scanner",
       "originalTitle": "Introducing the Anthropic Cyber Mission",
@@ -668,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 37,
       "id": "xfch7s2npl8a4651n2ymips4k",
       "title": "Anthropic 推出开源漏洞扫描服务 OSS Scanner，免费面向开源项目",
       "originalTitle": "Launching an opt-in vulnerability-finding service for open-source software",
@@ -687,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 38,
       "id": "j6n1853qowosk0pks0y39o3eq",
       "title": "NVIDIA KGMON 团队分享 KDD Cup 2026 数据分析智能体的构建经验",
       "originalTitle": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
@@ -706,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 39,
       "id": "at5dvel8balkaba9wrggcrqoj",
       "title": "Anthropic 发布 2026 年使用政策更新，11 月 12 日生效",
       "originalTitle": "2026 Usage Policy update",
@@ -725,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 40,
       "id": "ja19mtm89yojd9w2u67qp1gqv",
       "title": "Goodfire 为 Kimi K3 和 GLM 5.3 训练并部署生产级网络安全监控器",
       "originalTitle": "Training and Deploying Production Cyber Monitors on Kimi K3",
@@ -744,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 41,
       "id": "l31ksvzhwir1pf51leqxjeh07",
       "title": "Tessl 工程博客：AI 不是笨，是瞎——企业级 Agent 记忆的三个关键设计决策",
       "originalTitle": "Your AI isn't stupid. It's blind.",
@@ -763,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 42,
       "id": "t9wypjd9cbb42ttuq7vrpp07l",
       "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
       "originalTitle": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
@@ -782,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 43,
       "id": "iz93flwr7h9m7po4wnu8sm4hy",
       "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
       "originalTitle": "'Undue emotional weight'",
@@ -801,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 44,
       "id": "don06si59xc143ed92gdmlnvo",
       "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
       "originalTitle": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
@@ -820,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 45,
       "id": "yk3grmalszldrwd1p8bxk0cki",
       "title": "a16z 解析德州为何让数据中心排队等电",
       "originalTitle": "Why Texas Is Making Data Centers Wait",
@@ -839,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 46,
       "id": "r96kyuxfie0w9mup4206gzn29",
       "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
       "originalTitle": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
@@ -858,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 47,
       "id": "kxqn0rzbtjdxg7ibbjge08tzt",
       "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
       "originalTitle": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
@@ -877,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 48,
       "id": "tyhn4y95ez3mvj0p7xovpaq61",
       "title": "Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断",
       "originalTitle": "Does better work always mean better workers?",
@@ -896,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
+      "no": 49,
       "id": "h8ldh8orhiz1tbad38w4e6cpn",
       "title": "vLLM 详解 DeepSeek-V4.1-Flash 优化：Agent 场景吞吐提升 5 倍",
       "originalTitle": "DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0",
@@ -915,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
+      "no": 50,
       "id": "tuqbedzhrouuxwobb1pldbiyd",
       "title": "Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索",
       "originalTitle": "Supercharge your development with the Google Developer Knowledge API ecosystem",
@@ -934,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 50,
+      "no": 51,
       "id": "qawfhyw1v10hv75bld8ogbjgj",
       "title": "Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M",
       "originalTitle": "Open d1: Edge decision models for text, vision, and audio",
@@ -953,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 51,
+      "no": 52,
       "id": "zvw2i4tg1gnqq72t596vpqoyl",
       "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
       "originalTitle": "Sharing AI progress in mathematics",
@@ -969,25 +988,6 @@
       "sortKey": 1791327669.228,
       "urlOriginal": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "urlDetail": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
-      "pool": "selected"
-    },
-    {
-      "no": 52,
-      "id": "iq15z1msend1ocusxt2phyms7",
-      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-      "originalTitle": "Building Git infrastructure for agent-scale development",
-      "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-      "source": "GitHub Blog",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 67,
-      "reason": "GitHub 工程方亲述面向智能体规模开发重建 Git 基础设施的动因与设计原则，含内部基准写吞吐最高 35 倍等一手数据。",
-      "publishedAt": "2026-10-07 04:57",
-      "discoveredAt": "2026-10-07 05:01",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791320276.0,
-      "urlOriginal": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-      "urlDetail": "https://aihot.news/items/iq15z1msend1ocusxt2phyms7",
       "pool": "selected"
     },
     {
