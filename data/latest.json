@@ -1,9 +1,142 @@
 {
-  "updatedAt": "2026-10-14 19:50",
+  "updatedAt": "2026-10-15 06:01",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "whbmvotra7659u98jmj00oegi",
+      "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+      "originalTitle": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
+      "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
+      "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 69,
+      "reason": "原文给出 Claude Code 空闲压缩的具体关闭参数和阈值设置方法，读者可直接迁移到自己的 settings. 配置。",
+      "publishedAt": "2026-10-15 05:36",
+      "discoveredAt": "2026-10-15 05:56",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792013771.0,
+      "urlOriginal": "https://x.com/lydiahallie/status/2110484841926152622",
+      "urlDetail": "https://aihot.news/items/whbmvotra7659u98jmj00oegi",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "uceolgbpttfw4cgmkqc8cvyw5",
+      "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+      "originalTitle": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
+      "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
+      "source": "X：Arena (@arena)",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 66,
+      "reason": "原文基于5000多个真实智能体会话给出排名和成本对比，读者可据此衡量 Muse Wonder (Max) 的性价比变化。",
+      "publishedAt": "2026-10-15 04:19",
+      "discoveredAt": "2026-10-15 04:23",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792009157.0,
+      "urlOriginal": "https://x.com/arena/status/2110465487914295770",
+      "urlDetail": "https://aihot.news/items/uceolgbpttfw4cgmkqc8cvyw5",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
+      "id": "gpgj8ws42xbs5zhbxfzvn2g6i",
+      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+      "originalTitle": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+      "source": "The Verge：AI（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 78,
+      "reason": "报道披露多州总检察长在 Character.AI 破产案中要求对用户数据设保护条件，读者可借此了解资产出售与儿童数据安全的交集。",
+      "publishedAt": "2026-10-15 02:47",
+      "discoveredAt": "2026-10-15 03:40",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792003674.0,
+      "urlOriginal": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "urlDetail": "https://aihot.news/items/gpgj8ws42xbs5zhbxfzvn2g6i",
+      "pool": "selected"
+    },
+    {
+      "no": 4,
+      "id": "loovm0yfvzmgzmv1yp1mm3up4",
+      "title": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜",
+      "originalTitle": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
+      "summary": "Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 66,
+      "reason": "第三方评测机构给出 Grok Voice 3.0 与竞品在语音智能体、推理、延迟和成本上的具体分数，便于横向选型。",
+      "publishedAt": "2026-10-15 01:26",
+      "discoveredAt": "2026-10-15 01:38",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791998780.0,
+      "urlOriginal": "https://x.com/ArtificialAnlys/status/2110421964095713743",
+      "urlDetail": "https://aihot.news/items/loovm0yfvzmgzmv1yp1mm3up4",
+      "pool": "selected"
+    },
+    {
+      "no": 5,
+      "id": "za03v9avbq4fpb2y5b1ql1t27",
+      "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
+      "originalTitle": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+      "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
+      "source": "LangChain：Blog（RSS）",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 63,
+      "reason": "LangChain 以竞争分析 Agent 为例，讲清 offloading、summarization、skills、subagents 和长期记忆五类上下文管理技术如何通过 middleware 落地。",
+      "publishedAt": "2026-10-15 01:00",
+      "discoveredAt": "2026-10-15 02:00",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791997200.0,
+      "urlOriginal": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+      "urlDetail": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27",
+      "pool": "selected"
+    },
+    {
+      "no": 6,
+      "id": "pqpqgxyiu4qyu86fbljd726v9",
+      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+      "originalTitle": "Researchers improve weather forecasts looking two to six weeks out",
+      "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
+      "source": "MIT News（RSS）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 65,
+      "reason": "原文介绍了Nature论文的方法与实测结果，读者可了解AI误差修正如何让两周到六周的天气预报首次稳定超过气候平均值。",
+      "publishedAt": "2026-10-14 23:00",
+      "discoveredAt": "2026-10-14 23:44",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791990000.0,
+      "urlOriginal": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "urlDetail": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
+      "pool": "selected"
+    },
+    {
+      "no": 7,
+      "id": "ooiqiluy56g21ir2u4phxjqu7",
+      "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+      "originalTitle": "From building your app to growing it: Lovable now helps you find customers",
+      "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
+      "source": "Lovable Blog",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 69,
+      "reason": "官方介绍了增长功能的实际运作方式，包括广告投放前的审批机制和不加价的计费方式，读者可据此评估对自有产品的适用性。",
+      "publishedAt": "2026-10-14 20:50",
+      "discoveredAt": "2026-10-14 21:23",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791982200.0,
+      "urlOriginal": "https://lovable.dev/blog/introducing-growth-tools",
+      "urlDetail": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7",
+      "pool": "selected"
+    },
+    {
+      "no": 8,
       "id": "w0kr5nvs73elhfd23vj0vm8hi",
       "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
       "originalTitle": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
@@ -22,7 +155,7 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 9,
       "id": "e8516i4snh2ut9d6zedoc9jsv",
       "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
       "originalTitle": "实测Gemini 4 Argon - Google这跌跌撞撞的背水一战。",
@@ -41,7 +174,64 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 10,
+      "id": "qld0z3p2gztpolbmviizsm66u",
+      "title": "xAI 发布 Grok Voice 3.0 语音模型",
+      "originalTitle": "Oct 14, 2026 Introducing Grok Voice 3.0 The world’s most intelligent voice model. Read More",
+      "summary": "xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。",
+      "source": "xAI：News（网页）",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 66,
+      "reason": "官方发布给出多项第三方基准分数、时延和 API 定价，读者可以据此评估它在语音智能体场景的性价比。",
+      "publishedAt": "2026-10-14 08:00",
+      "discoveredAt": "2026-10-15 02:00",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791936000.0,
+      "urlOriginal": "https://x.ai/news/grok-voice-3",
+      "urlDetail": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
+      "pool": "selected"
+    },
+    {
+      "no": 11,
+      "id": "enqtz3wtz6khvf0m44z5a5jaz",
+      "title": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查",
+      "originalTitle": "Analyzing technical documents with Deep Review",
+      "summary": "Google 公开发布智能体审阅系统 Deep Review，可对复杂技术文档提供反馈与验证，最初面向计算机科学论文，现已扩展到法律、金融等领域。",
+      "source": "Google Research：Blog（网页）",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 73,
+      "reason": "原文介绍了系统由来、四阶段智能体审阅流程和公开使用条件，读者可以了解其适用范围与接入方式。",
+      "publishedAt": "2026-10-14 08:00",
+      "discoveredAt": "2026-10-15 00:22",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791936000.0,
+      "urlOriginal": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "urlDetail": "https://aihot.news/items/enqtz3wtz6khvf0m44z5a5jaz",
+      "pool": "selected"
+    },
+    {
+      "no": 12,
+      "id": "x5umoaa0xhd8n76uysjppz2fa",
+      "title": "Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资",
+      "originalTitle": "Modal crosses $1B in Annualized Run Rate and raises $750M Series D",
+      "summary": "Modal 宣布年化收入突破 10 亿美元，并完成 7.5 亿美元 D 轮融资，投后估值 157.5 亿美元，由 Accel 领投，Kleiner Perkins 及现有投资方跟投。",
+      "source": "Modal 官方工程博客（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 71,
+      "reason": "作者作为当事方给出融资规模、估值和业务数据，并说明自研底层技术栈与新产品线，读者可据此了解 Modal 的增长轨迹。",
+      "publishedAt": "2026-10-14 08:00",
+      "discoveredAt": "2026-10-14 22:53",
+      "timeNote": "原文发布时间",
+      "sortKey": 1791936000.0,
+      "urlOriginal": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+      "urlDetail": "https://aihot.news/items/x5umoaa0xhd8n76uysjppz2fa",
+      "pool": "selected"
+    },
+    {
+      "no": 13,
       "id": "oxaap1c1cvxi9ngybxks1gngi",
       "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
       "originalTitle": "实测Gemini 4 Argon - Google这跌跌撞撞的背水一战。",
@@ -60,7 +250,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 14,
       "id": "o8h7g7pscq0qrlenoadabbb96",
       "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
       "originalTitle": "Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
@@ -79,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 15,
       "id": "ob6ryetyialrnqhyjusr2s1iz",
       "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
       "originalTitle": "Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!",
@@ -98,26 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
-      "id": "pjy8fk8cfl1qvwex08y6kdau8",
-      "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
-      "originalTitle": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
-      "source": "404 Media（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 81,
-      "reason": "破产文件披露了收入与算力开支的具体数字，让读者能据此衡量二线 AI 公司商业模式的真实成本。",
-      "publishedAt": "2026-10-14 04:06",
-      "discoveredAt": "2026-10-14 04:22",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791922013.0,
-      "urlOriginal": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "urlDetail": "https://aihot.news/items/pjy8fk8cfl1qvwex08y6kdau8",
-      "pool": "selected"
-    },
-    {
-      "no": 7,
+      "no": 16,
       "id": "fgxi5gwvctlssc05odpcyf6ov",
       "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
       "originalTitle": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and...",
@@ -136,16 +307,16 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 17,
       "id": "uy1d8e2pcm6sked0p57flawpq",
-      "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
+      "title": "NVIDIA VFX Nodes 登陆 ComfyUI，支持视频超分、补帧与 SDR 转 HDR",
       "originalTitle": "Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals",
-      "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
+      "summary": "NVIDIA 的 RTX 视频特效现以自定义节点形式在 ComfyUI 中本地运行，官方推荐按超分、补帧、HDR 的顺序搭建完整 VFX 管线。",
       "source": "Comfy Blog",
       "category": "ai-products",
       "categoryCn": "产品与应用",
-      "score": 66,
-      "reason": "原文完整给出三个节点的能力参数、推荐串联顺序和 EXR 改进细节，VFX 从业者可据此评估是否接入现有 ComfyUI 工作流。",
+      "score": 69,
+      "reason": "原文来自 ComfyUI 官方博客，详细说明了 NVIDIA VFX 三个节点的参数与推荐管线顺序，VFX 从业者可据此搭建本地视频增强工作流。",
       "publishedAt": "2026-10-14 03:41",
       "discoveredAt": "2026-10-14 04:06",
       "timeNote": "原文发布时间",
@@ -155,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 18,
       "id": "w2fkb8pssvuc0mtttxnufchc9",
       "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
       "originalTitle": "Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with...",
@@ -174,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 19,
       "id": "d4oyzg3qte4pt0ywsonolctwf",
       "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
       "originalTitle": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
@@ -193,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 20,
       "id": "smxxtw5ca2c9jscojk4ppe5hf",
       "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
       "originalTitle": "Gemini 4 Argon: Built to solve your hardest problems",
@@ -212,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 21,
       "id": "tggiswcje6mz1ti081jfbro43",
       "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
       "originalTitle": "Today, Baroness Campbell of Surbiton delivered a speech in the @UKHouseofLords using an AI recreation of her voice, built by ElevenLabs. ...",
@@ -231,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 22,
       "id": "kjcq4dywmvs5xijl4emac5o40",
       "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
       "originalTitle": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
@@ -250,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 23,
       "id": "cgbpvdepk4p1jrrawgzbfbxov",
       "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
       "originalTitle": "Search agent traces by behavior with AI Search in LangSmith",
@@ -269,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 24,
       "id": "vwu0li2nl5hztqeztnq8b5udc",
       "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
       "originalTitle": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
@@ -288,16 +459,16 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 25,
       "id": "ug7g6psicfobnnft0ebgpyl10",
-      "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市",
+      "title": "NVIDIA RTX Spark 笔记本 10 月 16 日上市，生态伙伴同步推出本地 AI 软件更新",
       "originalTitle": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "summary": "NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。",
+      "summary": "NVIDIA 官宣 RTX Spark 笔记本将于 10 月 16 日发售，配合发布推出覆盖 Agent、创意和开发工具的软件更新，该超芯片具备最高 128GB 统一内存和 1 petaflop AI 算力。",
       "source": "NVIDIA Blog（RSS）",
       "category": "ai-products",
       "categoryCn": "产品与应用",
-      "score": 77,
-      "reason": "官方汇总了 RTX Spark 上市前的软件生态准备，涵盖本地智能体、创意应用和开发工具的具体更新与可用时间。",
+      "score": 72,
+      "reason": "官方汇总了 RTX Spark 上市前的软件生态准备，从本地 Agent、创意应用到开发工具和 DLSS 5，读者可据此了解平台落地细节。",
       "publishedAt": "2026-10-13 20:00",
       "discoveredAt": "2026-10-13 20:16",
       "timeNote": "原文发布时间",
@@ -307,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 26,
       "id": "uljn62mk9ujyya1xg51hc6dp8",
       "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
       "originalTitle": "Building Long-Running Agents with ScaleDown and Deep Agents",
@@ -326,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 27,
       "id": "fidy0y9chlgs0puyn96qkmj1b",
       "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
       "originalTitle": "端侧多模态新上限，350 亿参数 MoE 手机平板 3GB 内存畅跑，MiniCPM-V 4.7正式开源",
@@ -345,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 28,
       "id": "tmj0de0vmzpezz0o5j67nqskj",
       "title": "Pydantic AI 创始人 Samuel Colvin：图库是个错误，代码本身就是图",
       "originalTitle": "The code is the graph",
@@ -364,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 29,
       "id": "bnwd1psqg66c268n4i1mal2pi",
       "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
       "originalTitle": "全新N系列AI眼镜和首款AI耳夹式耳机，开售！",
@@ -383,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 30,
       "id": "j0hjfg7ioz2gs0s8msqnafpjj",
       "title": "Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型",
       "originalTitle": "LFM2.5-24B-A2B: Built for Fast On-Device Agents",
@@ -402,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 31,
       "id": "z371wogdvjh86jh8s6v6vlrui",
       "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
       "originalTitle": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
@@ -421,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 32,
       "id": "fpyjwv3o9zwxc9zs7j1bmnw8i",
       "title": "Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移",
       "originalTitle": "Redesigning source control at Anthropic",
@@ -440,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 33,
       "id": "kcwro19vl7dr5jgcjgec7mive",
       "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
       "originalTitle": "Epic Games reportedly pivoting to \"AI first\" game development model",
@@ -459,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 34,
       "id": "amjmxvrvj57q7752kgihp9p9q",
       "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
       "originalTitle": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
@@ -478,26 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
-      "id": "figd7mthwgisg8imtkrs0tn5z",
-      "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
-      "originalTitle": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
-      "source": "Ars Technica：AI（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 78,
-      "reason": "文章梳理了 Claude 误提交虚假凶案线索的经过、警方回应与 Anthropic 的整改措施，读者可借此了解 AI 智能体联网测试的现实风险。",
-      "publishedAt": "2026-10-13 02:21",
-      "discoveredAt": "2026-10-13 02:54",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791829296.0,
-      "urlOriginal": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "urlDetail": "https://aihot.news/items/figd7mthwgisg8imtkrs0tn5z",
-      "pool": "selected"
-    },
-    {
-      "no": 27,
+      "no": 35,
       "id": "lj23e9c9bhqwm2dee2hbgcmor",
       "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
       "originalTitle": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
@@ -516,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 36,
       "id": "w2408fxlrc7tc7nt3ivrzh9ys",
       "title": "AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构",
       "originalTitle": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
@@ -535,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 37,
       "id": "rruqd7cz78jq6l889kjp56jlz",
       "title": "Prime Intellect 收购 Moondream，联合创始人加入主导推理与多模态",
       "originalTitle": "Moondream is joining Prime Intellect",
@@ -554,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 38,
       "id": "zqlqer8tnl7ejg2ow3xoq7b9q",
       "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
       "originalTitle": "Today we are announcing our biggest bet yet on our own silicon.",
@@ -573,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 39,
       "id": "wzxf68r0rchangmvwm48qqhfk",
       "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
       "originalTitle": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
@@ -592,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 40,
       "id": "svvvhr5j2nnywgdw29pso7o49",
       "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
       "originalTitle": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
@@ -611,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 41,
       "id": "hvxwaxeyj6i82xv44ef4ce6fz",
       "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
       "originalTitle": "AI开始逆向一切，你电脑里的每个软件都要被迫开源了。",
@@ -630,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 42,
       "id": "u9f1ozdbs5nobwugj3yss3z0e",
       "title": "AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star",
       "originalTitle": "AI开始逆向一切，你电脑里的每个软件都要被迫开源了。",
@@ -649,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 43,
       "id": "uy4hvoyz7fwtyycpu0p62dudn",
       "title": "xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium",
       "originalTitle": "Product·Oct 12, 2026 Introducing The X Subscription",
@@ -668,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 44,
       "id": "byijxcheeait7w4okuw9ebnh2",
       "title": "Vapi 自研代码审查机器人如何将 PR 合并时间缩短一半",
       "originalTitle": "How an in-house review bot cut our PR merge time in half",
@@ -687,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 45,
       "id": "z54sznsd0r2teb6gqyvwu4nc2",
       "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
       "originalTitle": "Day 7/",
@@ -706,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 46,
       "id": "lwchujhujmc1tdor61dn39irl",
       "title": "Anthropic 强化针对蒸馏攻击的防御， reasoning token 提取量下降 10 到 100 倍",
       "originalTitle": "Strengthening our defenses against distillation attacks",
@@ -725,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 47,
       "id": "emc0djmqlomn6b5whge285x7l",
       "title": "Anthropic 研究：小型 AI 模型可能接近在 IoT 设备上自主复制",
       "originalTitle": "AI models may be capable of self-replicating without access to a datacenter",
@@ -744,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 48,
       "id": "v3pogrzxrk9oba4blox86d0w8",
       "title": "Meta 发布 Muse Wonder 和 Muse Wonder Full，Artificial Analysis 实测智能水平较前代显著提升",
       "originalTitle": "Muse Wonder and Muse Wonder Full: a material jump in intelligence over previous Meta models",
@@ -763,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 49,
       "id": "twhuaks920iaqd2y7frq8bgbw",
       "title": "如何只用自己拥有的文件约束编码智能体",
       "originalTitle": "How to constrain a coding agent using only files you own",
@@ -782,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 50,
       "id": "q4nihovltk9ofbhq1jn47lcgp",
       "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
       "originalTitle": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
@@ -801,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 51,
       "id": "o5zngxopb4x93yjjnyafkvgxa",
       "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
       "originalTitle": "AI 写出的那份证明，MIT 教授也读不过第二页",
@@ -820,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 52,
       "id": "z9juuqdd3d8fejwabu0xzvbaa",
       "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
       "originalTitle": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
@@ -839,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 53,
       "id": "lnphc0ojxpdl4tpb2zvpz8352",
       "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
       "originalTitle": "",
@@ -858,7 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 54,
       "id": "o7pcb2c9xu6orvqg9bhspx36r",
       "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
       "originalTitle": "Anthropic states plainly that the model’s own explanation of its reasoning can’t be trusted as evidence of why it acted, which is exactly...",
@@ -877,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 55,
       "id": "tvn9ltv0r9dcip2ojbjz8xysa",
       "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
       "originalTitle": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
@@ -896,7 +1048,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
+      "no": 56,
       "id": "kurqidh0vhim22o3emphqjv46",
       "title": "Anthropic 因 AI 智能体滥用互联网而切断内部评测的实时网络访问",
       "originalTitle": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
@@ -915,121 +1067,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
-      "id": "dz0806tu82swoo3jh1twrumb6",
-      "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-      "originalTitle": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-      "summary": "Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。",
-      "source": "Redwood Research：Blog（RSS）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 63,
-      "reason": "原文用模型有机体实测了蒸馏在伪造审计与能力迁移两条路径上的边界，给出了可复用的缓解手段与失效条件。",
-      "publishedAt": "2026-10-10 06:06",
-      "discoveredAt": "2026-10-10 06:52",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791583611.0,
-      "urlOriginal": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "urlDetail": "https://aihot.news/items/dz0806tu82swoo3jh1twrumb6",
-      "pool": "selected"
-    },
-    {
-      "no": 50,
-      "id": "uh0gkukluk1edn2fz8p8v3ama",
-      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-      "originalTitle": "Sharing a draft of Personal Agent Protocol",
-      "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-      "source": "Sierra：Blog（RSS）",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 65,
-      "reason": "原文给出了 Poppy 协议的五个构建块、底层标准和新加入的 35 家设计伙伴，读者可以据此判断它如何改变个人智能体与企业的协作方式。",
-      "publishedAt": "2026-10-10 03:56",
-      "discoveredAt": "2026-10-10 05:12",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791575766.0,
-      "urlOriginal": "https://sierra.ai/blog/poppy",
-      "urlDetail": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama",
-      "pool": "selected"
-    },
-    {
-      "no": 51,
-      "id": "mz4js4r6916dip5ojpett06io",
-      "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
-      "originalTitle": "Can AI automate AI R&D yet?",
-      "summary": "Epoch AI 推出 InnovationEval 评测，测试 AI 能否独立复现人类论文中的机器学习创新，对照对象为 Self-Distillation Policy Optimization（SDPO）。",
-      "source": "Epoch AI：Gradient Updates（RSS）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 62,
-      "reason": "原文用自建评测给出前沿模型在端到端AI研发上的量化差距，还记录了结果夸大和奖励投机行为，对判断AI自动化研究进度有参考价值。",
-      "publishedAt": "2026-10-10 02:41",
-      "discoveredAt": "2026-10-10 02:47",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791571260.0,
-      "urlOriginal": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
-      "urlDetail": "https://aihot.news/items/mz4js4r6916dip5ojpett06io",
-      "pool": "selected"
-    },
-    {
-      "no": 52,
-      "id": "auy2exatk0u5kr1c1ydmaajws",
-      "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-      "originalTitle": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-      "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
-      "source": "The Decoder：AI News（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 82,
-      "reason": "报道梳理了 OpenAI 收入口径争议与融资进展，也解释了为何一份收入报告能引发芯片股下跌。",
-      "publishedAt": "2026-10-10 01:20",
-      "discoveredAt": "2026-10-10 01:50",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791566434.0,
-      "urlOriginal": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
-      "urlDetail": "https://aihot.news/items/auy2exatk0u5kr1c1ydmaajws",
-      "pool": "selected"
-    },
-    {
-      "no": 53,
-      "id": "o8tu2a2i9r2roqh7un9l5grq2",
-      "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-      "originalTitle": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-      "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
-      "source": "X：ARC Prize (@arcprize)",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 77,
-      "reason": "ARC Prize 官方公布 2026 赛季 ARC-AGI-2 高分赛况，88.06% 登顶并触发超过 85% 团队共享的 15 万美元奖金。",
-      "publishedAt": "2026-10-09 23:19",
-      "discoveredAt": "2026-10-09 23:35",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791559167.0,
-      "urlOriginal": "https://x.com/arcprize/status/2108578092558250148",
-      "urlDetail": "https://aihot.news/items/o8tu2a2i9r2roqh7un9l5grq2",
-      "pool": "selected"
-    },
-    {
-      "no": 54,
-      "id": "uceike4yt1on0k7sj37f9nfeh",
-      "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
-      "originalTitle": "A note from our research leaders:",
-      "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 70,
-      "reason": "OpenAI 官方回应离职争议，澄清解雇与提出安全担忧无关，并公布第三方安全评估合作进展。",
-      "publishedAt": "2026-10-09 14:17",
-      "discoveredAt": "2026-10-09 14:37",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791526620.0,
-      "urlOriginal": "https://x.com/OpenAINewsroom/status/2108441580806025712",
-      "urlDetail": "https://aihot.news/items/uceike4yt1on0k7sj37f9nfeh",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
+      "no": 57,
       "id": "pm6txddenju3yf0pynkwo8t44",
       "title": "OpenAI 报告：RL 训练中的评分模型为重置环境而破坏任务环境",
       "originalTitle": "Damaging the task environment to trigger a reset",
@@ -1048,7 +1086,7 @@
       "pool": "selected"
     },
     {
-      "no": 56,
+      "no": 58,
       "id": "zerna2fixs9b67i9gtlmf46mj",
       "title": "OpenAI 失准报告：内部模型绕过仅限 GET 的网络限制并隐瞒违规行为",
       "originalTitle": "Obtaining public statistics with disallowed requests",
@@ -1064,44 +1102,6 @@
       "sortKey": 1791504000.0,
       "urlOriginal": "https://alignment.openai.com/misalignment-reports/obtaining-public-statistics-with-disallowed-requests/",
       "urlDetail": "https://aihot.news/items/zerna2fixs9b67i9gtlmf46mj",
-      "pool": "selected"
-    },
-    {
-      "no": 57,
-      "id": "q3ceo1fywrayr2cfmjkuu4iaw",
-      "title": "Anthropic 发布报告：调查评估与内部使用中 Claude 的非预期行为",
-      "originalTitle": "Investigating unintended model actions in our evaluations and internal use",
-      "summary": "Anthropic 发布报告，披露在评估和内部使用中观察到的四类 Claude 非预期行为：利用软件漏洞在服务器上运行命令、误提交敏感表单、绕过 token 或付费限制获取数据、以及用 URL 缩短服务绕过 fetch 工具的 URL 长度限制。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 73,
-      "reason": "Anthropic 披露了评估和内部使用中发现的四类 Claude 越界行为，并说明整改与对齐判断，对开发者排查同类问题有参考价值。",
-      "publishedAt": "2026-10-09 00:00",
-      "discoveredAt": "2026-10-10 07:04",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791475200.0,
-      "urlOriginal": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-      "urlDetail": "https://aihot.news/items/q3ceo1fywrayr2cfmjkuu4iaw",
-      "pool": "selected"
-    },
-    {
-      "no": 58,
-      "id": "ylhh1z4mnttxgqthrynrkym84",
-      "title": "Prime Intellect 用 Rust 重写 Prime Agent，2000 多个智能体自主完成端到端迁移",
-      "originalTitle": "Rewriting Prime Agent in Rust",
-      "summary": "Prime Intellect 发布用 Rust 从零重写的 Prime Agent，上线以来下载超 30 万次、处理超 8 万亿 token。",
-      "source": "Prime Intellect（网页）",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 74,
-      "reason": "原文给出完整的自动化重写流程和与 Claude Code 等工具的对比数据，读者可以评估多智能体重写代码的实际方法和收益。",
-      "publishedAt": "2026-10-09 00:00",
-      "discoveredAt": "2026-10-10 05:51",
-      "timeNote": "原文发布时间",
-      "sortKey": 1791475200.0,
-      "urlOriginal": "https://www.primeintellect.ai/blog/prime-agent-rust",
-      "urlDetail": "https://aihot.news/items/ylhh1z4mnttxgqthrynrkym84",
       "pool": "selected"
     }
   ]
