@@ -1,9 +1,47 @@
 {
-  "updatedAt": "2026-10-17 11:24",
+  "updatedAt": "2026-10-18 07:41",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "xgj246drlw70qbgypibz6atla",
+      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+      "originalTitle": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+      "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 67,
+      "reason": "作者以官方身份说明 WorkBuddy Intl 已同步最新 DeepSeek 模型并限期免费，读者可直接试用体验。",
+      "publishedAt": "2026-10-17 18:29",
+      "discoveredAt": "2026-10-17 18:37",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792232940.0,
+      "urlOriginal": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+      "urlDetail": "https://aihot.news/items/xgj246drlw70qbgypibz6atla",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "ffpkck4k06le4smuaz4slhvcz",
+      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+      "originalTitle": "这台卖37999的RTX Spark电脑，让我实现了Token自由。",
+      "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
+      "source": "公众号：数字生命卡兹克",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 67,
+      "reason": "作者用一周实测讲清了如何在128G统一内存的RTX Spark笔记本上部署本地模型，并给出可复用的WorkBuddy专家整合流程。",
+      "publishedAt": "2026-10-17 18:19",
+      "discoveredAt": "2026-10-17 18:53",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792232344.0,
+      "urlOriginal": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+      "urlDetail": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
       "id": "p4mq9t7wyzlxritu15i6d8dtv",
       "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
       "originalTitle": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
@@ -22,7 +60,7 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 4,
       "id": "bjzjg5k7af07c1c20bc1a8gxp",
       "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
       "originalTitle": "Exciting news: Muse Spark Open (Max) by @AIatMeta is the #1 US open model in the Code Arena: WebDev! With 1511 pts, it’s #13 among open m...",
@@ -41,7 +79,45 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 5,
+      "id": "w34qm27sedtziwxig5ub9wwhr",
+      "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
+      "originalTitle": "DeepSeek-V4.1-Flash-1017 更新",
+      "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
+      "source": "DeepSeek：API 更新日志",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 62,
+      "reason": "原文列出各基准分数并说明 API 调用与价格不变，读者可直接评估新版模型是否值得切换。",
+      "publishedAt": "2026-10-17 00:00",
+      "discoveredAt": "2026-10-17 16:19",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792166400.0,
+      "urlOriginal": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
+      "urlDetail": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
+      "pool": "selected"
+    },
+    {
+      "no": 6,
+      "id": "x7hxr1lvyddc8hrbrugfx4uyg",
+      "title": "DeepSeek 开放自研搜索 API",
+      "originalTitle": "开放自研搜索 API",
+      "summary": "DeepSeek 开放自研搜索 API，底层由 AI 原生的 DeepSeek 搜索引擎提供，每天稳定处理数亿次搜索请求。该引擎索引全球千亿级网页、支持多语言，并通过识别机制过滤 SEO 作弊、GEO 操纵和低质 AIGC，使用方式见网页搜索与抓取指南。",
+      "source": "DeepSeek：API 更新日志",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 67,
+      "reason": "原文给出开放入口、索引规模与过滤机制，接入 RAG 或智能体的开发者可据此评估是否纳入现有工作流。",
+      "publishedAt": "2026-10-17 00:00",
+      "discoveredAt": "2026-10-17 16:19",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792166400.0,
+      "urlOriginal": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api",
+      "urlDetail": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
+      "pool": "selected"
+    },
+    {
+      "no": 7,
       "id": "j5vlb3dn14h2b4xy1hbdschyc",
       "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
       "originalTitle": "This Week in Charts: Agents Denied",
@@ -60,7 +136,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 8,
       "id": "rq32az1hr7zpbipiyega9ehjr",
       "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
       "originalTitle": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
@@ -79,7 +155,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 9,
       "id": "p11tj593iq5nrtiotvoxllop4",
       "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
       "originalTitle": "商务部回应《中国禁止出口限制出口技术目录》拟增列人工智能等技术：确保安全可控，鼓励开源开放、合作共享",
@@ -98,7 +174,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 10,
       "id": "xwgy3mhme6nur9kndswxlu0es",
       "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
       "originalTitle": "Hello Toronto! Waymo is En Route",
@@ -117,7 +193,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 11,
       "id": "bvljy29i9xwh3wnkwign3npt4",
       "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
       "originalTitle": "丹麦最高法院裁定：AI 生成儿童色情内容同样获刑",
@@ -136,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 12,
       "id": "kbccvteado5kgzbk5ah9yv5ip",
       "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
       "originalTitle": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
@@ -155,7 +231,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 13,
       "id": "ldwt1jervkxlsh99322u661fc",
       "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
       "originalTitle": "营收增长放缓，消息称投资者降低 Anthropic IPO 估值预期",
@@ -174,16 +250,16 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 14,
       "id": "m4lwilxklwi3f3ctdlvxmzlxw",
-      "title": "可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考",
+      "title": "可灵 Kling 4.0 深夜上线，支持30秒一镜到底直出",
       "originalTitle": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
-      "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，支持最长30秒直出和最多10帧的多帧参考，并强化全能参考与复杂打斗等大范围动态表现。作者烧数万积分实测城市追逐、电梯打斗、花样滑冰等场景，认为纸箱形变等细节体现物理规律理解的提升。1080P 30秒约450积分（约16元），720P约9元，4.0 Flash 720P 20秒仅120积分，官方还预告将支持10-bit 4K HDR输出。",
+      "summary": "可灵AI正式上线视频模型 Kling 4.0，9月底曾向部分黑金年卡及Ultra年订用户开放4.0 Flash尝鲜版。作者实测后认为提升集中在三方面：最长30秒一镜到底直出，城市追逐、马戏团等复杂场景中人物与纸箱接触的物理形变等细节表现更好；大范围动态和复杂打斗的动作衔接、镜头临场感相较前代明显提升；视频首尾帧改为最多10帧的多帧参考，全能参考可替换运镜、场景和人物。",
       "source": "公众号：数字生命卡兹克",
       "category": "ai-models",
       "categoryCn": "模型发布",
       "score": 74,
-      "reason": "作者实测后给出价格、积分成本和多场景样例，读者可据此评估 Kling 4.0 是否值得用在创作流程里。",
+      "reason": "作者烧积分实测了多类场景，并给出积分定价和抽卡成本，读者可以据此评估它在真实创作流程里的可用性。",
       "publishedAt": "2026-10-16 08:18",
       "discoveredAt": "2026-10-16 08:53",
       "timeNote": "原文发布时间",
@@ -193,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 15,
       "id": "kovelcbltjj7xf054h8mffaxo",
       "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
       "originalTitle": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
@@ -212,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 16,
       "id": "d0pow9b93paydjtg2i76ang83",
       "title": "vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持",
       "originalTitle": "Serving Reflection Beam on vLLM from Day 0",
@@ -231,7 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 17,
       "id": "i6u3av7zg8n3gfy6g7ynhns56",
       "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
       "originalTitle": "Blog SGLang Powers Beam in Production Reflection’s Beam is a 501B-parameter mixture-of-experts model with 23B active parameters per token, built for software engineering and long-horizon agentic tasks. With its planned Apache 2.0 release,... SGLang Team October 16, 2026",
@@ -250,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 18,
       "id": "f14brdupsvks0k2hoang4lx6w",
       "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
       "originalTitle": "Reflection's Beam is freely available on Ollama for a limited time",
@@ -269,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 19,
       "id": "y1c13l53cd5u3wg565qu60q4d",
       "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
       "originalTitle": "Open-weight models 88% more susceptible to cyber attacks",
@@ -288,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 20,
       "id": "jc7pyt619xhznn9j28apoedto",
       "title": "vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%",
       "originalTitle": "Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX",
@@ -307,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 21,
       "id": "dtcyj2lbnn0f9sbmvfqpmjfs6",
       "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
       "originalTitle": "Maybe more than 10GW",
@@ -326,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 22,
       "id": "ee1w5w87zh8hhwwwzqm8w65rd",
       "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
       "originalTitle": "Krea 3 is now available via Partner Nodes",
@@ -345,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 23,
       "id": "e2ssy0a7scpnel6ppyl3r9f2t",
       "title": "Claude Opus 5.5 fast mode 结束研究预览并移除等待名单",
       "originalTitle": "Opus 5.5 fast mode in the Claude Platform is no longer in research preview, and we’ve removed the waitlist!",
@@ -364,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 24,
       "id": "bme0mytjnlk0d2lk8hf7srzoh",
       "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
       "originalTitle": "A few big upgrades for Chrome users today! We’re bringing the power of computer use to anyone who uses Chrome.",
@@ -383,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 25,
       "id": "moaux5xk1dqk4pi3tsx8sabsj",
       "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
       "originalTitle": "How Meta Built Forum With AI-Native Engineering",
@@ -402,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 26,
       "id": "qb80oc9oxi6d1lffkuvfskl10",
       "title": "Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成",
       "originalTitle": "New from @bfl_ai on OpenRouter today:",
@@ -421,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 27,
       "id": "zxlvr8l7uzmvapbi3i58kat2s",
       "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
       "originalTitle": "Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
@@ -440,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 28,
       "id": "bicfbjip5iq9ccp8x7sn9yw7k",
       "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
       "originalTitle": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
@@ -459,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 29,
       "id": "s80tw5g2v22j1se4bmqejyaq4",
       "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
       "originalTitle": "Muse Spark Is Now an Open-Weights Model",
@@ -478,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 30,
       "id": "fgtsm4cnci4asmyhhflxzfsga",
       "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
       "originalTitle": "While sandboxes are a commodity, serving millions of them under production-grade traffic requires a lot of detail to scale agents for bus...",
@@ -497,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 31,
       "id": "cvpbhz4ao2wr6pxpthix2z15c",
       "title": "Gemini 4 Argon 在 ARC-AGI (Verified) 评测中公布：ARC-AGI-3 得分 97.5%",
       "originalTitle": "Gemini 4 Argon from @Google on ARC-AGI (Verified):",
@@ -516,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 32,
       "id": "f7ey01hbckuivmlgen9jq0vaf",
       "title": "Microsoft AI 公布 MAI-Base-2 预训练细节，2.8T 参数 MoE 模型 FLOPs 效率达 DeepSeek-V4-Pro-Base 的 4.2 至 12.3 倍",
       "originalTitle": "Frontier Pre-training at Microsoft AI",
@@ -535,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 33,
       "id": "nextj30ehkdcjpzpk4fgz1p1w",
       "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
       "originalTitle": "How employment is changing at Anthropic",
@@ -554,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 34,
       "id": "oetmf0o04av0c4h7yrgfkb4zc",
       "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
       "originalTitle": "The AI expectations gap",
@@ -573,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 35,
       "id": "ckrtcqc9dnngil5ev7m60ns4v",
       "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
       "originalTitle": "Claude reveals ECDSA curve origins",
@@ -592,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 36,
       "id": "jn8i9j3ppsb0f79mrtldd43h8",
       "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
       "originalTitle": "Designing more efficient quantum circuits with Claude",
@@ -611,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 37,
       "id": "a3roan35e4kghyxdjffek1hop",
       "title": "Reflection 发布首个开源权重模型 Beam，Artificial Analysis 评测得分 30 居美国开源模型第二",
       "originalTitle": "Reflection has released Beam, their first model launch",
@@ -630,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 38,
       "id": "mimehokpfhvz10dk3pdz131ky",
       "title": "Step 5 Preview 上线 FeatherlessAI，官方转发开放权重模型部署信息",
       "originalTitle": "Great to see Step 5 Preview live on @FeatherlessAI!",
@@ -649,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 39,
       "id": "l9jgzg24ei3a7m8xu1xfhy9n7",
       "title": "NVIDIA 发布 Nemotron 3.5 Super VL 与 Bolt 系列开放模型，覆盖数据中心到桌面端",
       "originalTitle": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
@@ -668,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 40,
       "id": "ybc0etkws56yxmrveyttxz3lm",
       "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
       "originalTitle": "FLUX 3 Image Klein",
@@ -687,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 41,
       "id": "l3g1uzem751ki1oxckrxa1b3e",
       "title": "StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能",
       "originalTitle": "Great to see Step 5 Preview delivering strong inference performance on NVIDIA GB300.",
@@ -706,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 42,
       "id": "f6wm1u4huahekganurrbdqyhi",
       "title": "404 Media 实测 ChatGPT 广告如何基于提示词、手机号和邮箱定向投放",
       "originalTitle": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
@@ -725,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 43,
       "id": "x02vc0ewajam37hjrbpwsfnre",
       "title": "Claude Code 团队如何做代码审查",
       "originalTitle": "How the Claude Code team does code review",
@@ -741,82 +817,6 @@
       "sortKey": 1792065600.0,
       "urlOriginal": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "urlDetail": "https://aihot.news/items/x02vc0ewajam37hjrbpwsfnre",
-      "pool": "selected"
-    },
-    {
-      "no": 40,
-      "id": "pd501xipe38ooxo1t7jn7hphn",
-      "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
-      "originalTitle": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
-      "source": "The Verge：AI（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 80,
-      "reason": "记者实测并联合黑客演示了 Eiliko 机器人的数据暴露范围，读者可据此评估把 AI 玩具接入家庭的风险。",
-      "publishedAt": "2026-10-15 19:00",
-      "discoveredAt": "2026-10-15 19:52",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792062000.0,
-      "urlOriginal": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "urlDetail": "https://aihot.news/items/pd501xipe38ooxo1t7jn7hphn",
-      "pool": "selected"
-    },
-    {
-      "no": 41,
-      "id": "allv4n9g9lhfy72m1pg725apv",
-      "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
-      "originalTitle": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
-      "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
-      "source": "The Decoder：AI News（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 81,
-      "reason": "财报细节与IPO估值预期变化并置，读者可据此理解增长放缓与盈利信号之间的张力。",
-      "publishedAt": "2026-10-15 17:50",
-      "discoveredAt": "2026-10-15 18:44",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792057843.0,
-      "urlOriginal": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-      "urlDetail": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
-      "pool": "selected"
-    },
-    {
-      "no": 42,
-      "id": "f9mfexmd1udr4ehzn5t6pawi5",
-      "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
-      "originalTitle": "Create, ship, and manage data-backed websites with Payload in Figma",
-      "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。Payload 加入 Figma 一年内下载量增长 6x，成为 NPM 上增长最快的开源 CMS；面向所有计划开放，托管基础设施目前处于 beta 且免费，定价将在生效前公布。",
-      "source": "Figma AI / Agent / Make",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 60,
-      "reason": "原文交代了 Payload 集成到 Figma Make 后的后端能力、托管现状和开放计划，读者可据此判断对建站工作流的改变。",
-      "publishedAt": "2026-10-15 12:50",
-      "discoveredAt": "2026-10-15 13:40",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792039800.0,
-      "urlOriginal": "https://www.figma.com/blog/websites-with-payload-in-figma/",
-      "urlDetail": "https://aihot.news/items/f9mfexmd1udr4ehzn5t6pawi5",
-      "pool": "selected"
-    },
-    {
-      "no": 43,
-      "id": "kg6bx3goagkn4k8kt7jl9lqgd",
-      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-      "originalTitle": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
-      "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "category": "tip",
-      "categoryCn": "技术实践",
-      "score": 75,
-      "reason": "作者实测开源Skill Anatomy并给出成本、耗时和适用模型的数字，可帮读者判断是否值得装来生成科普视频。",
-      "publishedAt": "2026-10-15 12:24",
-      "discoveredAt": "2026-10-15 12:37",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792038258.0,
-      "urlOriginal": "https://x.com/Khazix0918/status/2110587546271191166",
-      "urlDetail": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd",
       "pool": "selected"
     },
     {
