@@ -1,9 +1,161 @@
 {
-  "updatedAt": "2026-10-21 08:18",
+  "updatedAt": "2026-10-21 19:26",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "yctlb0l95y3sib5cw8ebp5jc8",
+      "title": "NVIDIA 联合六家供应链伙伴扩大制造产能",
+      "originalTitle": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+      "summary": "NVIDIA 在 GTC Berlin 宣布与 Amkor、IBIDEN、KYEC、三星电机、SPIL 和欣兴电子合作扩大基板、先进封装、测试和光引擎产能。基板产能未来三年提升 2.5 倍，Amkor 先进封装产能到 2028 年底提升超 300%，KYEC 获 NVIDIA 11 亿美元产能预留预付款在美国建新厂，SPIL 光引擎产能目标 2027 年中提升 15 倍。",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 67,
+      "reason": "原文列出了各供应商具体的扩产倍数、时间表和 NVIDIA 预付款金额，可据此了解其供应链瓶颈的缓解路径。",
+      "publishedAt": "2026-10-21 18:33",
+      "discoveredAt": "2026-10-21 19:21",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792578780.0,
+      "urlOriginal": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+      "urlDetail": "https://aihot.news/items/yctlb0l95y3sib5cw8ebp5jc8",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "dc2v30rnorkgoko7huaxd9rr2",
+      "title": "NVIDIA 在 GTC Berlin 宣布 Bolt、沃尔沃等欧洲车企基于 Hyperion 构建 L3/L4 车辆与 robotaxi 车队",
+      "originalTitle": "European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion",
+      "summary": "NVIDIA 在 GTC Berlin 宣布 Bolt（与 Lucid 合作）、Mercedes-Benz、Volkswagen Commercial Vehicles、Einride 等欧洲车企和出行公司在 NVIDIA Hyperion 计算平台上展示自动驾驶用例，Volvo Cars 采用 Hyperion 与 Alpamayo Stack。",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 61,
+      "reason": "原文梳理了 Bolt、沃尔沃、大众商用车等欧洲车企基于 Hyperion 的自动驾驶布局，并给出 Halos SAFE 等新工具与量化开发收益。",
+      "publishedAt": "2026-10-21 18:14",
+      "discoveredAt": "2026-10-21 19:21",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792577640.0,
+      "urlOriginal": "https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
+      "urlDetail": "https://aihot.news/items/dc2v30rnorkgoko7huaxd9rr2",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
+      "id": "b4mzaobsnurkv83h81ceel1yq",
+      "title": "NVIDIA 携手 Nokia 及多家电信运营商将网络改造为分布式智能平台",
+      "originalTitle": "NVIDIA, Nokia and Leading Telecom Operators Turn Networks Into Distributed Intelligence Platforms",
+      "summary": "NVIDIA 在 GTC Berlin 宣布全球主要电信运营商正在把网络改造为分布式智能平台，在数据中心、城域站点和基站部署 NVIDIA 加速计算。",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 63,
+      "reason": "原文汇总了多家运营商在现网推进 AI-RAN 与分布式 AI 基础设施的进展和时间表，可据此了解电信网络的 AI 化路径。",
+      "publishedAt": "2026-10-21 18:11",
+      "discoveredAt": "2026-10-21 18:20",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792577460.0,
+      "urlOriginal": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+      "urlDetail": "https://aihot.news/items/b4mzaobsnurkv83h81ceel1yq",
+      "pool": "selected"
+    },
+    {
+      "no": 4,
+      "id": "l94ayb89z6n2xxc9ce6c6ubeh",
+      "title": "NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能",
+      "originalTitle": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "summary": "NVIDIA 扩展开源模型家族，推出 Nemotron 3.5 Super VL 与 Nemotron 3.5 Bolt、Nemotron Retriever、Kumo 结构化数据模型、Cosmos 3.5 世界模型、Alpamayo 2 Edge 自动驾驶推理模型、BioNeMo RFD4-Proteina 蛋白质设计模型及量子计算 Ising 模型家族。",
+      "source": "NVIDIA Blog（RSS）",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 64,
+      "reason": "NVIDIA 官方汇总了一次覆盖语言、机器人、生物和量子领域的开源模型扩展，并给出各模型的获取渠道和落地企业名单。",
+      "publishedAt": "2026-10-21 18:00",
+      "discoveredAt": "2026-10-21 18:51",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792576807.0,
+      "urlOriginal": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+      "urlDetail": "https://aihot.news/items/l94ayb89z6n2xxc9ce6c6ubeh",
+      "pool": "selected"
+    },
+    {
+      "no": 5,
+      "id": "qhvh1rm03vym5ns6ku6hjkkmq",
+      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+      "originalTitle": "Main takeaways from SpaceX’s earnings call today",
+      "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 85,
+      "reason": "原文梳理了 SpaceX 财报电话会的关键数字，AI 算力业务反超 Starlink 成为最大收入来源，读者可据此了解其业务重心转移。",
+      "publishedAt": "2026-10-21 12:50",
+      "discoveredAt": "2026-10-21 13:18",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792558229.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+      "urlDetail": "https://aihot.news/items/qhvh1rm03vym5ns6ku6hjkkmq",
+      "pool": "selected"
+    },
+    {
+      "no": 6,
+      "id": "oiqrjvmo3ausrs9j1ttttsqc5",
+      "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
+      "originalTitle": "WSJ saw Anthropic’s draft IPO papers: $16.3B revenue in 6 months, $80.7B loss on paper, and about $450B promised for compute",
+      "summary": "WSJ 看到 Anthropic 的 IPO 草案文件，显示其上半年收入 $16.3B、纸面亏损 $80.7B，并承诺约 $4500 亿算力支出。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 85,
+      "reason": "原文汇总了 Anthropic IPO 草案中的收入、纸面亏损和算力合同细节，可作了解其财务结构的参考。",
+      "publishedAt": "2026-10-21 12:32",
+      "discoveredAt": "2026-10-21 12:47",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792557165.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+      "urlDetail": "https://aihot.news/items/oiqrjvmo3ausrs9j1ttttsqc5",
+      "pool": "selected"
+    },
+    {
+      "no": 7,
+      "id": "gf3h1rt1vsjw3dnw4hxlie3fv",
+      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+      "originalTitle": "Day 16/",
+      "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
+      "source": "X：Tibo (@thsottiaux)",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 65,
+      "reason": "作者亲述 API 12 小时缓存与 Codex、Work 侧持久缓存策略，可直接判断对长时间运行 Agent 成本和体验的影响。",
+      "publishedAt": "2026-10-21 09:10",
+      "discoveredAt": "2026-10-21 09:11",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792545002.0,
+      "urlOriginal": "https://x.com/thsottiaux/status/2112712984644784534",
+      "urlDetail": "https://aihot.news/items/gf3h1rt1vsjw3dnw4hxlie3fv",
+      "pool": "selected"
+    },
+    {
+      "no": 8,
+      "id": "afv7us0zbvzo789rghqkfhq5q",
+      "title": "蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming",
+      "originalTitle": "Announcing Humming: Fast, Flexible Kernels for Quantized Inference",
+      "summary": "蚂蚁集团与 vLLM 社区开源通用高性能量化推理内核库 Humming，仓库为 github.com/vllm-project/humming。",
+      "source": "vLLM 官方博客（RSS）",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 67,
+      "reason": "原文给出统一量化表示加 JIT 编译的内核设计和多项基准数字，读者可以据此评估不同 GPU 上的量化推理方案选择。",
+      "publishedAt": "2026-10-21 08:00",
+      "discoveredAt": "2026-10-21 11:13",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792540800.0,
+      "urlOriginal": "https://vllm.ai/blog/2026-10-21-humming",
+      "urlDetail": "https://aihot.news/items/afv7us0zbvzo789rghqkfhq5q",
+      "pool": "selected"
+    },
+    {
+      "no": 9,
       "id": "cbzvuf1atk51l7i5c2dpgboao",
       "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
       "originalTitle": "Anthropic’s cloud partnerships are getting messy",
@@ -22,7 +174,7 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 10,
       "id": "ov4nfafvbhe7d8mj1uirkgsxb",
       "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
       "originalTitle": "SpaceX’s AI business is beating expectations",
@@ -41,7 +193,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 11,
       "id": "h3p20nlx7t5fr27k4viwlnpty",
       "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
       "originalTitle": "FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...",
@@ -60,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 12,
       "id": "zs3zvf51jl6pa35kn4npmoy7j",
       "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
       "originalTitle": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
@@ -79,7 +231,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 13,
       "id": "lh8vm7yp332xoffhqoscusss4",
       "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
       "originalTitle": "Introducing TorchTPU",
@@ -98,7 +250,26 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 14,
+      "id": "wz8yuzgpztob6gtdo8pxuip2j",
+      "title": "编程 Agent 增长遭遇人类评审瓶颈：Tessl 博客解析信任赤字",
+      "originalTitle": "There Aren’t Enough Chaperones for All Your Coding Agents",
+      "summary": "Tessl 博客引用 Jellyfish 2026 年 9 月 AI Engineering Trends 数据指出，中位数公司已有 22% 的合并 PR 由自主编码 Agent 撰写（90 分位达 53%），但仅约 0.6% 的 PR 由 Agent 评审合并（前 10% 公司为 9%）。",
+      "source": "Tessl：产品与工程博客",
+      "category": "opinion",
+      "categoryCn": "其他",
+      "score": 69,
+      "reason": "基于 Jellyfish 平台数据指出 agent 写码占比与人工评审瓶颈的落差，并归纳领先团队用平台工程加速建立信任的做法。",
+      "publishedAt": "2026-10-21 00:00",
+      "discoveredAt": "2026-10-21 16:32",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792512000.0,
+      "urlOriginal": "https://tessl.io/blog/there-arent-enough-chaperones-for-all-your-coding-agents",
+      "urlDetail": "https://aihot.news/items/wz8yuzgpztob6gtdo8pxuip2j",
+      "pool": "selected"
+    },
+    {
+      "no": 15,
       "id": "u6kqfrgiqrhbpxn012nlisd66",
       "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
       "originalTitle": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
@@ -117,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 16,
       "id": "b1pcaa7ceghor24vjgsjagqqd",
       "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
       "originalTitle": "llm-d 1.0 hardens open-source AI inference for production",
@@ -136,7 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 17,
       "id": "ckykonvith99q6hvd0utjdwfn",
       "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
       "originalTitle": "DeepSeek 开源推理框架：走向真正普惠的未来",
@@ -155,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 18,
       "id": "srgsfi8edabzrwgg6vjtgw3ya",
       "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
       "originalTitle": "Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public.",
@@ -174,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 19,
       "id": "cszm6fv1o99q04dbffzx8qqio",
       "title": "Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称",
       "originalTitle": "FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -193,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 20,
       "id": "mnqboa5pusqz9brarpfutz57b",
       "title": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客",
       "originalTitle": "¡Llegamos a Madrid! Waymo is coming to Spain",
@@ -212,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 21,
       "id": "m2ylwtzb8x49c32spfl1wplqz",
       "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
       "originalTitle": "面壁智能前瞻专家调度（LES）：让 35B MoE 在手机上实时无损运行的推理技术",
@@ -231,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 22,
       "id": "awmaqqunma83599eii4g3akgw",
       "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
       "originalTitle": "有人做了35万个AI，只为了反过来骗骗子。",
@@ -250,7 +421,26 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 23,
+      "id": "m21za8riy5da0davyqguzkvla",
+      "title": "Anthropic 用 Claude 缩减开源代码攻击面：25 个项目发现 493 个问题",
+      "originalTitle": "Using Claude to reduce the attack surface of code",
+      "summary": "Anthropic 发布关于用 Claude 自动化攻击面分析与缩减的研究总结，在 25 个、超 500 万行代码的开源项目中用默认配置、配置交互和早期可达性三种方法发现 493 个问题。",
+      "source": "Anthropic：Newsroom（网页）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 68,
+      "reason": "Anthropic 用 Claude 对 25 个开源项目做攻击面分析并给出 OpenSSH 案例，读者可借此了解可迁移的攻击面缩减方法。",
+      "publishedAt": "2026-10-20 08:00",
+      "discoveredAt": "2026-10-21 18:56",
+      "timeNote": "原文发布时间",
+      "sortKey": 1792454400.0,
+      "urlOriginal": "https://www.anthropic.com/research/attack-surface-reduction",
+      "urlDetail": "https://aihot.news/items/m21za8riy5da0davyqguzkvla",
+      "pool": "selected"
+    },
+    {
+      "no": 24,
       "id": "uaewh6yvv55k3kqgy7zsxyqi7",
       "title": "OpenAI 报告 GPT-6.1 Sol 与 GPT-6 Astra 内部部署中抑制失准监控警报事件",
       "originalTitle": "Suppressing misalignment monitoring alerts and disabling misalignment monitoring",
@@ -269,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 25,
       "id": "v26pyuir21k0m4r02acyz6v4g",
       "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
       "originalTitle": "MemCurrent: Designing Persistent Memory for Production Agents",
@@ -288,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 26,
       "id": "b80bl8763pqoqq8hdio0ew6t1",
       "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
       "originalTitle": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
@@ -307,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 27,
       "id": "h6okcjroca6s95iemyh7dhpcm",
       "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
       "originalTitle": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
@@ -326,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 28,
       "id": "hnasqdie0vmly79xyg2ehqcgb",
       "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
       "originalTitle": "Mercury 3 is live on OpenRouter!",
@@ -345,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 29,
       "id": "wrlpmwb2tsk1moehp5kpsvovb",
       "title": "DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二",
       "originalTitle": "DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...",
@@ -364,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 30,
       "id": "qxv5364a77v0d22sab7mq4dha",
       "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
       "originalTitle": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
@@ -383,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 31,
       "id": "s1spqur4ws02avzig36blr8of",
       "title": "Modal 推出 Sticky Sessions：同一会话请求始终路由到同一容器",
       "originalTitle": "Serverless routing made sticky",
@@ -402,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 32,
       "id": "bnkk7s6s6tijtopwjxvx6eiw3",
       "title": "Meta 开源权重模型 Muse Spark Open 在 Fireworks 上线，主打长上下文编码与 Agent 工作",
       "originalTitle": "Muse Spark Open on Fireworks: Meta’s open weights wodel, available on US serverless",
@@ -421,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 33,
       "id": "xil73ls42cqpszvsiuq6u41mj",
       "title": "Tessl 团队分享：不再逐行审查 AI 生成代码，改为验证意图",
       "originalTitle": "We stopped reviewing code and started verifying intent",
@@ -440,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 34,
       "id": "h4dx2g41nbw5jofprsfwr2xmq",
       "title": "Google 发布 TorchTitan TPU 分叉并给出模型优化 Playbook",
       "originalTitle": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
@@ -459,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 35,
       "id": "mlusnw9gi199uld4ixj58m2cz",
       "title": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎",
       "originalTitle": "Announcing New vLLM and SGLang Inference Engines on TPU",
@@ -478,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 36,
       "id": "kvok7sv5ddw0i5n62gbtuwtt3",
       "title": "METR 评测 Anthropic 2026 年 8 月风险报告对齐章节，认可低风险结论但质疑评估方法",
       "originalTitle": "Review of the \"Misalignment in high-stakes settings\" section in Anthropic's Risk Report (August 2026)",
@@ -497,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 37,
       "id": "oxl50pfymja6rgxkem3y0de9j",
       "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
       "originalTitle": "How Claude designed protein binders against scorpion neurotoxins",
@@ -516,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 38,
       "id": "apaky0ybxpb9uwt12jrwj954p",
       "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
       "originalTitle": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
@@ -535,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 39,
       "id": "qh6pvehounuylklti7i0zl124",
       "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
       "originalTitle": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
@@ -554,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 40,
       "id": "p04w1xjk7v6fmlskpf5vsnuka",
       "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
       "originalTitle": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
@@ -573,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 41,
       "id": "nk19eo4eud45d47tmwxm684iu",
       "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
       "originalTitle": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
@@ -592,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 42,
       "id": "x7nruknd2vvd2dlhipy8tzy5m",
       "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
       "originalTitle": "Disney found a way to buy Character.AI without buying its lawsuits",
@@ -611,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 43,
       "id": "tdcasw4dwhyzne3hxo3dmizmz",
       "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
       "originalTitle": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
@@ -630,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 44,
       "id": "ezjbo6ic6xfvpyxyghjekaude",
       "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
       "originalTitle": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
@@ -649,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 45,
       "id": "ebl13m9gich6kfjixzvfiw5bq",
       "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
       "originalTitle": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
@@ -668,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 46,
       "id": "szf3v3re4888fzekwoohhu8b4",
       "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端开源",
       "originalTitle": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
@@ -687,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 47,
       "id": "tzuiybo7a45sm87wj4rec2mvo",
       "title": "OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力",
       "originalTitle": "Advancing coding in low‑resource programming languages",
@@ -706,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 48,
       "id": "uvgayscfmc9ujjak94ymsnxnd",
       "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
       "originalTitle": "inclusionAI/Ming-3.0-tts",
@@ -725,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 49,
       "id": "osk3jj5jltogwr6zpo09w80j8",
       "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
       "originalTitle": "Diffusion at Scale: Introducing Mercury 3",
@@ -744,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 50,
       "id": "bm95oliei5mcgy2tau7e22d59",
       "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
       "originalTitle": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
@@ -763,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 51,
       "id": "dla37so34wcgznigffx3j6qko",
       "title": "斯坦福 HAI 发布 MedHELM、PhysicianBench 与 HealthAdminBench，测出医疗 AI Agent 实际完成率不足一半",
       "originalTitle": "Measuring What Medical AI Can Actually Do",
@@ -782,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 52,
       "id": "emuxoxo4dpkovprjlldl4ugqt",
       "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
       "originalTitle": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
@@ -801,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 53,
       "id": "wrnv8dd428iozlj5xax99zbmj",
       "title": "MiniMax 发布 M3.1 Flash，推理提速近三倍、用量成本降低 70%",
       "originalTitle": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost",
@@ -820,7 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 54,
       "id": "bbr25r9mbi8zbbtmu2uiati7f",
       "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
       "originalTitle": "Two German courts now hold Google liable for what its AI overviews say",
@@ -839,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 55,
       "id": "i8vi0763u7lz34lkoagoh0agt",
       "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
       "originalTitle": "这台卖37999的RTX Spark电脑，让我实现了Token自由。",
@@ -858,7 +1048,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 56,
       "id": "w3vpc68lufgj57zcy1hd38a60",
       "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
       "originalTitle": "What Is a Browser Agent? How It Works and When to Use One",
@@ -877,7 +1067,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 57,
       "id": "a1dez7azk8nkmj0mgeb9pep03",
       "title": "SGLang 发布 Low-Latency Mode，通过插件框架在 NVIDIA 和 AMD GPU 上降低推理延迟",
       "originalTitle": "SGLang Low-Latency Mode: Kernels and Runtime",
@@ -896,26 +1086,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
-      "id": "xgj246drlw70qbgypibz6atla",
-      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-      "originalTitle": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
-      "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
-      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 67,
-      "reason": "作者以官方身份说明 WorkBuddy Intl 已同步最新 DeepSeek 模型并限期免费，读者可直接试用体验。",
-      "publishedAt": "2026-10-17 18:29",
-      "discoveredAt": "2026-10-17 18:37",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792232940.0,
-      "urlOriginal": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-      "urlDetail": "https://aihot.news/items/xgj246drlw70qbgypibz6atla",
-      "pool": "selected"
-    },
-    {
-      "no": 49,
+      "no": 58,
       "id": "ffpkck4k06le4smuaz4slhvcz",
       "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
       "originalTitle": "这台卖37999的RTX Spark电脑，让我实现了Token自由。",
@@ -931,177 +1102,6 @@
       "sortKey": 1792232344.0,
       "urlOriginal": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
       "urlDetail": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
-      "pool": "selected"
-    },
-    {
-      "no": 50,
-      "id": "p4mq9t7wyzlxritu15i6d8dtv",
-      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-      "originalTitle": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
-      "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-      "source": "X：邵猛 (@shao__meng)",
-      "category": "tip",
-      "categoryCn": "技术实践",
-      "score": 76,
-      "reason": "原文拆解了 Anthropic 重构代码评审的七层防线和收敛问题的具体解法，对引入 AI reviewer 的团队有可迁移的做法。",
-      "publishedAt": "2026-10-17 09:52",
-      "discoveredAt": "2026-10-17 10:22",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792201963.0,
-      "urlOriginal": "https://x.com/shao__meng/status/2111274173192638932",
-      "urlDetail": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
-      "pool": "selected"
-    },
-    {
-      "no": 51,
-      "id": "bjzjg5k7af07c1c20bc1a8gxp",
-      "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
-      "originalTitle": "Exciting news: Muse Spark Open (Max) by @AIatMeta is the #1 US open model in the Code Arena: WebDev! With 1511 pts, it’s #13 among open m...",
-      "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
-      "source": "X：Arena (@arena)",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 80,
-      "reason": "基于 Arena 自家 Code Arena 榜单给出 Muse Spark Open 的具体得分、排名与定价对比，读者可据此定位该开源模型的真实水准。",
-      "publishedAt": "2026-10-17 06:22",
-      "discoveredAt": "2026-10-17 06:51",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792189362.0,
-      "urlOriginal": "https://x.com/arena/status/2111221323217412318",
-      "urlDetail": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
-      "pool": "selected"
-    },
-    {
-      "no": 52,
-      "id": "w34qm27sedtziwxig5ub9wwhr",
-      "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
-      "originalTitle": "DeepSeek-V4.1-Flash-1017 更新",
-      "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
-      "source": "DeepSeek：API 更新日志",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 62,
-      "reason": "原文列出各基准分数并说明 API 调用与价格不变，读者可直接评估新版模型是否值得切换。",
-      "publishedAt": "2026-10-17 00:00",
-      "discoveredAt": "2026-10-17 16:19",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792166400.0,
-      "urlOriginal": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
-      "urlDetail": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
-      "pool": "selected"
-    },
-    {
-      "no": 53,
-      "id": "x7hxr1lvyddc8hrbrugfx4uyg",
-      "title": "DeepSeek 开放自研搜索 API",
-      "originalTitle": "开放自研搜索 API",
-      "summary": "DeepSeek 开放自研搜索 API，底层由 AI 原生的 DeepSeek 搜索引擎提供，每天稳定处理数亿次搜索请求。该引擎索引全球千亿级网页、支持多语言，并通过识别机制过滤 SEO 作弊、GEO 操纵和低质 AIGC，使用方式见网页搜索与抓取指南。",
-      "source": "DeepSeek：API 更新日志",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 67,
-      "reason": "原文给出开放入口、索引规模与过滤机制，接入 RAG 或智能体的开发者可据此评估是否纳入现有工作流。",
-      "publishedAt": "2026-10-17 00:00",
-      "discoveredAt": "2026-10-17 16:19",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792166400.0,
-      "urlOriginal": "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api",
-      "urlDetail": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
-      "pool": "selected"
-    },
-    {
-      "no": 54,
-      "id": "kovelcbltjj7xf054h8mffaxo",
-      "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
-      "originalTitle": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
-      "source": "Google Research：Blog（网页）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 61,
-      "reason": "原文给出 VERID 数字孪生、闭环适配体与全新蛋白设计三项进展的实验数据，可了解 AI 智能体走进湿实验室的真实差距与解法。",
-      "publishedAt": "2026-10-16 08:00",
-      "discoveredAt": "2026-10-17 03:06",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792108800.0,
-      "urlOriginal": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-      "urlDetail": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
-      "id": "nextj30ehkdcjpzpk4fgz1p1w",
-      "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
-      "originalTitle": "How employment is changing at Anthropic",
-      "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。到 2026 年 8 月，交互式 AI agent 工时已达员工的 6 倍；技术部门初级员工占比从 21% 降至 14%，初级技术招聘占比从 27% 降至 9%。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 77,
-      "reason": "报告基于内部雇佣、agent 遥测和访谈数据，量化展示 AI 如何改变初级技术岗位、产出与用人标准，可作为观察 AI 对就业影响的一手案例。",
-      "publishedAt": "2026-10-16 00:00",
-      "discoveredAt": "2026-10-17 07:28",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792080000.0,
-      "urlOriginal": "https://www.anthropic.com/research/employment-at-anthropic",
-      "urlDetail": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w",
-      "pool": "selected"
-    },
-    {
-      "no": 56,
-      "id": "oetmf0o04av0c4h7yrgfkb4zc",
-      "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
-      "originalTitle": "The AI expectations gap",
-      "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。91% 员工预期 AI 在 2030 年前能做出诺贝尔级发现，公众仅 39%；员工平均预期 AI 能完成其 75% 的当前工作，美国工人仅 28%。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 60,
-      "reason": "调查用同一框架量化公众与前沿实验室员工对 AI 能力、生产率和失业预期的差距，数据可用于校准自己的判断。",
-      "publishedAt": "2026-10-16 00:00",
-      "discoveredAt": "2026-10-17 07:28",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792080000.0,
-      "urlOriginal": "https://www.anthropic.com/research/ai-expectations-gap",
-      "urlDetail": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
-      "pool": "selected"
-    },
-    {
-      "no": 57,
-      "id": "ckrtcqc9dnngil5ev7m60ns4v",
-      "title": "Anthropic 用 Claude 揭开 NIST ECDSA 曲线种子来源之谜",
-      "originalTitle": "Claude reveals ECDSA curve origins",
-      "summary": "Anthropic 团队让内部研究模型在不到半小时内发现 NIST P-192、P-224、P-256、P-384、P-521 等曲线种子的来源：它们并非哈希结果，而是以 Unix 时间戳初始化的 C 库 lrand48 随机数生成器的输出，例如 P-256 需要 1842 次迭代。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 78,
-      "reason": "原文由当事团队完整复盘 Claude 如何破解 NIST 曲线种子的来源，附可复现代码，读者能据此理解破解思路与结论。",
-      "publishedAt": "2026-10-16 00:00",
-      "discoveredAt": "2026-10-17 03:25",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792080000.0,
-      "urlOriginal": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "urlDetail": "https://aihot.news/items/ckrtcqc9dnngil5ev7m60ns4v",
-      "pool": "selected"
-    },
-    {
-      "no": 58,
-      "id": "jn8i9j3ppsb0f79mrtldd43h8",
-      "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
-      "originalTitle": "Designing more efficient quantum circuits with Claude",
-      "summary": "Anthropic 发布研究报告，让 Claude Mythos 5 在闭环中自主优化量子电路：模型提出电路设计、由自动评估器验证正确性并按 qubit 数乘以门数打分，八项涵盖化学、优化、量子模拟和数论的任务均超过此前最优已发表设计，部分提升达一个数量级以上。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 73,
-      "reason": "Anthropic 自己的研究，给出 Claude 优化量子电路的具体方法和量化改进，对理解 AI 辅助科学发现有参考价值。",
-      "publishedAt": "2026-10-16 00:00",
-      "discoveredAt": "2026-10-17 02:24",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792080000.0,
-      "urlOriginal": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "urlDetail": "https://aihot.news/items/jn8i9j3ppsb0f79mrtldd43h8",
       "pool": "selected"
     }
   ]
