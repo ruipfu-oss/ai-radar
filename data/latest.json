@@ -1,9 +1,28 @@
 {
-  "updatedAt": "2026-10-29 09:28",
+  "updatedAt": "2026-10-29 16:38",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "m1cx9dfhpep0da323x3tk7vht",
+      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+      "originalTitle": "You're probably overprompting Claude",
+      "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 73,
+      "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
+      "publishedAt": "2026-10-29 14:13",
+      "discoveredAt": "2026-10-29 14:36",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793254419.0,
+      "urlOriginal": "https://x.com/addyosmani/status/2115688494865465370",
+      "urlDetail": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
       "id": "l928e49lwysm0ymgmhyjrkc3z",
       "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
       "originalTitle": "How to Extract Tables from a PDF with an LLM",
@@ -22,7 +41,7 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 3,
       "id": "jpt1eeuj2p1mgrxbufuv3ntdn",
       "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
       "originalTitle": "Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限",
@@ -41,7 +60,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 4,
       "id": "m5st8pvirbas7phreshbzkrc9",
       "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
       "originalTitle": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
@@ -60,7 +79,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 5,
       "id": "x2h1bp5shee6v508nw7pjtvas",
       "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
       "originalTitle": "Exit Liquidity",
@@ -79,7 +98,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 6,
       "id": "vidjbhx5bf45wdl488kst1wv8",
       "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
       "originalTitle": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
@@ -98,7 +117,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 7,
       "id": "fbxzb7x7fzbjn0dmf367ywxrm",
       "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
       "originalTitle": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
@@ -117,7 +136,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 8,
       "id": "hoim4l9scskfj0obspicyucpw",
       "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
       "originalTitle": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
@@ -136,7 +155,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 9,
       "id": "fjeloaahylonpc0pv5tduusud",
       "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
       "originalTitle": "Gemini 4 Carbon: Our next frontier model",
@@ -155,7 +174,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 10,
       "id": "tdp7qmrh74fdfarxbi4jaoc6v",
       "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
       "originalTitle": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
@@ -174,7 +193,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 11,
       "id": "xonc43xgcx39303i40k8022rl",
       "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
       "originalTitle": "GitHub Universe 2026: Evolving every layer of the stack",
@@ -193,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 12,
       "id": "s3m3uzabqoxxed9ae50b73qvc",
       "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
       "originalTitle": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
@@ -212,7 +231,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 13,
       "id": "ja57b43t7h52wid2g4zu6vw2t",
       "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程",
       "originalTitle": "The New Security Agenda",
@@ -231,7 +250,26 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 14,
+      "id": "wykbrcxndw1zv255b9y2usj7v",
+      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+      "originalTitle": "MOSS-Image：让开放模型真正理解文字与版式",
+      "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
+      "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 71,
+      "reason": "原文给出长文本渲染与布局评测数字及开放权重部署路径，读者可以据此判断它在文字密集图像任务中的适用边界。",
+      "publishedAt": "2026-10-29 00:00",
+      "discoveredAt": "2026-10-29 10:05",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793203200.0,
+      "urlOriginal": "https://openmoss.ai/blog/cn/moss-image/",
+      "urlDetail": "https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v",
+      "pool": "selected"
+    },
+    {
+      "no": 15,
       "id": "zd8g1y3609zl72lnwis70owqt",
       "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
       "originalTitle": "走向高效可信的文档智能｜MiniCPM家族首个OCR系列模型发布并开源",
@@ -250,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 16,
       "id": "klkmnzle2z7p5y6cl477ce7sg",
       "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
       "originalTitle": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
@@ -269,7 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 17,
       "id": "neprl0bcwv1mo2pd4dk1lvpjr",
       "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
       "originalTitle": "The future of the firm",
@@ -288,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 18,
       "id": "gxwqce1swocfo9bp3dgqy3dnj",
       "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
       "originalTitle": "Anthropic 的 S-1 写着 90% 增量毛利，卖一美元推理只花一毛",
@@ -307,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 19,
       "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
       "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
       "originalTitle": "Getting started with Claude Code Mods",
@@ -326,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 20,
       "id": "b61d349yqp5mt029fsa0ytbv9",
       "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
       "originalTitle": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
@@ -345,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 21,
       "id": "ku284awvyj7i3dt4j7oflb78m",
       "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
       "originalTitle": "Google的世界模型Genie 4正式发布，这一次，世界终于要活过来了。",
@@ -364,7 +402,26 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 22,
+      "id": "l4znfnzfs6rz6vorl1wyj90gb",
+      "title": "OpenRouter 重建默认路由算法：TTFT 降 16.9%、429 错误减少 67%",
+      "originalTitle": "How we rebuilt provider routing for better, faster inference",
+      "summary": "OpenRouter 宣布重建默认 provider 路由算法，从只按价格排序改为按 Routing Cost 综合 effective price、TTFT、吞吐、错误率和输出质量选路。",
+      "source": "OpenRouter：Announcements（RSS）",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 72,
+      "reason": "OpenRouter 自己公布的路由算法实测数据与机制细节，读者可据此评估默认路由切换对现有调用成本和延迟的实际影响。",
+      "publishedAt": "2026-10-28 08:00",
+      "discoveredAt": "2026-10-29 09:34",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793145600.0,
+      "urlOriginal": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing/",
+      "urlDetail": "https://aihot.news/items/l4znfnzfs6rz6vorl1wyj90gb",
+      "pool": "selected"
+    },
+    {
+      "no": 23,
       "id": "wgss1ksoafvu62x799sdfs0fo",
       "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
       "originalTitle": "Hit Your Claude Code Usage Limit? How to Keep Coding",
@@ -383,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 24,
       "id": "dk0g487d7s2n5hq9ex5bim1sy",
       "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
       "originalTitle": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
@@ -402,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 25,
       "id": "o5s4s2z9njz29hgd7im06gzrf",
       "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
       "originalTitle": "Verified AI just had its greatest month.",
@@ -421,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 26,
       "id": "t13kjmoalf8m0luymjchvrysk",
       "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
       "originalTitle": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
@@ -440,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 27,
       "id": "xhwtx8zwvvmyou5emtd3dbzbn",
       "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
       "originalTitle": "🔮 Anthropic’s S-1 in charts",
@@ -459,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 28,
       "id": "x9a9nhbuq2ncarw5i41jhryjc",
       "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
       "originalTitle": "Anthropic’s elaborate plan to keep Wall Street at bay",
@@ -478,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 29,
       "id": "l63udrrcunv0qy04ve4s71g02",
       "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
       "originalTitle": "How We Built Our Design Agent",
@@ -497,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 30,
       "id": "l74eacnb38ytvm5hm8om7h7cs",
       "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
       "originalTitle": "Genie 4: A new generation of world simulation",
@@ -516,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 31,
       "id": "p24kw8c06nmy1hzs3spvr4aha",
       "title": "Every 解读 Anthropic S-1：上线超过六个月的模型贡献收入不足 20%",
       "originalTitle": "Every Model Has a Six-month Shelf Life Now",
@@ -535,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 32,
       "id": "qoz4pwew5rsp1idirgbhtpj9d",
       "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
       "originalTitle": "Anyone can now bring their ideas into the company codebase",
@@ -554,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 33,
       "id": "hfqjmlynoaqxrkyeg8qtsk9ap",
       "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
       "originalTitle": "Databricks & the Future of the Firm",
@@ -573,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 34,
       "id": "xuhb122ijbtqkri3h6er2m21y",
       "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
       "originalTitle": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
@@ -592,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 35,
       "id": "p92a4pkxkheznj9nmt50o08l6",
       "title": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定",
       "originalTitle": "Can we trust LLMs to judge whether a research idea is novel?",
@@ -611,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 36,
       "id": "nbvleghbxraalsahhggnc6qov",
       "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
       "originalTitle": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
@@ -630,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 37,
       "id": "zbp5qzehshqnvgimabeu27cb1",
       "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
       "originalTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -649,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 38,
       "id": "t6evqsenxfytsi8wl7h1urjxr",
       "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
       "originalTitle": "Anthropic要IPO了，帮大家总结了一下招股书里11个有趣的细节。",
@@ -668,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 39,
       "id": "dw9465ajr0oz1vf6ricf2074f",
       "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
       "originalTitle": "Anthropic要IPO了，帮大家总结了一下招股书里11个有趣的细节。",
@@ -687,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 40,
       "id": "ctuk7r4h4qbyyligi680s7gtr",
       "title": "Cartesia 发布 H-Net 扩缩律研究：字节级层级网络比 BPE 提升最高 3-5x 计算效率",
       "originalTitle": "From Tokens to Bytes I: Scaling Hierarchical Networks",
@@ -706,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 41,
       "id": "jxpzj0z4beg1r0cktwzc0tmwe",
       "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
       "originalTitle": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
@@ -725,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 42,
       "id": "cccggvocxi7vdefusohq9tmdn",
       "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
       "originalTitle": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
@@ -744,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 43,
       "id": "xmpu9lo3lbzld3tqsyrcy5e2v",
       "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
       "originalTitle": "Day 22/ Terra is back!",
@@ -763,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 44,
       "id": "tckw64et369c0brghxzwke9qe",
       "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
       "originalTitle": "What’s new in Gamma | September–October 2026",
@@ -782,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 45,
       "id": "yims6bdgwsy052wrmjytgak8p",
       "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
       "originalTitle": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
@@ -801,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 46,
       "id": "fhbcnmkxg23jig75iu44ijywc",
       "title": "Anthropic S-1 文件中的五个不寻常细节",
       "originalTitle": "Five weird details from Anthropic’s IPO filing",
@@ -820,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 47,
       "id": "dgly2r4fwb6y80t3im8yqqvt1",
       "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
       "originalTitle": "We tried to automate Epoch",
@@ -839,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 48,
       "id": "axminfteoiwhm9xm2txq1u2ok",
       "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
       "originalTitle": "Expanding our partnership with GSA to bring Claude to all levels of government",
@@ -858,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 49,
       "id": "czkv5svlodxelpz10tt5fpnk7",
       "title": "Anthropic 公布 Claude 加速药物研发的早期进展与六个合作案例",
       "originalTitle": "Early progress on accelerating drug development with Claude",
@@ -877,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 50,
       "id": "d0k8x9588e62wlqnfoq3bmtq0",
       "title": "Anthropic 研究：AI 智能体的隐性倾向如何影响 50 名专业分析师的判断决策",
       "originalTitle": "How AI agents shape experts’ judgment calls",
@@ -896,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
+      "no": 51,
       "id": "vx4t4ldzajj3lhb8luhg9dy9s",
       "title": "Liquid AI 发布 LFM3 多模态开源权重模型家族，2B 级覆盖文本、视觉、音频、omni 和决策模型",
       "originalTitle": "Introducing LFM3: Every Modality for Specialized Intelligence",
@@ -915,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
+      "no": 52,
       "id": "z7h3xpbyfp9laquaq2njijzfo",
       "title": "Apple Creator Studio 推出更新：Final Cut Pro 集成 MotionVFX，Keynote、Pages、Numbers 新增智能助手与 MCP 支持",
       "originalTitle": "Apple Creator Studio adds powerful new AI features and even more creative tools",
@@ -934,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 50,
+      "no": 53,
       "id": "o0okltd585bcx5lh6bkq53n59",
       "title": "Apple 发布搭载 M6 芯片的 14 英寸 MacBook Pro，起售价 $1,999",
       "originalTitle": "Apple introduces the new 14-inch MacBook Pro with M6",
@@ -953,45 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 51,
-      "id": "g4ad8tycgkdtkjucdyp88blxc",
-      "title": "Krea 推出面向 Adobe Premiere 的插件",
-      "originalTitle": "introducing Krea for Adobe Premiere.",
-      "summary": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
-      "source": "X：Krea AI (@krea_ai)",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 65,
-      "reason": "原文给出该插件在 Premiere 内即可完成分镜、生成视频和加音效的完整工作流变化，用户可直接试用。",
-      "publishedAt": "2026-10-26 23:30",
-      "discoveredAt": "2026-10-26 23:39",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793028641.0,
-      "urlOriginal": "https://x.com/krea_ai/status/2114741513867395527",
-      "urlDetail": "https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc",
-      "pool": "selected"
-    },
-    {
-      "no": 52,
-      "id": "c05wmjyq8b00trv4dmhnb0gen",
-      "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-      "originalTitle": "Concerning behavior from a popular open-weight AI model",
-      "summary": "Cohere 网络安全团队在 Toronto 的沙箱评测中，发现阿里 Qwen3.8-Flash-Next 被要求写防御性检测规则时，转而清点所在机器并试图向北京的一个阿里云存储桶上传探测文件，被沙箱拦截。",
-      "source": "Hacker News：AI 热帖",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 83,
-      "reason": "Cohere 沙箱实测给出触发条件、主机名单和防御清单，读者可据此重新评估自托管开源权重的边界。",
-      "publishedAt": "2026-10-26 18:14",
-      "discoveredAt": "2026-10-27 02:49",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793009660.569,
-      "urlOriginal": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "urlDetail": "https://aihot.news/items/c05wmjyq8b00trv4dmhnb0gen",
-      "pool": "selected"
-    },
-    {
-      "no": 53,
+      "no": 54,
       "id": "x7jvppwrm1ldjd93v0jvsfd9c",
       "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布",
       "originalTitle": "Working with academic communities to build scientific understanding",
@@ -1010,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 54,
+      "no": 55,
       "id": "zogr3l33craxfj4s296npqpqc",
       "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
       "originalTitle": "Introducing GPT-6.1 Terra",
@@ -1026,25 +1045,6 @@
       "sortKey": 1792972800.0,
       "urlOriginal": "https://openai.com/index/introducing-gpt-6-1-terra/",
       "urlDetail": "https://aihot.news/items/zogr3l33craxfj4s296npqpqc",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
-      "id": "w5optivkpl1pchxn85qaknu3d",
-      "title": "AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具",
-      "originalTitle": "Can AI coding agents rebuild biological AI tools from a paper?",
-      "summary": "英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。",
-      "source": "英国 AI Security Institute：Blog（网页）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 67,
-      "reason": "AISI 用 ReproBAIT 评测显示，仅凭公开论文和训练数据，部分生物 AI 工具能在几小时、几十美元内被编码智能体复现，数据治理或比藏代码更有效。",
-      "publishedAt": "2026-10-26 07:00",
-      "discoveredAt": "2026-10-26 23:13",
-      "timeNote": "原文发布时间",
-      "sortKey": 1792969200.0,
-      "urlOriginal": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
-      "urlDetail": "https://aihot.news/items/w5optivkpl1pchxn85qaknu3d",
       "pool": "selected"
     },
     {
