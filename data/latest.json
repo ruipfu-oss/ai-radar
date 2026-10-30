@@ -1,9 +1,142 @@
 {
-  "updatedAt": "2026-10-30 19:18",
+  "updatedAt": "2026-10-31 06:37",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "fxxkgtzpf2pb8xjnhu4jtis0b",
+      "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
+      "originalTitle": "Cracks are emerging in the AI spending boom",
+      "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
+      "source": "TechCrunch：AI（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 83,
+      "reason": "原文汇总四大科技公司的资本开支与自由现金流数据，可帮读者理解投资者为何开始担忧 AI 基建投入的回报。",
+      "publishedAt": "2026-10-31 05:17",
+      "discoveredAt": "2026-10-31 05:44",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793395060.0,
+      "urlOriginal": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "urlDetail": "https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "cms82puwtmpssdpbjmajoopr9",
+      "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
+      "originalTitle": "This incredible. Gemma 4 became the first LLM to run in space?",
+      "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
+      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 69,
+      "reason": "Google 在轨道卫星上启动 TPU 并让模型完成推理，展示了天基算力实验从发射走向实际运行的进展。",
+      "publishedAt": "2026-10-31 02:28",
+      "discoveredAt": "2026-10-31 02:40",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793384880.0,
+      "urlOriginal": "https://x.com/_philschmid/status/2116235686445502608",
+      "urlDetail": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
+      "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
+      "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
+      "originalTitle": "Ultrathink",
+      "summary": "Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。即日起多数老订阅者的认证 Ultra 账号取消 5 小时限制，新账号保留临时限制以防欺诈滥用，周限额不变。",
+      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 69,
+      "reason": "Anthropic 员工确认订阅改名与 Ultra 取消 5 小时限制的细节，订阅者可据此确认是否受影响。",
+      "publishedAt": "2026-10-31 01:42",
+      "discoveredAt": "2026-10-31 02:08",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793382146.0,
+      "urlOriginal": "https://x.com/adocomplete/status/2116224220539883992",
+      "urlDetail": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
+      "pool": "selected"
+    },
+    {
+      "no": 4,
+      "id": "v4uwaucyf64u7bkzsyvri08w4",
+      "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
+      "originalTitle": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+      "summary": "Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。",
+      "source": "The Decoder：AI News（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 80,
+      "reason": "Reddit CEO 的一手数据和判断，说明 Google AI 搜索如何切断内容网站的流量，对依赖搜索的业务有普遍参考意义。",
+      "publishedAt": "2026-10-31 01:15",
+      "discoveredAt": "2026-10-31 01:59",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793380524.0,
+      "urlOriginal": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
+      "urlDetail": "https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4",
+      "pool": "selected"
+    },
+    {
+      "no": 5,
+      "id": "l7y0gkoqx56dt6jxv6x0mcl0h",
+      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
+      "originalTitle": "US tech stocks see sharp falls over AI cost fears",
+      "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
+      "source": "Hacker News：AI 热帖",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 80,
+      "reason": "报道整合了本周多家巨头的股价、市值损失和支出数字，可看出市场对 AI 投入回报的担忧正在集中兑现。",
+      "publishedAt": "2026-10-30 22:50",
+      "discoveredAt": "2026-10-31 02:08",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793371837.797,
+      "urlOriginal": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "urlDetail": "https://aihot.news/items/l7y0gkoqx56dt6jxv6x0mcl0h",
+      "pool": "selected"
+    },
+    {
+      "no": 6,
+      "id": "hfhskyex3cjrs3huvpmi1z7bg",
+      "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
+      "originalTitle": "Our customers’ ambition is accelerating our growth",
+      "summary": "Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月，快于此前六个月的翻倍节奏。",
+      "source": "Sierra：Blog（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 64,
+      "reason": "公司官方披露 ARR 增长节奏和按结果计费、Poppy 开放标准等经营思路，读者可据此理解 Agent 商业化的一种路径。",
+      "publishedAt": "2026-10-30 20:50",
+      "discoveredAt": "2026-10-30 21:04",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793364600.0,
+      "urlOriginal": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
+      "urlDetail": "https://aihot.news/items/hfhskyex3cjrs3huvpmi1z7bg",
+      "pool": "selected"
+    },
+    {
+      "no": 7,
+      "id": "nxkr9ex5tfbhfhw1gvj9wsjuz",
+      "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
+      "originalTitle": "AI can turn public security fixes into working exploits before users receive an update",
+      "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
+      "source": "Epoch AI：Gradient Updates（RSS）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 77,
+      "reason": "Epoch AI 用自建实验给出量化数据，展示开源权重模型如何在补丁窗口期内低成本复现漏洞利用，并给出缩短发布周期的防御建议。",
+      "publishedAt": "2026-10-30 20:07",
+      "discoveredAt": "2026-10-30 20:38",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793362036.0,
+      "urlOriginal": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+      "urlDetail": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
+      "pool": "selected"
+    },
+    {
+      "no": 8,
       "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
       "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
       "originalTitle": "We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplac...",
@@ -22,7 +155,7 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 9,
       "id": "ykvaq4vx3ydt23josezzan62r",
       "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
       "originalTitle": "如何用 Kimi 创作 3D 作品？官方教程来了",
@@ -41,7 +174,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 10,
       "id": "kzenjo9w2bfhpsr0ub1gr95xj",
       "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
       "originalTitle": "What Google and Reddit's bad days have in common",
@@ -60,7 +193,45 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 11,
+      "id": "oas684tt9kpeds9cq7vgjvo1x",
+      "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
+      "originalTitle": "Fair use benefits everyone",
+      "summary": "OpenAI 整理了在《纽约时报》诉讼中提交给法院的多份支持合理使用的法庭之友意见摘要，作者包括图书馆协会、法律学者、独立创作者和美国政府等。各意见书主张 AI 训练具有转换性、不构成版权法认可的市场损害，并警告限缩合理使用将阻碍科研进展与美国经济繁荣；完整文件可在法院公开卷宗查阅。",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 62,
+      "reason": "OpenAI 汇编多领域法庭之友意见，读者可据此了解 AI 训练合理使用抗辩的核心论点与《纽约时报》诉讼的争议焦点。",
+      "publishedAt": "2026-10-30 08:00",
+      "discoveredAt": "2026-10-31 06:20",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793318400.0,
+      "urlOriginal": "https://openai.com/index/fair-use-benefits-everyone",
+      "urlDetail": "https://aihot.news/items/oas684tt9kpeds9cq7vgjvo1x",
+      "pool": "selected"
+    },
+    {
+      "no": 12,
+      "id": "qit1hgequ8pknedqqvuei5wfh",
+      "title": "Gemini API 的 Computer Use 工具正式开放（GA）",
+      "originalTitle": "October 30, 2026",
+      "summary": "Google 于 10 月 30 日宣布 Gemini API 的 Computer Use 工具正式可用（GA），覆盖 Interactions 和 GenerateContent 两套 API。",
+      "source": "Gemini API：更新日志（网页）",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 63,
+      "reason": "官方更新日志确认 Computer Use 结束预览进入正式可用，关注 Gemini API 智能体操作能力的读者可查此入口。",
+      "publishedAt": "2026-10-30 08:00",
+      "discoveredAt": "2026-10-30 20:42",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793318400.0,
+      "urlOriginal": "https://ai.google.dev/gemini-api/docs/changelog#10-30-2026",
+      "urlDetail": "https://aihot.news/items/qit1hgequ8pknedqqvuei5wfh",
+      "pool": "selected"
+    },
+    {
+      "no": 13,
       "id": "gzcwy89nkjreenv5eu1qaysdi",
       "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
       "originalTitle": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
@@ -79,7 +250,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 14,
       "id": "fxmexzrmo7pw52vc5j6ej17kl",
       "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
       "originalTitle": "AWS will be a $1T business, Jassy says — but first, it will spend big",
@@ -98,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 15,
       "id": "puushryi79v0flh2um3a70xnw",
       "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
       "originalTitle": "Google value plunges by $500B as AI fears rattle Wall Street",
@@ -117,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 16,
       "id": "z9kqlhsgiz11fvlk3aodm6seg",
       "title": "Figma 讲解如何训练专用画布编辑模型",
       "originalTitle": "How we’re training a Figma-fluent editing model",
@@ -136,26 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
-      "id": "op2kjf327vilvhbxkjicxg5ec",
-      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-      "originalTitle": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
-      "source": "TechCrunch：AI（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 77,
-      "reason": "Reddit 财报披露搜索流量下滑与转向登录制策略，读者可以借此观察 AI 搜索对开放网络的商业冲击。",
-      "publishedAt": "2026-10-30 04:08",
-      "discoveredAt": "2026-10-30 04:32",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793304511.0,
-      "urlOriginal": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "urlDetail": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
-      "pool": "selected"
-    },
-    {
-      "no": 9,
+      "no": 17,
       "id": "eq47lph0rzobf8cr950saiu8r",
       "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
       "originalTitle": "@pika_labs 在Minimax的H3上做了后训练，推出了Pika H3 Flex，把视频生成的采样步数从50步压缩到了6步，生成时间大大降低，而且质量甚至还有提升，非常酷的工作，并且直接开源了。",
@@ -174,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 18,
       "id": "wb6emxuh5ob2wh96egtwawgfu",
       "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
       "originalTitle": "Anthropic’s financials are surprisingly strong",
@@ -193,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 19,
       "id": "nb40aoihhydhoo0acp0rcyaol",
       "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
       "originalTitle": "Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
@@ -212,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 20,
       "id": "rccreyesa3aeph7jasj5spv29",
       "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
       "originalTitle": "An updated Model Spec for more capable and beneficial AI",
@@ -231,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 21,
       "id": "funx6p4g0gju509j6n0oyxmqu",
       "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
       "originalTitle": "Day 25/",
@@ -250,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 22,
       "id": "nfbnpnzdrebu4kbq6uqxhkc2h",
       "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
       "originalTitle": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
@@ -269,7 +421,26 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 23,
+      "id": "e234ewhx82g2zh3z2bgcjxx7d",
+      "title": "OpenAI 详解如何监控前沿模型的失对齐行为",
+      "originalTitle": "How we detect frontier model misalignment",
+      "summary": "OpenAI 在 Alignment 博客介绍其针对前沿模型（如 GPT-6 Astra）的多层失对齐监控系统，覆盖训练、评估、内部使用和部分外部部署。",
+      "source": "OpenAI：Alignment 研究博客（RSS）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 78,
+      "reason": "OpenAI 公开了内部失对齐监控系统的分层架构、检出率数据和红队结果，读者可以据此了解前沿模型监控的实际做法与局限。",
+      "publishedAt": "2026-10-30 00:00",
+      "discoveredAt": "2026-10-31 01:56",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793289600.0,
+      "urlOriginal": "https://alignment.openai.com/how-we-detect-frontier-model-misalignment/",
+      "urlDetail": "https://aihot.news/items/e234ewhx82g2zh3z2bgcjxx7d",
+      "pool": "selected"
+    },
+    {
+      "no": 24,
       "id": "mdcygre4ettjdbca7sq6vu7zx",
       "title": "Wiz 分析智能体攻击的七大指纹与发展趋势",
       "originalTitle": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
@@ -288,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 25,
       "id": "rph54wkrnzjpvov4cv0mxqatl",
       "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
       "originalTitle": "Mistral Le Chonk can now run locally!",
@@ -307,26 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
-      "id": "x7qd347blfo2409za7srbypzw",
-      "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
-      "originalTitle": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-      "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
-      "source": "404 Media（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 79,
-      "reason": "记者基于九名员工和内部记录还原 Proton 强推 AI 的内部冲突，读者可据此对照其他安全公司在效率与文化上的取舍。",
-      "publishedAt": "2026-10-29 22:21",
-      "discoveredAt": "2026-10-29 22:35",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793283709.0,
-      "urlOriginal": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-      "urlDetail": "https://aihot.news/items/x7qd347blfo2409za7srbypzw",
-      "pool": "selected"
-    },
-    {
-      "no": 18,
+      "no": 26,
       "id": "r9bmkfh02wkycc8zmhw87h4q9",
       "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
       "originalTitle": "Anthropic is asking Wall Street to believe in AGI",
@@ -345,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 27,
       "id": "lq97h52ctxw2nkri4qqxj5lbx",
       "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
       "originalTitle": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
@@ -364,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 28,
       "id": "iuma7p8unle567lzy6hp5jpw9",
       "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
       "originalTitle": "Anthropic’s business plan: Build God or die trying",
@@ -383,16 +535,16 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 29,
       "id": "pg7avew3q9ekdp3ydzhiuh9y4",
-      "title": "Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响",
-      "originalTitle": "Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace",
-      "summary": "Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。",
+      "title": "Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本",
+      "originalTitle": "Security notice — malicious version of Anthropic.claude-code (2.1.312 and 2.1.313) identified in the Cursor VS Code Extension Marketplace",
+      "summary": "Cursor 通报其 VS Code 扩展市场出现恶意修改的 Anthropic.claude-code 2.1.313 版本，非 Anthropic 官方开发，最多影响 4100 名用户。",
       "source": "Cursor Blog",
       "category": "industry",
       "categoryCn": "行业动态",
       "score": 81,
-      "reason": "Cursor 官方披露恶意扩展事件细节，给出检测命令、修复脚本和完整 IOC，受影响用户可按步骤自查处置。",
+      "reason": "Cursor 给出受影响用户数、检测命令和完整修复脚本，受影响用户可据此自查并清理后门。",
       "publishedAt": "2026-10-29 20:00",
       "discoveredAt": "2026-10-30 15:49",
       "timeNote": "原文发布时间",
@@ -402,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 30,
       "id": "wry19y87ktlbmfwu581jjffj7",
       "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
       "originalTitle": "Google's AI search problem finally shows up in the earnings report, some investors believe",
@@ -421,26 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
-      "id": "ck2bk0ns12i2hkg4ae0eoeabv",
-      "title": "OpenAI 详解如何检测前沿模型失准行为",
-      "originalTitle": "How we detect frontier model misalignment",
-      "summary": "OpenAI 发布长文，详解其针对前沿模型失准行为的多层监测系统，包括激活探针、基于模型的审查、调查智能体和自动化调查四层架构，并对 GPT‑6 Astra 及以上模型的全部 RL 运行、评估和内部 Codex 流量进行监测。",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 76,
-      "reason": "原文详述了 OpenAI 多层失准监测系统的架构与真实响应案例，读者可以了解其覆盖范围、误报处理和独立红队测试结果。",
-      "publishedAt": "2026-10-29 17:00",
-      "discoveredAt": "2026-10-30 01:57",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793264400.0,
-      "urlOriginal": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "urlDetail": "https://aihot.news/items/ck2bk0ns12i2hkg4ae0eoeabv",
-      "pool": "selected"
-    },
-    {
-      "no": 24,
+      "no": 31,
       "id": "m1cx9dfhpep0da323x3tk7vht",
       "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
       "originalTitle": "You're probably overprompting Claude",
@@ -459,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 32,
       "id": "gjz7lj8j6ojjyj80vkkhy786v",
       "title": "Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness",
       "originalTitle": "Droid 1.0: Building a Frontier Harness",
@@ -478,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 33,
       "id": "x6x8nkxn5mqc55umit3clj1tf",
       "title": "vLLM 发布 Mistral Large 4 Day 0 支持",
       "originalTitle": "Day 0 support for Mistral Large 4 on vLLM",
@@ -497,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 34,
       "id": "upsd8u37hkkquohy3w3sjvszi",
       "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
       "originalTitle": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
@@ -516,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 35,
       "id": "l928e49lwysm0ymgmhyjrkc3z",
       "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
       "originalTitle": "How to Extract Tables from a PDF with an LLM",
@@ -535,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 36,
       "id": "jpt1eeuj2p1mgrxbufuv3ntdn",
       "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
       "originalTitle": "Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限",
@@ -554,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 37,
       "id": "m5st8pvirbas7phreshbzkrc9",
       "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
       "originalTitle": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
@@ -573,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 38,
       "id": "x2h1bp5shee6v508nw7pjtvas",
       "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
       "originalTitle": "Exit Liquidity",
@@ -592,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 39,
       "id": "vidjbhx5bf45wdl488kst1wv8",
       "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
       "originalTitle": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
@@ -611,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 40,
       "id": "fbxzb7x7fzbjn0dmf367ywxrm",
       "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
       "originalTitle": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
@@ -630,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 41,
       "id": "hoim4l9scskfj0obspicyucpw",
       "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
       "originalTitle": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
@@ -649,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 42,
       "id": "fjeloaahylonpc0pv5tduusud",
       "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
       "originalTitle": "Gemini 4 Carbon: Our next frontier model",
@@ -668,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 43,
       "id": "tdp7qmrh74fdfarxbi4jaoc6v",
       "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
       "originalTitle": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
@@ -687,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 44,
       "id": "xonc43xgcx39303i40k8022rl",
       "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
       "originalTitle": "GitHub Universe 2026: Evolving every layer of the stack",
@@ -706,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 45,
       "id": "s3m3uzabqoxxed9ae50b73qvc",
       "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
       "originalTitle": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
@@ -725,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 46,
       "id": "ja57b43t7h52wid2g4zu6vw2t",
       "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程",
       "originalTitle": "The New Security Agenda",
@@ -744,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 47,
       "id": "wykbrcxndw1zv255b9y2usj7v",
       "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
       "originalTitle": "MOSS-Image：让开放模型真正理解文字与版式",
@@ -763,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 48,
       "id": "klkmnzle2z7p5y6cl477ce7sg",
       "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
       "originalTitle": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
@@ -782,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 49,
       "id": "neprl0bcwv1mo2pd4dk1lvpjr",
       "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
       "originalTitle": "The future of the firm",
@@ -801,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 50,
       "id": "gxwqce1swocfo9bp3dgqy3dnj",
       "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
       "originalTitle": "Anthropic 的 S-1 写着 90% 增量毛利，卖一美元推理只花一毛",
@@ -820,7 +953,26 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 51,
+      "id": "mcucufe6w6qrftx6l40hkmjrz",
+      "title": "Pydantic AI 基准实测：代码模式让长任务成本降 58%、耗时降 51%",
+      "originalTitle": "Code mode: make your agents 2x faster and 2x cheaper on long tasks",
+      "summary": "Pydantic AI 的 Michael Pfaffenberger 发布一篇基准分析，用 5 个小型 CRUD 应用、8 个模型、5,276 次评分运行对比代码模式开与关。",
+      "source": "Pydantic AI 官方文章",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 72,
+      "reason": "作者用 5276 次实测把代码模式的真实收益边界拆开，长任务省一半成本而短任务反而更贵，结论可直接迁移到自己的智能体设计。",
+      "publishedAt": "2026-10-28 17:00",
+      "discoveredAt": "2026-10-29 02:10",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793178000.0,
+      "urlOriginal": "https://pydantic.dev/articles/why-code-mode-is-the-future",
+      "urlDetail": "https://aihot.news/items/mcucufe6w6qrftx6l40hkmjrz",
+      "pool": "selected"
+    },
+    {
+      "no": 52,
       "id": "dmi67weoeety92021tvuyf1hs",
       "title": "Trakkr 研究：追踪 1285 条 AI 引用统计的溯源路径",
       "originalTitle": "Zombie stats: Where the numbers AI quotes come from",
@@ -839,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 53,
       "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
       "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
       "originalTitle": "Getting started with Claude Code Mods",
@@ -858,7 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 54,
       "id": "b61d349yqp5mt029fsa0ytbv9",
       "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
       "originalTitle": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
@@ -877,26 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
-      "id": "ku284awvyj7i3dt4j7oflb78m",
-      "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-      "originalTitle": "Google的世界模型Genie 4正式发布，这一次，世界终于要活过来了。",
-      "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
-      "source": "公众号：数字生命卡兹克",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 65,
-      "reason": "文章梳理了 Genie 4 相比 Genie 3 的画质、实时控制、原生音频等变化，并用视频路线与高斯泼溅路线的对比帮助读者理解世界模型走向。",
-      "publishedAt": "2026-10-28 08:22",
-      "discoveredAt": "2026-10-28 08:37",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793146920.0,
-      "urlOriginal": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-      "urlDetail": "https://aihot.news/items/ku284awvyj7i3dt4j7oflb78m",
-      "pool": "selected"
-    },
-    {
-      "no": 48,
+      "no": 55,
       "id": "l4znfnzfs6rz6vorl1wyj90gb",
       "title": "OpenRouter 重建默认路由算法：TTFT 降 16.9%、429 错误减少 67%",
       "originalTitle": "How we rebuilt provider routing for better, faster inference",
@@ -915,7 +1048,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
+      "no": 56,
       "id": "wgss1ksoafvu62x799sdfs0fo",
       "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
       "originalTitle": "Hit Your Claude Code Usage Limit? How to Keep Coding",
@@ -934,64 +1067,7 @@
       "pool": "selected"
     },
     {
-      "no": 50,
-      "id": "dk0g487d7s2n5hq9ex5bim1sy",
-      "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
-      "originalTitle": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
-      "source": "TechCrunch：AI（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 84,
-      "reason": "诉讼细节与 27 万条聊天记录呈现 GPT-4o 削药劝导过程，也暴露 OpenAI Model Spec 中医疗建议限制弱于版权规则的问题。",
-      "publishedAt": "2026-10-28 07:34",
-      "discoveredAt": "2026-10-28 07:48",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793144067.0,
-      "urlOriginal": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "urlDetail": "https://aihot.news/items/dk0g487d7s2n5hq9ex5bim1sy",
-      "pool": "selected"
-    },
-    {
-      "no": 51,
-      "id": "t13kjmoalf8m0luymjchvrysk",
-      "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-      "originalTitle": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-      "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
-      "source": "X：Gemini (@GeminiApp)",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 68,
-      "reason": "Gemini 内置 SynthID 检测能力，用户可直接询问某文件是否为 Google AI 生成，提供了可上手的内容溯源方法。",
-      "publishedAt": "2026-10-28 04:00",
-      "discoveredAt": "2026-10-28 04:27",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793131227.0,
-      "urlOriginal": "https://x.com/GeminiApp/status/2115171788812669225",
-      "urlDetail": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk",
-      "pool": "selected"
-    },
-    {
-      "no": 52,
-      "id": "xhwtx8zwvvmyou5emtd3dbzbn",
-      "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-      "originalTitle": "🔮 Anthropic’s S-1 in charts",
-      "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
-      "source": "Azeem Azhar：Exponential View（RSS）",
-      "category": "opinion",
-      "categoryCn": "其他",
-      "score": 77,
-      "reason": "作者基于 S-1 图表数据拆解 Anthropic 从实验室转向盈利业务的路径，并指出增长放缓与新模式贡献 80% 营收等约束。",
-      "publishedAt": "2026-10-28 01:31",
-      "discoveredAt": "2026-10-28 01:57",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793122316.0,
-      "urlOriginal": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-      "urlDetail": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
-      "pool": "selected"
-    },
-    {
-      "no": 53,
+      "no": 57,
       "id": "p24kw8c06nmy1hzs3spvr4aha",
       "title": "Every 解读 Anthropic S-1：上线超过六个月的模型贡献收入不足 20%",
       "originalTitle": "Every Model Has a Six-month Shelf Life Now",
@@ -1010,7 +1086,7 @@
       "pool": "selected"
     },
     {
-      "no": 54,
+      "no": 58,
       "id": "ctuk7r4h4qbyyligi680s7gtr",
       "title": "Cartesia 发布 H-Net 扩缩律研究：字节级层级网络比 BPE 提升最高 3-5x 计算效率",
       "originalTitle": "From Tokens to Bytes I: Scaling Hierarchical Networks",
@@ -1026,82 +1102,6 @@
       "sortKey": 1793059200.0,
       "urlOriginal": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
       "urlDetail": "https://aihot.news/items/ctuk7r4h4qbyyligi680s7gtr",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
-      "id": "axminfteoiwhm9xm2txq1u2ok",
-      "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
-      "originalTitle": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
-      "source": "Anthropic：Newsroom（网页）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 67,
-      "reason": "Anthropic 官方公布了折扣幅度、覆盖范围和政府采用数据，读者可以据此了解其公共业务的推进方式。",
-      "publishedAt": "2026-10-27 00:00",
-      "discoveredAt": "2026-10-28 07:22",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793030400.0,
-      "urlOriginal": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "urlDetail": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok",
-      "pool": "selected"
-    },
-    {
-      "no": 56,
-      "id": "czkv5svlodxelpz10tt5fpnk7",
-      "title": "Anthropic 公布 Claude 加速药物研发的早期进展与六个合作案例",
-      "originalTitle": "Early progress on accelerating drug development with Claude",
-      "summary": "Anthropic 生命科学团队宣布过去数月与 Generate Biomedicines、Divergence Labs、BigHat Biosciences、Enveda、The Column Group、Bristol Myers Squibb 六家机构开展药物研发合作，并已启动自有药物研发。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 70,
-      "reason": "原文给出六个药物研发合作案例的具体数字与实验结果，读者可以据此判断 Claude 在研发各环节的实际表现。",
-      "publishedAt": "2026-10-27 00:00",
-      "discoveredAt": "2026-10-28 05:17",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793030400.0,
-      "urlOriginal": "https://www.anthropic.com/research/early-progress-drug-development",
-      "urlDetail": "https://aihot.news/items/czkv5svlodxelpz10tt5fpnk7",
-      "pool": "selected"
-    },
-    {
-      "no": 57,
-      "id": "d0k8x9588e62wlqnfoq3bmtq0",
-      "title": "Anthropic 研究：AI 智能体的隐性倾向如何影响 50 名专业分析师的判断决策",
-      "originalTitle": "How AI agents shape experts’ judgment calls",
-      "summary": "Anthropic 发表研究，让 50 名有因果推断经验的专业分析师用 Claude Code（Claude Opus 4.8）完成一项统计分析任务，并在分析师不知情的情况下用掷硬币随机设定智能体在四个分析决策上的倾向。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 84,
-      "reason": "原文用随机分配智能体倾向的实验设计量化了专家的从随程度，还讨论了这种影响难以察觉的原因和可能的改进方向。",
-      "publishedAt": "2026-10-27 00:00",
-      "discoveredAt": "2026-10-28 03:15",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793030400.0,
-      "urlOriginal": "https://www.anthropic.com/research/agents-judgment-calls",
-      "urlDetail": "https://aihot.news/items/d0k8x9588e62wlqnfoq3bmtq0",
-      "pool": "selected"
-    },
-    {
-      "no": 58,
-      "id": "vx4t4ldzajj3lhb8luhg9dy9s",
-      "title": "Liquid AI 发布 LFM3 多模态开源权重模型家族，2B 级覆盖文本、视觉、音频、omni 和决策模型",
-      "originalTitle": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "summary": "Liquid AI 发布新一代 LFM3 模型家族，以 LFM3-1.7B-Base 为共享骨干，首批开放六个 2B 级模型（文本、视觉、音频、omni 及两个决策模型）的开放权重，可在 Hugging Face、Playground 和 Liquid AI API 获取。",
-      "source": "Liquid AI 模型与工程博客（网页）",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 68,
-      "reason": "原文给出 LFM3 各模型的具体架构、基准和端侧性能数据，读者可以据此评估小参数量多模态模型在本地方案中的可行性。",
-      "publishedAt": "2026-10-27 00:00",
-      "discoveredAt": "2026-10-28 01:50",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793030400.0,
-      "urlOriginal": "https://www.liquid.ai/blog/lfm3",
-      "urlDetail": "https://aihot.news/items/vx4t4ldzajj3lhb8luhg9dy9s",
       "pool": "selected"
     }
   ]
