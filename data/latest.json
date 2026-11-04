@@ -1,9 +1,123 @@
 {
-  "updatedAt": "2026-11-03 11:14",
+  "updatedAt": "2026-11-04 09:47",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "y0cgwl79wbih8c50svgmit93j",
+      "title": "卡兹克开源折腾一年的 Agent 自动化系统 Agent-Autoloop",
+      "originalTitle": "开源我这折腾了1年的「Agent自动化系统」，愿所有人都能感受Agent的魅力。",
+      "summary": "作者开源其打磨一年的 Agent 自动化系统 Agent-Autoloop，地址为 https://github.com/KKKKhazix/agent-autoloop。",
+      "source": "公众号：数字生命卡兹克",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 70,
+      "reason": "作者开源了自己打磨一年的 Agent 自动化系统，并讲清了内核四个机制的设计来源和踩坑原因，读者可以直接拿去部署或魔改。",
+      "publishedAt": "2026-11-04 08:19",
+      "discoveredAt": "2026-11-04 08:22",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793751540.0,
+      "urlOriginal": "https://mp.weixin.qq.com/s/T9_acg247gxzUNL4j5zrCw",
+      "urlDetail": "https://aihot.news/items/y0cgwl79wbih8c50svgmit93j",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "ir9nzccipff0uowu3tghi4n3o",
+      "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
+      "originalTitle": "AMD reported its 3Q-2026 earnings and it now expects revenue to grow more than 80% in 2027, ahead of the 77% analysts had modeled.",
+      "summary": "AMD 公布 2026 年三季度财报，预计 2027 年营收增长超 80%，高于分析师建模的 77%，CEO Lisa Su 称数据中心芯片将占明年销售额的 80%。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 79,
+      "reason": "财报数据具体完整，可据此了解数据中心芯片在 AMD 2027 年增长预期中的占比和 Meta 等客户订单规模。",
+      "publishedAt": "2026-11-04 07:14",
+      "discoveredAt": "2026-11-04 07:24",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793747646.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2117757237557088263",
+      "urlDetail": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
+      "id": "zv5dl1agqwo6tkmhdamy17lt5",
+      "title": "Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺",
+      "originalTitle": "Running Dry",
+      "summary": "Ed Zitron 撰文认为 AI 行业资金正在枯竭。OpenAI 上周以 1.25 万亿美元估值融资 110 亿美元，低于此前计划的 300 亿美元、1.4 万亿美元估值；据 The Information，其 Q1 2026 成本收入与研发支出合计 121 亿美元，截至 3 月底持有逾 730 亿美元现金及有价证券。",
+      "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+      "category": "opinion",
+      "categoryCn": "其他",
+      "score": 78,
+      "reason": "作者基于 OpenAI 融资缩水与 Anthropic 修订后的 S-1/A 数据，逐项拆解两家公司的成本、承诺与依赖结构，提供可核对的财务细节。",
+      "publishedAt": "2026-11-04 01:16",
+      "discoveredAt": "2026-11-04 01:16",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793726180.0,
+      "urlOriginal": "https://www.wheresyoured.at/running-dry/",
+      "urlDetail": "https://aihot.news/items/zv5dl1agqwo6tkmhdamy17lt5",
+      "pool": "selected"
+    },
+    {
+      "no": 4,
+      "id": "bfx52184e0ssnqgdq42o8dg36",
+      "title": "Mistral Large 4 以开放权重发布并附技术报告",
+      "originalTitle": "The story of how Le Chonk was built, told by the team behind it.",
+      "summary": "Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。技术报告讲述其研发过程：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B/blob/main/assets/technical_report.pdf，Mistral AI 官方转发并称可在 alphaxiv 上阅读这一研发故事（https://www.alphaxiv.org/abs/2611.mistral-large-4）。",
+      "source": "X：Mistral AI (@MistralAI)",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 70,
+      "reason": "原文给出模型权重开放入口与技术报告链接，读者可以据此了解模型在代码智能体与安全方向的能力定位。",
+      "publishedAt": "2026-11-03 18:18",
+      "discoveredAt": "2026-11-03 18:30",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793701114.0,
+      "urlOriginal": "https://x.com/MistralAI/status/2117562068220195097",
+      "urlDetail": "https://aihot.news/items/bfx52184e0ssnqgdq42o8dg36",
+      "pool": "selected"
+    },
+    {
+      "no": 5,
+      "id": "fvf2qsdi4s11bz1denqd5rzff",
+      "title": "OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素",
+      "originalTitle": "Eval-production behavior gaps in agent safety and the role of eval-awareness",
+      "summary": "OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。模型普遍口头表现出评测意识（评测中一般性意识率 57.0%–83.7%），但仅告知",
+      "source": "OpenAI：Alignment 研究博客（RSS）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 71,
+      "reason": "原文用六个模型对比评测与生产数据，发现评测成绩反而更低，并把差距归因于模型对评测目标的误判。",
+      "publishedAt": "2026-11-03 16:00",
+      "discoveredAt": "2026-11-04 02:05",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793692800.0,
+      "urlOriginal": "https://alignment.openai.com/eval-production-behavior-gap/",
+      "urlDetail": "https://aihot.news/items/fvf2qsdi4s11bz1denqd5rzff",
+      "pool": "selected"
+    },
+    {
+      "no": 6,
+      "id": "uinaiwkzg4u2exkfgv4oha9p7",
+      "title": "Addy Osmani 谈 Agent 时代如何保持批判性思维",
+      "originalTitle": "Critical thinking when agents do the work",
+      "summary": "Addy Osmani 发文探讨在大量使用 Agent 工作流后如何保持批判性思维。他提出认知卸载、拖延、认知投降三段光谱，认为模型越强、输出越流畅，人越容易在不知不觉中放弃独立判断；并给出具体做法，包括提问前先写假设、把验证标准前置为可执行测试、要求 Agent 列出它替你做的决策与假设、用测验收尾而不是读摘要，以及定期手写代码做校准练习。他强调可以卸载工作和审计，但不能卸载责任。",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "category": "opinion",
+      "categoryCn": "其他",
+      "score": 72,
+      "reason": "作者基于自身 Agent 工作流经验，提出从认知卸载到认知投降的判断框架和一套可自查的提问清单，方法可直接迁移到日常 AI 协作。",
+      "publishedAt": "2026-11-03 15:01",
+      "discoveredAt": "2026-11-03 15:23",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793689289.0,
+      "urlOriginal": "https://x.com/addyosmani/status/2117512471930167377",
+      "urlDetail": "https://aihot.news/items/uinaiwkzg4u2exkfgv4oha9p7",
+      "pool": "selected"
+    },
+    {
+      "no": 7,
       "id": "v41vn9hb5ywv10e68wycj1bjk",
       "title": "DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播",
       "originalTitle": "DeepSeek Harness养鱼教程来了，一文送你的肥鱼当上主播。",
@@ -22,7 +136,45 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 8,
+      "id": "recqqiy27l866jfbhjk0cusqh",
+      "title": "OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案",
+      "originalTitle": "Post-Train a Model for Your Own Agent Harness with OpenHands and Snowflake",
+      "summary": "OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。",
+      "source": "OpenHands 官方博客",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 62,
+      "reason": "原文展示了直接用现有 OpenHands harness 做 RL 后训练的完整流程和实验结果，开发者可据此评估是否把后训练纳入自己的 agent 开发循环。",
+      "publishedAt": "2026-11-03 08:00",
+      "discoveredAt": "2026-11-04 04:18",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793664000.0,
+      "urlOriginal": "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake",
+      "urlDetail": "https://aihot.news/items/recqqiy27l866jfbhjk0cusqh",
+      "pool": "selected"
+    },
+    {
+      "no": 9,
+      "id": "op93lgz2xx0ck3znfm724ebfu",
+      "title": "Revolut 将约 2000 名工程师迁移到自托管 GLM 编码",
+      "originalTitle": "Revolut moves to self-hosted GLM",
+      "summary": "据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。",
+      "source": "Hacker News：AI 热帖",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 76,
+      "reason": "案例显示自托管开源模型在成本大幅下降后改变了工程师的使用习惯，对思考前沿 API 定价有参考意义。",
+      "publishedAt": "2026-11-03 06:11",
+      "discoveredAt": "2026-11-03 19:14",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793657484.0,
+      "urlOriginal": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "urlDetail": "https://aihot.news/items/op93lgz2xx0ck3znfm724ebfu",
+      "pool": "selected"
+    },
+    {
+      "no": 10,
       "id": "xiu342i7osbgfxe2ezhrjndl0",
       "title": "Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付",
       "originalTitle": "Anthropic has committed $895.4B to computing and infrastructure, with $447.5B due before 2031.",
@@ -41,7 +193,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 11,
       "id": "wlmiqh13694tqabyvu6nzvlrs",
       "title": "OpenAI 训练并部署激活分类器作为前沿模型安全监控层",
       "originalTitle": "Training activation classifiers for safety and alignment",
@@ -60,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 12,
       "id": "owfopy087lszd1cpfp3c82pxv",
       "title": "Anthropic 季度营收增长十二倍至近 170 亿美元，但净亏损达 233 亿美元",
       "originalTitle": "Anthropic grows revenue twelvefold but posts $23 billion loss",
@@ -79,7 +231,26 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 13,
+      "id": "dmvn8r8406f7g9vutizbxqesj",
+      "title": "Cognition 发布2026年11月实用安全指南：从 Binance 被盗到 Claude Code Cursor 扩展投毒的应对清单",
+      "originalTitle": "A Practical Guide to Security in November 2026",
+      "summary": "Cognition 发布2026年11月实用安全指南，回顾近期重大安全事件并给出公司可执行的安全加固清单。",
+      "source": "Cognition 模型 / Devin 博客（网页）",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 78,
+      "reason": "原文把近期多起安全事件拆成可控的攻击路径，并给出立即与30天内可执行的公司安全清单，方法可迁移。",
+      "publishedAt": "2026-11-03 00:00",
+      "discoveredAt": "2026-11-04 05:19",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793635200.0,
+      "urlOriginal": "https://cognition.com/blog/practical-guide-to-security-november-2026",
+      "urlDetail": "https://aihot.news/items/dmvn8r8406f7g9vutizbxqesj",
+      "pool": "selected"
+    },
+    {
+      "no": 14,
       "id": "sxbs5a90fgybhyucacmzvrc6w",
       "title": "OpenAI 推出 Grid Protectors 计划，从 Georgia 校园开始支持电网削峰",
       "originalTitle": "Introducing the Grid Protectors Program",
@@ -98,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 15,
       "id": "l37ydaic43icz85huclc2io6c",
       "title": "腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型",
       "originalTitle": "Hyra 2.0 发布：为模型研发打造可复用工具",
@@ -117,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 16,
       "id": "dzwfvd9xp6v4qaj6olxezpier",
       "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
       "originalTitle": "折腾了整整1年，毫无保留地分享一下我这套Agent自动化系统。",
@@ -136,7 +307,26 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 17,
+      "id": "ewvepczpb5fewcbzo2tkqdldm",
+      "title": "Google AI Studio 弃用 Gemini 2.5 Pro 与 2.5 Flash，API 请求将于 12 月 1 日起自动路由",
+      "originalTitle": "November 2, 2026",
+      "summary": "Gemini 2.5 Pro 与 Gemini 2.5 Flash 已弃用，无法再在 Google AI Studio 中选择。",
+      "source": "Gemini API：更新日志（网页）",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 66,
+      "reason": "原文明确了弃用时间、自动路由目标和计费规则，以及破坏性 API 变更点，方便开发者提前迁移。",
+      "publishedAt": "2026-11-02 08:00",
+      "discoveredAt": "2026-11-03 12:18",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793577600.0,
+      "urlOriginal": "https://ai.google.dev/gemini-api/docs/changelog#11-02-2026",
+      "urlDetail": "https://aihot.news/items/ewvepczpb5fewcbzo2tkqdldm",
+      "pool": "selected"
+    },
+    {
+      "no": 18,
       "id": "hf03pwablxanh9desil5cbu9d",
       "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
       "originalTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
@@ -155,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 19,
       "id": "sg5u3u91kw42j1grtyp3ny65n",
       "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
       "originalTitle": "Make long-running agents faster with message threads",
@@ -174,26 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
-      "id": "mhw3rtr5o13p5777y7el9tczk",
-      "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
-      "originalTitle": "Claude Code tip: if a task turns out harder than you expected, type ultrathink while Claude is working. It raises the effort for the rest...",
-      "summary": "Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude 工作期间输入 ultrathink，可提升该回合剩余部分的推理努力，该功能适用于最新版本的终端。他引用 @dmwlff 的帖子，其中提到 ultrathink 已回归 Claude Code CLI，此前因显得怪异且可能令人困惑曾被关闭。",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "category": "tip",
-      "categoryCn": "技术实践",
-      "score": 67,
-      "reason": "原文给出了一个 Claude Code 实用技巧，输入 ultrathink 可提升当前回合的推理努力，适合编码工作流直接复用。",
-      "publishedAt": "2026-11-02 04:09",
-      "discoveredAt": "2026-11-02 04:13",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793563789.0,
-      "urlOriginal": "https://x.com/addyosmani/status/2116986087390486816",
-      "urlDetail": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
-      "pool": "selected"
-    },
-    {
-      "no": 11,
+      "no": 20,
       "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
       "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
       "originalTitle": "ChatGPT和Codex要共用额度了，无限聊天的时代结束了。",
@@ -212,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 21,
       "id": "yww15c701iat30p8ttjf029ij",
       "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
       "originalTitle": "Build an AI Code Reviewer with OpenRouter",
@@ -231,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 22,
       "id": "dpm21l66z2iizblehsdg09c8t",
       "title": "美国白宫科技顾问萨克斯称 Anthropic 可能成为资本主义史上最伟大企业",
       "originalTitle": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
@@ -250,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 23,
       "id": "htfc0ler37j2h4hoqll6jewz3",
       "title": "彭博社统计：Alphabet、Meta、微软、亚马逊、甲骨文承诺投入超3万亿美元建AI基础设施",
       "originalTitle": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
@@ -269,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 24,
       "id": "yqblvh40gus1ssc0rjvawh6fu",
       "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
       "originalTitle": "Anthropic 未来“隐性债务”规模近 9000 亿美元，人类史上最大 IPO 招股文件暗藏细节",
@@ -288,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 25,
       "id": "hx5dsruslfiiqhbsro2tvg1n8",
       "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
       "originalTitle": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -307,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 26,
       "id": "akdeq33m7cpr8m7zsfgvfiz5c",
       "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
       "originalTitle": "The TL;DR on Figma Weave: Make your creative process repeatable",
@@ -326,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 27,
       "id": "cbggw7imkzd4c01ifblroln6v",
       "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
       "originalTitle": "阿里巴巴与Apple达成合作，将千问集成至Apple智能",
@@ -345,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 28,
       "id": "upl3hjjdokqe13w3ieo9opr0v",
       "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
       "originalTitle": "How to Build Your Own Always-On AI Agent",
@@ -364,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 29,
       "id": "la0qb77ds4znf2r7ub14a3bqz",
       "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
       "originalTitle": "“Black October” for AI Developer Platforms",
@@ -383,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 30,
       "id": "fxxkgtzpf2pb8xjnhu4jtis0b",
       "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
       "originalTitle": "Cracks are emerging in the AI spending boom",
@@ -402,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 31,
       "id": "cms82puwtmpssdpbjmajoopr9",
       "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
       "originalTitle": "This incredible. Gemma 4 became the first LLM to run in space?",
@@ -421,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 32,
       "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
       "title": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
       "originalTitle": "Ultrathink",
@@ -440,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 33,
       "id": "v4uwaucyf64u7bkzsyvri08w4",
       "title": "Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问",
       "originalTitle": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
@@ -459,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 34,
       "id": "l7y0gkoqx56dt6jxv6x0mcl0h",
       "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
       "originalTitle": "US tech stocks see sharp falls over AI cost fears",
@@ -478,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 35,
       "id": "hfhskyex3cjrs3huvpmi1z7bg",
       "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
       "originalTitle": "Our customers’ ambition is accelerating our growth",
@@ -497,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 36,
       "id": "nxkr9ex5tfbhfhw1gvj9wsjuz",
       "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
       "originalTitle": "AI can turn public security fixes into working exploits before users receive an update",
@@ -516,26 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
-      "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
-      "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
-      "originalTitle": "We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplac...",
-      "summary": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。Cursor 已于当日下午下线扩展市场，与相关提供方合作清除恶意软件并确认无进一步风险后重新上线，建议受影响用户参考博客说明排查，并升级到 Claude Code for VS Code 2.1.314。",
-      "source": "X：Cursor (@cursor_ai)",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 65,
-      "reason": "Cursor 官方披露扩展市场安全事件细节与处置过程，给出受影响范围和版本升级指引，受影响用户可按步骤自查。",
-      "publishedAt": "2026-10-30 15:46",
-      "discoveredAt": "2026-10-30 16:03",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793346399.0,
-      "urlOriginal": "https://x.com/cursor_ai/status/2116074289053175808",
-      "urlDetail": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
-      "pool": "selected"
-    },
-    {
-      "no": 29,
+      "no": 37,
       "id": "ykvaq4vx3ydt23josezzan62r",
       "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
       "originalTitle": "如何用 Kimi 创作 3D 作品？官方教程来了",
@@ -554,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 38,
       "id": "kzenjo9w2bfhpsr0ub1gr95xj",
       "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
       "originalTitle": "What Google and Reddit's bad days have in common",
@@ -573,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 39,
       "id": "oas684tt9kpeds9cq7vgjvo1x",
       "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
       "originalTitle": "Fair use benefits everyone",
@@ -592,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 40,
       "id": "qit1hgequ8pknedqqvuei5wfh",
       "title": "Gemini API 的 Computer Use 工具正式开放（GA）",
       "originalTitle": "October 30, 2026",
@@ -611,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 41,
       "id": "gzcwy89nkjreenv5eu1qaysdi",
       "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
       "originalTitle": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
@@ -630,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 42,
       "id": "fxmexzrmo7pw52vc5j6ej17kl",
       "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
       "originalTitle": "AWS will be a $1T business, Jassy says — but first, it will spend big",
@@ -649,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 43,
       "id": "puushryi79v0flh2um3a70xnw",
       "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
       "originalTitle": "Google value plunges by $500B as AI fears rattle Wall Street",
@@ -668,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 44,
       "id": "z9kqlhsgiz11fvlk3aodm6seg",
       "title": "Figma 讲解如何训练专用画布编辑模型",
       "originalTitle": "How we’re training a Figma-fluent editing model",
@@ -687,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 45,
       "id": "eq47lph0rzobf8cr950saiu8r",
       "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
       "originalTitle": "@pika_labs 在Minimax的H3上做了后训练，推出了Pika H3 Flex，把视频生成的采样步数从50步压缩到了6步，生成时间大大降低，而且质量甚至还有提升，非常酷的工作，并且直接开源了。",
@@ -706,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 46,
       "id": "wb6emxuh5ob2wh96egtwawgfu",
       "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
       "originalTitle": "Anthropic’s financials are surprisingly strong",
@@ -725,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 47,
       "id": "nb40aoihhydhoo0acp0rcyaol",
       "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
       "originalTitle": "Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729",
@@ -744,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 48,
       "id": "rccreyesa3aeph7jasj5spv29",
       "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
       "originalTitle": "An updated Model Spec for more capable and beneficial AI",
@@ -763,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 49,
       "id": "funx6p4g0gju509j6n0oyxmqu",
       "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
       "originalTitle": "Day 25/",
@@ -782,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 50,
       "id": "nfbnpnzdrebu4kbq6uqxhkc2h",
       "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
       "originalTitle": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
@@ -801,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 51,
       "id": "e234ewhx82g2zh3z2bgcjxx7d",
       "title": "OpenAI 详解如何监控前沿模型的失对齐行为",
       "originalTitle": "How we detect frontier model misalignment",
@@ -820,7 +972,26 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 52,
+      "id": "jwesxv6ocruk1r44ar9hj14i0",
+      "title": "Manus 联合创始人复盘：用 Manus 重建 Manus 的内部实验",
+      "originalTitle": "用 Manus 重建 Manus：什么变了，什么出了问题，以及我们现在如何工作",
+      "summary": "Manus 联合创始人张涛撰文复盘公司全面转向人机协作开发的内部实验，介绍内部工具 Mono 如何统一仓库上下文并让单人端到端交付需求，工程师同时推进 10 到 20 个请求已成常态。文章涵盖工程、产品和营销三个团队，总结了自主性需要可验证终点线、瓶颈从工程转向产品决策等经验，也指出注意力碎片化、信息分散和权限设计等未解决的问题。",
+      "source": "Manus：Blog（网页）",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 75,
+      "reason": "Manus 联合创始人复盘公司全面用 agent 工作的一手经验，给出了可行做法、失败教训和尚未解决的问题。",
+      "publishedAt": "2026-10-30 00:00",
+      "discoveredAt": "2026-11-03 14:12",
+      "timeNote": "原文发布时间",
+      "sortKey": 1793289600.0,
+      "urlOriginal": "https://manus.im/zh-cn/blog/rebuilding-manus-with-manus",
+      "urlDetail": "https://aihot.news/items/jwesxv6ocruk1r44ar9hj14i0",
+      "pool": "selected"
+    },
+    {
+      "no": 53,
       "id": "mdcygre4ettjdbca7sq6vu7zx",
       "title": "Wiz 分析智能体攻击的七大指纹与发展趋势",
       "originalTitle": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
@@ -839,7 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 54,
       "id": "rph54wkrnzjpvov4cv0mxqatl",
       "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
       "originalTitle": "Mistral Le Chonk can now run locally!",
@@ -858,64 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
-      "id": "r9bmkfh02wkycc8zmhw87h4q9",
-      "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
-      "originalTitle": "Anthropic is asking Wall Street to believe in AGI",
-      "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
-      "source": "The Verge：AI（RSS）",
-      "category": "opinion",
-      "categoryCn": "其他",
-      "score": 83,
-      "reason": "SemiAnalysis 分析师拆解 Anthropic S-1，给出了推理毛利、每兆瓦收入、客户支出结构等一手财务细节。",
-      "publishedAt": "2026-10-29 22:00",
-      "discoveredAt": "2026-10-29 22:35",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793282400.0,
-      "urlOriginal": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "urlDetail": "https://aihot.news/items/r9bmkfh02wkycc8zmhw87h4q9",
-      "pool": "selected"
-    },
-    {
-      "no": 47,
-      "id": "lq97h52ctxw2nkri4qqxj5lbx",
-      "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
-      "originalTitle": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-      "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
-      "source": "The Decoder：AI News（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 77,
-      "reason": "",
-      "publishedAt": "2026-10-29 21:42",
-      "discoveredAt": "2026-10-29 22:38",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793281358.0,
-      "urlOriginal": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
-      "urlDetail": "https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx",
-      "pool": "selected"
-    },
-    {
-      "no": 48,
-      "id": "iuma7p8unle567lzy6hp5jpw9",
-      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-      "originalTitle": "Anthropic’s business plan: Build God or die trying",
-      "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
-      "source": "The Verge：AI（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 80,
-      "reason": "作者基于 Anthropic S-1 拆解其约 8500 亿美元 compute 承诺与增长压力，指出该公司商业模式押注递归自我改进。",
-      "publishedAt": "2026-10-29 21:30",
-      "discoveredAt": "2026-10-29 21:34",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793280600.0,
-      "urlOriginal": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "urlDetail": "https://aihot.news/items/iuma7p8unle567lzy6hp5jpw9",
-      "pool": "selected"
-    },
-    {
-      "no": 49,
+      "no": 55,
       "id": "pg7avew3q9ekdp3ydzhiuh9y4",
       "title": "Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本",
       "originalTitle": "Security notice — malicious version of Anthropic.claude-code (2.1.312 and 2.1.313) identified in the Cursor VS Code Extension Marketplace",
@@ -934,45 +1048,7 @@
       "pool": "selected"
     },
     {
-      "no": 50,
-      "id": "wry19y87ktlbmfwu581jjffj7",
-      "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
-      "originalTitle": "Google's AI search problem finally shows up in the earnings report, some investors believe",
-      "summary": "Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。",
-      "source": "The Decoder：AI News（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 80,
-      "reason": "文章把 Google 财报数据与 AI 搜索变现压力联系起来，读者可以借此核对市场担忧与官方说法之间的差距。",
-      "publishedAt": "2026-10-29 18:16",
-      "discoveredAt": "2026-10-29 18:34",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793268994.0,
-      "urlOriginal": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
-      "urlDetail": "https://aihot.news/items/wry19y87ktlbmfwu581jjffj7",
-      "pool": "selected"
-    },
-    {
-      "no": 51,
-      "id": "m1cx9dfhpep0da323x3tk7vht",
-      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
-      "originalTitle": "You're probably overprompting Claude",
-      "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "category": "tip",
-      "categoryCn": "技术实践",
-      "score": 73,
-      "reason": "作者基于 Claude Code 团队实践给出减提示词的具体做法，包括 /doctor 审计、subagent 使用边界和 Projects 并行管理。",
-      "publishedAt": "2026-10-29 14:13",
-      "discoveredAt": "2026-10-29 14:36",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793254419.0,
-      "urlOriginal": "https://x.com/addyosmani/status/2115688494865465370",
-      "urlDetail": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
-      "pool": "selected"
-    },
-    {
-      "no": 52,
+      "no": 56,
       "id": "gjz7lj8j6ojjyj80vkkhy786v",
       "title": "Factory 发布 Droid 1.0，以程序化工具调用构建企业级 Agent harness",
       "originalTitle": "Droid 1.0: Building a Frontier Harness",
@@ -991,7 +1067,7 @@
       "pool": "selected"
     },
     {
-      "no": 53,
+      "no": 57,
       "id": "x6x8nkxn5mqc55umit3clj1tf",
       "title": "vLLM 发布 Mistral Large 4 Day 0 支持",
       "originalTitle": "Day 0 support for Mistral Large 4 on vLLM",
@@ -1010,64 +1086,7 @@
       "pool": "selected"
     },
     {
-      "no": 54,
-      "id": "upsd8u37hkkquohy3w3sjvszi",
-      "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-      "originalTitle": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "summary": "Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。",
-      "source": "Hugging Face 官方团队博客",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 81,
-      "reason": "原文给出架构细节、网络安全能力分数和各硬件实测吞吐，读者可据此评估该开源权重大模型的部署门槛与适用场景。",
-      "publishedAt": "2026-10-29 08:00",
-      "discoveredAt": "2026-10-29 22:47",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793232000.0,
-      "urlOriginal": "https://huggingface.co/blog/mistral-large4",
-      "urlDetail": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
-      "id": "l928e49lwysm0ymgmhyjrkc3z",
-      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-      "originalTitle": "How to Extract Tables from a PDF with an LLM",
-      "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
-      "source": "OpenRouter：Announcements（RSS）",
-      "category": "tip",
-      "categoryCn": "技术实践",
-      "score": 76,
-      "reason": "OpenRouter 用五份 PDF 实测了多条抽取路由，给出严格 JSON schema 写法、两类静默失败的检查和各路由成本对比。",
-      "publishedAt": "2026-10-29 08:00",
-      "discoveredAt": "2026-10-29 08:33",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793232000.0,
-      "urlOriginal": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
-      "urlDetail": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
-      "pool": "selected"
-    },
-    {
-      "no": 56,
-      "id": "wykbrcxndw1zv255b9y2usj7v",
-      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-      "originalTitle": "MOSS-Image：让开放模型真正理解文字与版式",
-      "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
-      "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 71,
-      "reason": "原文给出长文本渲染与布局评测数字及开放权重部署路径，读者可以据此判断它在文字密集图像任务中的适用边界。",
-      "publishedAt": "2026-10-29 00:00",
-      "discoveredAt": "2026-10-29 10:05",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793203200.0,
-      "urlOriginal": "https://openmoss.ai/blog/cn/moss-image/",
-      "urlDetail": "https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v",
-      "pool": "selected"
-    },
-    {
-      "no": 57,
+      "no": 58,
       "id": "dmi67weoeety92021tvuyf1hs",
       "title": "Trakkr 研究：追踪 1285 条 AI 引用统计的溯源路径",
       "originalTitle": "Zombie stats: Where the numbers AI quotes come from",
@@ -1083,25 +1102,6 @@
       "sortKey": 1793174400.0,
       "urlOriginal": "https://trakkr.ai/trakkr-research/zombie-stats",
       "urlDetail": "https://aihot.news/items/dmi67weoeety92021tvuyf1hs",
-      "pool": "selected"
-    },
-    {
-      "no": 58,
-      "id": "l4znfnzfs6rz6vorl1wyj90gb",
-      "title": "OpenRouter 重建默认路由算法：TTFT 降 16.9%、429 错误减少 67%",
-      "originalTitle": "How we rebuilt provider routing for better, faster inference",
-      "summary": "OpenRouter 宣布重建默认 provider 路由算法，从只按价格排序改为按 Routing Cost 综合 effective price、TTFT、吞吐、错误率和输出质量选路。",
-      "source": "OpenRouter：Announcements（RSS）",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 72,
-      "reason": "OpenRouter 自己公布的路由算法实测数据与机制细节，读者可据此评估默认路由切换对现有调用成本和延迟的实际影响。",
-      "publishedAt": "2026-10-28 08:00",
-      "discoveredAt": "2026-10-29 09:34",
-      "timeNote": "原文发布时间",
-      "sortKey": 1793145600.0,
-      "urlOriginal": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing/",
-      "urlDetail": "https://aihot.news/items/l4znfnzfs6rz6vorl1wyj90gb",
       "pool": "selected"
     }
   ]
