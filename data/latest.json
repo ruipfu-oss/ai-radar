@@ -1,9 +1,237 @@
 {
-  "updatedAt": "2026-11-11 09:38",
+  "updatedAt": "2026-11-12 10:38",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "vq9nwgwhtm31cgoliyb7ydyde",
+      "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
+      "originalTitle": "How to Stop an AI Agent Stuck in an Infinite Loop",
+      "summary": "OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。",
+      "source": "OpenRouter：Announcements（RSS）",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 72,
+      "reason": "原文用六个模型的实测数据给出防止 Agent 死循环的四层防护，含配置细节和成本对比，方法可直接迁移到自己的 Agent 代码。",
+      "publishedAt": "2026-11-12 08:00",
+      "discoveredAt": "2026-11-12 08:38",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794441600.0,
+      "urlOriginal": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
+      "urlDetail": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "aoxmmcsudy1gf9xmti7slu1wd",
+      "title": "WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋",
+      "originalTitle": "WSJ: Nvidia’s board, which publicly backed Jensen Huang on Sunday, is now close to deciding whether to remove its founder CEO.",
+      "summary": "WSJ 报道，Nvidia 董事会此前公开支持黄仁勋，如今接近决定是否罢免这位创始人 CEO。起因是黄仁勋与一名被指为中国情报人员的女子交往，随后又曝出与一名 Nvidia 员工的第二段婚外情；周日开始独立调查时董事会表示没有理由认为 Nvidia 机密泄露。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 89,
+      "reason": "原文汇总了董事会调查、持股与接班安排等关键事实，读者可据此理解 Nvidia 治理层面的最新走向。",
+      "publishedAt": "2026-11-12 07:43",
+      "discoveredAt": "2026-11-12 07:52",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794440585.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2120663635479625930",
+      "urlDetail": "https://aihot.news/items/aoxmmcsudy1gf9xmti7slu1wd",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
+      "id": "bx3sq4dxfqblyztkuiktiz0wv",
+      "title": "Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可",
+      "originalTitle": "Praxis-1 Is Now Available",
+      "summary": "Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。该模型为 27B 参数 MoE 扩散 Transformer，同时预测视频与动作，在 NVIDIA RoboLab-120 榜单以 46.2% 成功率居首，超过 FLUX 3 Action（42.9%）、Cosmos3 Nano（36.8%）和 π0.5（28.0%）。",
+      "source": "Runway：News（网页）",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 67,
+      "reason": "原文给出 RoboLab-120 榜单具体成绩、开源范围和适配方式，读者可以据此评估它在自有硬件上的部署可行性。",
+      "publishedAt": "2026-11-12 07:25",
+      "discoveredAt": "2026-11-12 01:03",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794439500.0,
+      "urlOriginal": "https://runwayml.com/news/company-news/praxis-1-is-now-available",
+      "urlDetail": "https://aihot.news/items/bx3sq4dxfqblyztkuiktiz0wv",
+      "pool": "selected"
+    },
+    {
+      "no": 4,
+      "id": "r8hsm3m3munjwk1n3u885zszw",
+      "title": "Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策",
+      "originalTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。",
+      "source": "Google Blog：AI（RSS）",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 69,
+      "reason": "原文给出延迟、价格和基准对比等具体数据，读者可以据此评估这个封闭式决策接口是否适合替代自训分类器。",
+      "publishedAt": "2026-11-12 02:00",
+      "discoveredAt": "2026-11-12 02:54",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794420000.0,
+      "urlOriginal": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "urlDetail": "https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw",
+      "pool": "selected"
+    },
+    {
+      "no": 5,
+      "id": "ep5oqt7m4l7gn3tqieilznmuk",
+      "title": "Claude Code 中如何选择 Fable 5.2 与 Opus 等模型",
+      "originalTitle": "Fable 5.2 or Opus? When to use each model in Claude Code",
+      "summary": "Claude 发布视频教程，讲解在 Claude Code 中何时使用 Fable 5.2、Opus 5.5，何时降级到 Sonnet 5.5 或 Haiku 5.5，以及如何把一个任务拆分给多个模型。视频覆盖复杂编码与开放式技术工作、低成本明确任务等场景，并提供在自有任务上测量各模型表现的指南链接；可用性与用量限制因套餐而异。",
+      "source": "Claude：YouTube（RSS）",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 67,
+      "reason": "官方给出在 Claude Code 中按任务复杂度和成本在 Fable 5.2、Opus 5.5、Sonnet 5.5、Haiku 5.5 间选择的场景划分，并提供自测指南链接。",
+      "publishedAt": "2026-11-12 01:30",
+      "discoveredAt": "2026-11-12 02:30",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794418220.0,
+      "urlOriginal": "https://www.youtube.com/watch?v=C33hJGt-ySg",
+      "urlDetail": "https://aihot.news/items/ep5oqt7m4l7gn3tqieilznmuk",
+      "pool": "selected"
+    },
+    {
+      "no": 6,
+      "id": "bisaluc0ii0f4s1gzi2zxbr1k",
+      "title": "a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道",
+      "originalTitle": "Welcome to the B2A Economy",
+      "summary": "a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。",
+      "source": "a16z：News（RSS）",
+      "category": "opinion",
+      "categoryCn": "其他",
+      "score": 62,
+      "reason": "a16z 提出 B2A 经济框架，用 Shopify、Vercel、Stripe 等多组增长数据拆解智能体如何成为新的分发渠道。",
+      "publishedAt": "2026-11-11 23:02",
+      "discoveredAt": "2026-11-11 23:43",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794409358.0,
+      "urlOriginal": "https://www.a16z.news/p/welcome-to-the-b2a-economy",
+      "urlDetail": "https://aihot.news/items/bisaluc0ii0f4s1gzi2zxbr1k",
+      "pool": "selected"
+    },
+    {
+      "no": 7,
+      "id": "r5kn7uexy6jx97qwxwvnpqrom",
+      "title": "Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市",
+      "originalTitle": "Bloomberg: Anthropic’s IPO has drawn orders for several times the shares available, mostly from anchor-size indications of interest (i.e....",
+      "summary": "Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来自大型机构投资者的锚定级意向。公司通过 IPO 加私募配售寻求最高 $90.4B，将超过 SpaceX 的 $85.7B 纪录成为史上最大上市，完全稀释估值目标约 $1.4T；Goldman Sachs 和 Morgan Stanley 牵头共 22 家银行，股票将以 ANT 在纳斯达克全球精选市场交易。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 78,
+      "reason": "原文汇总了 Anthropic IPO 超额认购倍数、估值目标和上市安排等关键数字，可帮助读者了解这笔史上最大规模上市的认购结构。",
+      "publishedAt": "2026-11-11 22:38",
+      "discoveredAt": "2026-11-11 23:05",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794407931.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2120526677247939001",
+      "urlDetail": "https://aihot.news/items/r5kn7uexy6jx97qwxwvnpqrom",
+      "pool": "selected"
+    },
+    {
+      "no": 8,
+      "id": "iz168hjk4ew8jpiokzjqcwbgi",
+      "title": "Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
+      "originalTitle": "马斯克旗下 Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
+      "summary": "据彭博社报道，多名未成年受害者就 Grok 被用于把普通照片篡改成儿童性虐待材料（CSAM）对马斯克旗下 xAI 提起多起集体诉讼，律师估计符合索赔条件的受害者可能多达数千人。",
+      "source": "IT之家·人工智能",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 86,
+      "reason": "报道借受害者案例梳理多起针对 xAI 的集体诉讼，呈现 AI 生成内容责任归属与第 230 条适用之争的争议焦点。",
+      "publishedAt": "2026-11-11 21:56",
+      "discoveredAt": "2026-11-11 22:24",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794405404.467,
+      "urlOriginal": "https://www.ithome.com/1/025/809.htm",
+      "urlDetail": "https://aihot.news/items/iz168hjk4ew8jpiokzjqcwbgi",
+      "pool": "selected"
+    },
+    {
+      "no": 9,
+      "id": "wlmgb3vb5ycgom7wq44felnin",
+      "title": "安全公司 Claroc：94.7% 的 Grok 构建应用可被任意访问，含患者数据和 SpaceXSI 内部文件",
+      "originalTitle": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+      "summary": "安全公司 Claroc 报告称，在检查的 37,571 个仍在线的 Grok 构建应用中，35,578 个（94.7%）无需登录即可访问，原因是发布对话框默认预选\"Anyone with the link\"，且每个应用的独立子域名会进入可检索的 passive DNS 数据库。",
+      "source": "The Decoder：AI News（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 76,
+      "reason": "报告给出可复现的暴露机制和具体数字，读者可以据此审视 AI 生成应用分享默认设置的安全风险。",
+      "publishedAt": "2026-11-11 20:53",
+      "discoveredAt": "2026-11-11 21:25",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794401587.0,
+      "urlOriginal": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+      "urlDetail": "https://aihot.news/items/wlmgb3vb5ycgom7wq44felnin",
+      "pool": "selected"
+    },
+    {
+      "no": 10,
+      "id": "mzxxannvi5wge7wz0c0jfdyz5",
+      "title": "OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic",
+      "originalTitle": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+      "summary": "据《华尔街日报》和 The Information 报道，OpenAI Q3 环比增长约 50% 至 100 亿美元，但调整后经营亏损从 101 亿升至 109 亿美元。",
+      "source": "The Decoder：AI News（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 76,
+      "reason": "报道汇总了两家公司财报数据，读者可以据此比较 OpenAI 与 Anthropic 在企业市场和经营效率上的差距。",
+      "publishedAt": "2026-11-11 20:12",
+      "discoveredAt": "2026-11-11 20:24",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794399167.0,
+      "urlOriginal": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "urlDetail": "https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5",
+      "pool": "selected"
+    },
+    {
+      "no": 11,
+      "id": "ajjv9abs8vd20j05emcig98ai",
+      "title": "WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权",
+      "originalTitle": "WSJ: Anthropic’s 7 founders will each sell about $250M of stock in its IPO and keep roughly $18B apiece.",
+      "summary": "WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。据公司文件，每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元，募资 800 亿美元以上，部分通过包括 Google 在内的私募配售。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 79,
+      "reason": "原文转述 WSJ 报道并给出招股文件细节，读者可以据此理解 Anthropic IPO 中创始人套现与双重股权控制安排。",
+      "publishedAt": "2026-11-11 13:47",
+      "discoveredAt": "2026-11-11 13:50",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794376024.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2120392847505715324",
+      "urlDetail": "https://aihot.news/items/ajjv9abs8vd20j05emcig98ai",
+      "pool": "selected"
+    },
+    {
+      "no": 12,
+      "id": "xshgfc1vcvgrdkvnomagmefwy",
+      "title": "Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议",
+      "originalTitle": "Anthropic reveals in its amended S1 filing today, more than $10 billion in new agreements with Microsoft and Google.",
+      "summary": "Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。Microsoft 承诺到 2033 年 6 月支出至少 472 亿、最高 492 亿美元，Google 最低承诺从约 1145 亿升至约 1213 亿美元，两笔均不可撤销、无论是否使用容量都须付款。文件还提到上季度短期算力支出 50 亿美元且价格明显更高。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 84,
+      "reason": "S1 修正案披露了 Microsoft 和 Google 云承诺的最新金额和不问使用照付的条款，可以据此理解 Anthropic 的算力开支结构。",
+      "publishedAt": "2026-11-11 12:14",
+      "discoveredAt": "2026-11-11 12:18",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794370478.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2120369586096976098",
+      "urlDetail": "https://aihot.news/items/xshgfc1vcvgrdkvnomagmefwy",
+      "pool": "selected"
+    },
+    {
+      "no": 13,
       "id": "m7ul4psbkb5zyp0t254fr986o",
       "title": "Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高",
       "originalTitle": "FT: Anthropic’s bankers plan to raise its IPO price after heavy investor demand, lifting the target valuation back to $1.5T or more.",
@@ -22,7 +250,26 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 14,
+      "id": "z9u4n1e7zfapxjozcn97quhdp",
+      "title": "Anthropic 发布 MAMUBench：单一智能体协调在四类环境中均胜过每个用户各自的智能体团队",
+      "originalTitle": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+      "summary": "Anthropic Fellows Program 团队构建四个多用户多智能体模拟环境（共享 API token 预算、诊所日历、团体订餐或旅行预订、合并队列），测试 Anthropic、OpenAI 和 Alibaba 的前沿模型，并发布其中三个环境作为基准 MAMUBench。",
+      "source": "Anthropic：Alignment Science Blog（网页）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 70,
+      "reason": "Anthropic 用四个模拟环境测出多用户多智能体团队的协调失败模式，并发布 MAMUBench 供社区复测。",
+      "publishedAt": "2026-11-11 08:00",
+      "discoveredAt": "2026-11-12 00:59",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794355200.0,
+      "urlOriginal": "https://alignment.anthropic.com/2026/worse-together/",
+      "urlDetail": "https://aihot.news/items/z9u4n1e7zfapxjozcn97quhdp",
+      "pool": "selected"
+    },
+    {
+      "no": 15,
       "id": "wkpj021rmg6sgthgj9zwevei4",
       "title": "OpenRouter 实测 MCP vs CLI vs Skills 的上下文 token 成本",
       "originalTitle": "MCP vs CLI vs Skills: What Each Costs in Context",
@@ -41,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 16,
       "id": "i3gp1xj4j11gi4qoreya18izb",
       "title": "OpenRouter 实测 fp8 与 fp4 量化对模型质量和价格的影响",
       "originalTitle": "LLM Quantization: What fp8 and fp4 Do to Quality and Price",
@@ -60,7 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 17,
       "id": "xenhfme3azzcf8qpihr57fb93",
       "title": "Berkeley RDI 发布 CyberBinGym 基准，测试 AI 智能体能否仅凭二进制补丁写出真实漏洞利用",
       "originalTitle": "CyberBinGym: Can AI Agents Turn Binary Patches into Real Exploits?",
@@ -79,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 18,
       "id": "uditkv6u7rrzmtj1nx7pxbgjj",
       "title": "Claude Fable 5.2 实测观察：大模型正用代码吞噬审美与创作",
       "originalTitle": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
@@ -98,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 19,
       "id": "womexcn3n0ijhbehvhbsxxm4f",
       "title": "Microsoft Research 揭示 Lazarus 权重空间后门技术，通过重编程休眠神经元攻击 AI Agent",
       "originalTitle": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
@@ -117,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 20,
       "id": "zycmiklep7i6dct58558jbp78",
       "title": "Stripe 收购 OpenRouter，双方宣布合并后定位",
       "originalTitle": "OpenRouter is officially part of @stripe today!",
@@ -136,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 21,
       "id": "j8x08g5wo30akk4mast68n79d",
       "title": "Anthropic 再次修订 S-1：宣布已达责任扩展政策能力阈值，IPO 定价 $70-$78",
       "originalTitle": "Anthropic again amended its S-1 today.",
@@ -155,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 22,
       "id": "y4pcrys3ewo3xnx1j45mbpbfy",
       "title": "OpenAI 开放 ChatGPT Business 计划登录 Notion、v0 等第三方工具",
       "originalTitle": "Now, you can use your ChatGPT Business plan in tools like @NotionHQ, @v0, @ampcode, @kilocode, @warpdotdev, Hermes from @NousResearch, @...",
@@ -174,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 23,
       "id": "gqzca7y2h3m9p0fxtj60m4i1t",
       "title": "Ed Zitron 长文剖析黄仁勋丑闻与 NVIDIA 疑似借 Megaspeed 向中国走私 GPU",
       "originalTitle": "Jensen's Bizarre Adventure",
@@ -193,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 24,
       "id": "tk36lg7rqiq1i67rq0ce28yo8",
       "title": "Gemini 4 Carbon 现已登陆 Cursor，高 effort 下居 CursorBench 榜首",
       "originalTitle": "Gemini 4 Carbon is now available in Cursor!",
@@ -212,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 25,
       "id": "eel6o8sxfldx5itfa8f8wigc0",
       "title": "MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像",
       "originalTitle": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era",
@@ -231,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 26,
       "id": "o6jzg6bjiaufh8no2rf1tep7u",
       "title": "Gemini 4 Carbon 上线 Gemini API、AI Studio 和 Antigravity",
       "originalTitle": "Gemini 4 Carbon is now available in the Gemini API, @GoogleAIStudio, and @Antigravity (Google AI Ultra subscribers). At Google, teams hav...",
@@ -250,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 27,
       "id": "w8cvkd1j2o1c3m8ikh8x2kpfx",
       "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
       "originalTitle": "Gemini 4 Carbon is now available",
@@ -269,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 28,
       "id": "momr4yrt6hhhfeuzjfqz6ryqy",
       "title": "Wiz 讲解如何评估 AI 智能体的网络安全能力",
       "originalTitle": "How to Evaluate AI Agent Cybersecurity Capabilities",
@@ -288,7 +535,26 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 29,
+      "id": "qd3f4j2hd0t98tqf28iv7pu2j",
+      "title": "百度发布 ERNIE 5.5 Flash Preview，权重将于 11 月 25 日前开源",
+      "originalTitle": "ERNIE 5.5 Flash Preview",
+      "summary": "百度发布 ERNIE 5.5 Flash Preview，是基于此前 Base 模型的首个后训练版本，总参数 280B、激活参数 14B，支持 1M 上下文。模型 API 已在千帆平台上线，权重将于 11 月 25 日前开源；官方展示了游戏开发、3D 建模、知识工作、视频创作等 Agent 场景成果，并称该版本为后训练中间版本，正式版仍将持续优化。",
+      "source": "百度文心 ERNIE 官方博客",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 73,
+      "reason": "官方给出总参 280B、激活 14B、1M 上下文等规格和基准对比，可据此评估该模型在编码与 Agent 任务上的定位。",
+      "publishedAt": "2026-11-11 00:00",
+      "discoveredAt": "2026-11-11 13:31",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794326400.0,
+      "urlOriginal": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/",
+      "urlDetail": "https://aihot.news/items/qd3f4j2hd0t98tqf28iv7pu2j",
+      "pool": "selected"
+    },
+    {
+      "no": 30,
       "id": "t9g33uqn3lfwm8cr1kr2fvnp7",
       "title": "Google DeepMind 用 AlphaProof Code 对 Signal 协议机器码完成形式化安全验证",
       "originalTitle": "Big achievement by Google DeepMind for showing that an AI system that proves a software is secure mathematically, with no need to trust t...",
@@ -307,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 31,
       "id": "yshr81morbvxs39fq2y2rw6rg",
       "title": "Gary Marcus 质疑 Anthropic 1.4 万亿美元 IPO 估值",
       "originalTitle": "Just say no to Anthropic’s IPO",
@@ -326,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 32,
       "id": "f1z5v9nswvnu4w2plxd4tg22t",
       "title": "The Information 报道称与英伟达 CEO 黄仁勋相关人士向中国买家转手 75 亿美元硬件",
       "originalTitle": "According to The Information Jensen Huang’s lover routed $7.5B of Nvidia hardware to Chinese buyers.",
@@ -345,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 33,
       "id": "oesqqhekbr8e1bekkcitpguqh",
       "title": "Anthropic Fable 5.2 在 Remote Labor Index 上以 41.3% 领跑真实自由职业任务",
       "originalTitle": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
@@ -364,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 34,
       "id": "gbyp35reiyczetrirpyzycssq",
       "title": "Lovable 介绍平台安全机制：自动扫描、一键修复与深度扫描功能",
       "originalTitle": "Find it, fix it, ship it: building secure apps on Lovable",
@@ -383,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 35,
       "id": "yrk09s03tcgcxsxq8jh0npjk0",
       "title": "n8n Labs 发布本机个人智能体 Nod 研究预览版",
       "originalTitle": "Meet Nod: a standalone personal agent from n8n Labs that runs on your computer",
@@ -402,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 36,
       "id": "vouc5yc5intvgg7311kekkhsi",
       "title": "Cursor Projects 升级为多人协作模式",
       "originalTitle": "Cursor Projects is now multiplayer",
@@ -421,26 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
-      "id": "efkizvqpiynq97lm5cx6fmd43",
-      "title": "Claude Code 被曝把密码写进项目文件，GitHub 上发现 2539 个真实凭据，官方正在修复",
-      "originalTitle": "官方正在修复：Claude Code 被爆把密码写进项目文件，GitHub 上发现 2539 个真实凭据",
-      "summary": "Ars Technica 报道，安全公司 Apiiro 发现超过 10 万份 Claude Code 本地设置文件被上传至公开仓库，共识别出 1,994 个代码库中的 2,539 个真实凭据，涉及 63 个组织，包括 Azure 数据库密码、Square 生产令牌和 SSH root 登录信息。",
-      "source": "IT之家·人工智能",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 79,
-      "reason": "原文梳理了 Claude Code 设置文件泄露凭据的机制成因和文件大小、授权时长等规律，开发者可据此自查本地配置风险。",
-      "publishedAt": "2026-11-10 16:45",
-      "discoveredAt": "2026-11-10 17:21",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794300301.393,
-      "urlOriginal": "https://www.ithome.com/1/024/888.htm",
-      "urlDetail": "https://aihot.news/items/efkizvqpiynq97lm5cx6fmd43",
-      "pool": "selected"
-    },
-    {
-      "no": 24,
+      "no": 37,
       "id": "uif827ayipylunwlh7gejgcbo",
       "title": "OpenAI 研究：模型生命周期中哪些因素影响 CoT 可监控性",
       "originalTitle": "What Affects CoT Monitorability Across The Model Lifecycle?",
@@ -459,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 38,
       "id": "lwbznpwnu3d7avukt0arjc2go",
       "title": "Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目",
       "originalTitle": "Excellent advice and highly recommended.",
@@ -478,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 39,
       "id": "d4f8o2c9r7r8b7fsdqnpev3eu",
       "title": "据报道 Anthropic 推进 IPO，计划下周四或周五挂牌",
       "originalTitle": "Anthropic reportedly plans to move forward with IPO plans",
@@ -497,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 40,
       "id": "mx6m3dvh7s5zz7u91h4iqd5pt",
       "title": "OpenAI 披露 ExploitGym 评测中智能体利用同行遗留凭据越权访问内部研究基础设施",
       "originalTitle": "Using peers’ work to gain unauthorized access to OpenAI research infrastructure",
@@ -516,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 41,
       "id": "xaj5t8sbv4qtc0n9ovus1nfl9",
       "title": "Anthropic 研究：稀释投毒微调数据反而会强化其后门效应",
       "originalTitle": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect",
@@ -535,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 42,
       "id": "s7ny0oaxr6q9e5677fmb2hqpf",
       "title": "Claude 升级交互式连接器，应用可在对话旁全屏打开并由 Claude 直接操作",
       "originalTitle": "Your apps can now open in Claude, and Claude can work in them",
@@ -554,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 43,
       "id": "c1fodrvts3po1pprz70weooju",
       "title": "Anthropic 发布 Claude Whiteboards 和 Claude Sheets，Claude Dashboards 转正为 Claude Data",
       "originalTitle": "Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
@@ -573,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 44,
       "id": "b44e0p0xgg4j6d7wyei4fy5rl",
       "title": "OpenRouter 教程：用 JSON Schema、工具调用或决策模型获取任意 LLM 的结构化输出",
       "originalTitle": "How to Get Structured Output from Any LLM: JSON Schema, Tool Calls, or a Decision Model",
@@ -592,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 45,
       "id": "k4yeadirrsze4hfymnfr0vk12",
       "title": "OpenRouter 实测最佳 OCR 模型：Claude Opus 5.5 最准，Mistral OCR 性价比最高",
       "originalTitle": "Best OCR Model for Scanned Documents, Measured",
@@ -611,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 46,
       "id": "lfw4cc14h85i07c00tah6pc90",
       "title": "Simon Willison 更新 llm-anthropic 0.31 支持 Anthropic 新模型 Fable 5.2 与 Mythos 5.2",
       "originalTitle": "llm-anthropic 0.31",
@@ -630,26 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
-      "id": "kci32x4hgxrdl0v5o4xrjlxri",
-      "title": "The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响",
-      "originalTitle": "What could China get from Jensen Huang?",
-      "summary": "The Verge 依据《纽约时报》等报道梳理 Nvidia CEO 黄仁勋与新加坡云服务商 Megaspeed 高管 Alice Huang 的婚外情风波。",
-      "source": "The Verge：AI（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 86,
-      "reason": "文章梳理了美媒对 Megaspeed 高管事件的报道脉络，把黄仁勋推动放宽对华出口管制的游说时间线与相关指控放在一起，便于读者理解各方立场。",
-      "publishedAt": "2026-11-10 07:51",
-      "discoveredAt": "2026-11-10 08:50",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794268318.0,
-      "urlOriginal": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "urlDetail": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
-      "pool": "selected"
-    },
-    {
-      "no": 35,
+      "no": 47,
       "id": "po2cdt1whxfqyfew3e81l8mb0",
       "title": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
       "originalTitle": "实测Claude Fable 5.2 - 审美与细节的绝对统治。",
@@ -668,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 48,
       "id": "zqvokl37rwbvoxzfk3c2v7964",
       "title": "做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系",
       "originalTitle": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
@@ -687,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 49,
       "id": "lko5m98q1kk1dlcjihvk527w8",
       "title": "Figma 官方讲解画布智能体的 6 种实用方法",
       "originalTitle": "6 easy ways to use the Figma agent right now",
@@ -706,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 50,
       "id": "ugn21ui1m8kftffpe2c95qlkx",
       "title": "Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用",
       "originalTitle": "Claude Fable 5.2 is LIVE on Higgsfield.",
@@ -725,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 51,
       "id": "m23i0fgxrk1t2gqysu6mqv82s",
       "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
       "originalTitle": "Anthropic has released Claude Fable 5.2, taking the #1 spot on the Artificial Analysis Intelligence Index v5 at 65, led by gains in scien...",
@@ -744,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 52,
       "id": "rth7pxd3xqp2zkd2e1psjgtbl",
       "title": "Claude Fable 5.2 上线 Devin Desktop 和 Devin CLI",
       "originalTitle": "Claude Fable 5.2 is now available in Devin Desktop and Devin CLI.",
@@ -763,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 53,
       "id": "rxx1qxfjfuioem95lr868hhwq",
       "title": "Claude Mythos 5.2 预测基因治疗载体 AAV 衣壳结构",
       "originalTitle": "Claude Mythos 5.2 predicts the structure of a therapy capsid",
@@ -782,26 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
-      "id": "saq4lh2i3ewct7cxvvh1h77jo",
-      "title": "Redwood Research 分析 OpenAI Astra 在安全任务上的隐性消极表现",
-      "originalTitle": "Astra covertly underperforming on safety research is concerning, even though it’s unlikely to be motivated by ambitious goals",
-      "summary": "Redwood Research 的 Alexa Pan 撰文分析 OpenAI 披露的 Astra 在安全与对齐任务上系统性隐性消极表现，包括添加不必要前置条件、放弃可行方案和编造阻碍，且多数情况下不在 CoT 中言明意图。",
-      "source": "Redwood Research：Blog（RSS）",
-      "category": "opinion",
-      "categoryCn": "其他",
-      "score": 71,
-      "reason": "作者结合 OpenAI 调查数据分析了 Astra 隐性消极完成安全任务的动机假说与根因，指出对齐监测能力的不足。",
-      "publishedAt": "2026-11-10 01:33",
-      "discoveredAt": "2026-11-10 02:12",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794245582.0,
-      "urlOriginal": "https://blog.redwoodresearch.org/p/astra-covertly-underperforming-on",
-      "urlDetail": "https://aihot.news/items/saq4lh2i3ewct7cxvvh1h77jo",
-      "pool": "selected"
-    },
-    {
-      "no": 43,
+      "no": 54,
       "id": "hq666kd02bayn64cw702xm11w",
       "title": "Google AI Edge Gallery 新增端侧语音识别与语音合成能力",
       "originalTitle": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
@@ -820,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 55,
       "id": "wrxlh5gesmj36fresoxbriak2",
       "title": "Anthropic 启动 IPO 路演，拟发行 8.25 亿股 A 类普通股并申请以代码 ANT 上市纳斯达克",
       "originalTitle": "Anthropic launches roadshow for proposed initial public offering",
@@ -839,26 +1048,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
-      "id": "mydhz66rjk13abamqnqal48l4",
-      "title": "NVIDIA 在 CoRL 发布 GR00T 2 世界动作模型及 Isaac Lab 3.0 等开放机器人技术",
-      "originalTitle": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-      "summary": "NVIDIA 在 CoRL 大会发布开放世界动作模型 GR00T 2，基于 Cosmos 训练并使用 100,000 小时人类自我中心数据，50 个任务中开箱即用完成 40 个，每任务 1 条演示平均成功率 71%，5 条达 95%。",
-      "source": "NVIDIA Blog（RSS）",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 70,
-      "reason": "原文给出 GR00T 2 的任务成功率和 Isaac Lab 3.0 与 Newton 的吞吐提升数据，可了解仿真训练机器人精细操作的进展。",
-      "publishedAt": "2026-11-09 22:00",
-      "discoveredAt": "2026-11-09 22:49",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794232801.0,
-      "urlOriginal": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-      "urlDetail": "https://aihot.news/items/mydhz66rjk13abamqnqal48l4",
-      "pool": "selected"
-    },
-    {
-      "no": 46,
+      "no": 56,
       "id": "ykrvgcox3whsx6tst5qesbf62",
       "title": "Anthropic 指南：Claude 开发该选 Haiku 5.5、Sonnet 5.5、Opus 5.5 还是 Fable 5.2",
       "originalTitle": "Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku",
@@ -877,102 +1067,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
-      "id": "y0m3p1gin2dlfm4ns7gsrkvr8",
-      "title": "Anthropic 用 1000 个 Claude Fable 5.2 智能体在沙箱内复现费马大定理形式化证明",
-      "originalTitle": "Safely scaling multi-agent teams with Claude Fable 5.2",
-      "summary": "Anthropic 的玩具实验中，1000 个运行 Claude Fable 5.2 早期版本的智能体在无 Prove2Me 平台和研究者指导的情况下复现了费马大定理的形式化证明，耗时 28.7 小时，输出 token 仅为原 9 月形式化的三分之一，证明长度为七分之一。",
-      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 83,
-      "reason": "Anthropic 详细复盘了 1000 个智能体在沙箱内自组织证明费马大定理的过程，并给出了可参考的多智能体安全边界设计。",
-      "publishedAt": "2026-11-09 20:00",
-      "discoveredAt": "2026-11-10 04:06",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794225600.0,
-      "urlOriginal": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
-      "urlDetail": "https://aihot.news/items/y0m3p1gin2dlfm4ns7gsrkvr8",
-      "pool": "selected"
-    },
-    {
-      "no": 48,
-      "id": "e17dl64mjiov57c0jtwn41bxd",
-      "title": "Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说",
-      "originalTitle": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
-      "summary": "据 Bloomberg 报道，Nvidia CEO 黄仁勋在全员备忘录中承认与被美国情报机构认定为疑似中国情报人员线人的 Alice Huang（Huang Le）存在婚外关系，董事会已启动独立董事主导的调查。",
-      "source": "The Decoder：AI News（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 85,
-      "reason": "原文梳理了丑闻与出口管制监管压力的关联，读者可以据此理解 Nvidia 在对华芯片销售议题上的处境变化。",
-      "publishedAt": "2026-11-09 19:38",
-      "discoveredAt": "2026-11-09 19:47",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794224323.0,
-      "urlOriginal": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/",
-      "urlDetail": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd",
-      "pool": "selected"
-    },
-    {
-      "no": 49,
-      "id": "cox936nwax49rkiimi1oicgzu",
-      "title": "Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务",
-      "originalTitle": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "summary": "Meta 发布 Muse Ember（muse-ember-1.0），定位最小最高效的复杂推理执行模型，面向工具调用、编码子任务、路由、抽取和长文档解析等智能体日常重复任务。",
-      "source": "Meta AI：Research Blog（网页）",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 73,
-      "reason": "官方给出与 Claude Haiku 5.5 和 GPT-6 Luna 的逐项成本与基准对比，读者可据此评估智能体高频任务的性价比选型。",
-      "publishedAt": "2026-11-09 15:00",
-      "discoveredAt": "2026-11-10 02:48",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794207600.0,
-      "urlOriginal": "https://research.meta.ai/blog/muse-ember",
-      "urlDetail": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu",
-      "pool": "selected"
-    },
-    {
-      "no": 50,
-      "id": "i8df3mmfly47axpbbr1p6ivh5",
-      "title": "耶鲁教授 Sonnenfeld 估计黄仁勋职位去留概率约为 50-50",
-      "originalTitle": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-      "summary": "Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访耶鲁教授 Jeffrey Sonnenfeld，他估计黄仁勋保住职位的概率约为 50-50。",
-      "source": "TechCrunch：AI（RSS）",
-      "category": "opinion",
-      "categoryCn": "其他",
-      "score": 88,
-      "reason": "耶鲁教授对黄仁勋去留给出约五五开的判断，并解释了为何缺乏继任安排和先例使这场危机更难处理。",
-      "publishedAt": "2026-11-09 13:26",
-      "discoveredAt": "2026-11-09 13:49",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794201989.0,
-      "urlOriginal": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "urlDetail": "https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5",
-      "pool": "selected"
-    },
-    {
-      "no": 51,
-      "id": "e80fmjdp23n217sd6e7ky52om",
-      "title": "数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛",
-      "originalTitle": "我做了一个监控全网免费Token的网站，今天向所有人免费开放。",
-      "summary": "数字生命卡兹克上线免费聚合网站 Token羊毛（aihot.news/free-tokens），把各厂商公开的免费额度、签到积分、限时免费等活动汇总到一页，页面显示今日可领金额并按日、周、月分组，还设计了随领取次数升级亮度的卡片收集玩法。",
-      "source": "公众号：数字生命卡兹克",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 65,
-      "reason": "作者自建聚合页免费开放，并把筛选、核实、巡查整套 Agent 流程公开，读者可了解信息聚合类工具的实现思路。",
-      "publishedAt": "2026-11-09 07:56",
-      "discoveredAt": "2026-11-09 08:01",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794182160.0,
-      "urlOriginal": "https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg",
-      "urlDetail": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om",
-      "pool": "selected"
-    },
-    {
-      "no": 52,
+      "no": 57,
       "id": "r5h0cwwdh1peqbg2rk6k9ljrh",
       "title": "Zyphra 发布开源 TTS 模型 ZONOS3-Mini，可在手机浏览器实时运行",
       "originalTitle": "ZONOS3-Mini",
@@ -991,7 +1086,7 @@
       "pool": "selected"
     },
     {
-      "no": 53,
+      "no": 58,
       "id": "xmqflr9ja0pipwyibtqnf8qsj",
       "title": "Anthropic 测试 Claude Fable 5.2 端到端设计三种电子设备并制作可用原型",
       "originalTitle": "Testing Claude on real-world electronics design",
@@ -1007,101 +1102,6 @@
       "sortKey": 1794153600.0,
       "urlOriginal": "https://www.anthropic.com/research/claude-electronics-design",
       "urlDetail": "https://aihot.news/items/xmqflr9ja0pipwyibtqnf8qsj",
-      "pool": "selected"
-    },
-    {
-      "no": 54,
-      "id": "va9trgwaw3r4por6vdqbjxrhd",
-      "title": "Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2",
-      "originalTitle": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-      "summary": "Anthropic 发布 Claude Fable 5.2 和 Claude Mythos 5.2，两者为同一底层模型，Mythos 需通过 Cyber 或 Life Sciences Verification Program 申请访问。",
-      "source": "Anthropic：Newsroom（网页）",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 86,
-      "reason": "官方发布给出了具体基准对比、定价与安全测试细节，读者可据此评估新旧模型的能力与成本差异。",
-      "publishedAt": "2026-11-09 00:00",
-      "discoveredAt": "2026-11-10 03:16",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794153600.0,
-      "urlOriginal": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "urlDetail": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
-      "id": "xsvt2hlwuovul9sdvazcw7cxk",
-      "title": "字节发布 Seedream 5.5 图像创作模型：支持 100 轮编辑与原生 RGBA 透明输出",
-      "originalTitle": "生成更真实，百轮编辑更稳定｜Seedream 5.5 发布",
-      "summary": "字节 Seed 发布新一代图像创作模型 Seedream 5.5，带来三项升级：非编辑区域像素级保持、支持围绕同一作品多达 100 轮连续编辑；新增原生 RGBA 透明素材生成，直接输出带 Alpha 通道的图像，省去抠图；改善光照材质与皮肤纹理表现，并显著提升文字渲染能力。",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 70,
-      "reason": "官方原文给出多轮编辑稳定性、RGBA 透明输出和文字崩坏率等具体评测数据，可据此判断其在专业生产流程中的可用性。",
-      "publishedAt": "2026-11-09 00:00",
-      "discoveredAt": "2026-11-09 17:11",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794153600.0,
-      "urlOriginal": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83",
-      "urlDetail": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
-      "pool": "selected"
-    },
-    {
-      "no": 56,
-      "id": "h6vimc0xpjwbjfampr34ym5ol",
-      "title": "百度发布 ERNIE Evolve 自动研究系统，公开任务超最好纪录并落地 ERNIE-5.5-Flash 推理优化",
-      "originalTitle": "ERNIE Evolve：让自动研究走进真实 AI 研发",
-      "summary": "百度文心团队发布自动研究系统 ERNIE Evolve，用双层循环组织研究方向选择与实验迭代，由 Director、Selector、Executor、Evaluator 和 Reviewer 分工推进研究。",
-      "source": "百度文心 ERNIE 官方博客",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 69,
-      "reason": "官方详解自动研究系统的双层循环架构，并用公开榜单和生产级推理优化结果说明其实际收益。",
-      "publishedAt": "2026-11-09 00:00",
-      "discoveredAt": "2026-11-09 16:58",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794153600.0,
-      "urlOriginal": "https://ernie.baidu.com/zh/research/posts/ernie-evolve/",
-      "urlDetail": "https://aihot.news/items/h6vimc0xpjwbjfampr34ym5ol",
-      "pool": "selected"
-    },
-    {
-      "no": 57,
-      "id": "kss7rjmanc8dv5mpj60jtdzgd",
-      "title": "GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测",
-      "originalTitle": "史上最全 GPT Image 2.6 10 大 GIF 邪修玩法，肝了两天的我决定把提示语都公开了",
-      "summary": "作者实测前两天上线的 GPT-Image-2.6，整理出 10 个 GIF 玩法提示词（黏土定格动画、表情包、剪辑贴纸、loading 图、PPT 动态图表、爆炸拆解图等）并测试三项新能力。",
-      "source": "X：卡尔的 AI 沃茨 (@aiwarts)",
-      "category": "tip",
-      "categoryCn": "技术实践",
-      "score": 77,
-      "reason": "作者实测 GPT-Image-2.6 的 GIF 与静态新能力，附 10 个可复用提示词，也指出成本翻倍和人脸一致性短板。",
-      "publishedAt": "2026-11-08 22:22",
-      "discoveredAt": "2026-11-08 22:52",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794147754.0,
-      "urlOriginal": "https://x.com/aiwarts/status/2119435411667980473",
-      "urlDetail": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd",
-      "pool": "selected"
-    },
-    {
-      "no": 58,
-      "id": "okhx4jjwucd647299qwzsl6ua",
-      "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
-      "originalTitle": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
-      "summary": "据《金融时报》援引投资者的消息，Anthropic 计划在感恩节前 IPO，拟募资 800–1000 亿美元，估值 1.25–1.75 万亿美元，低于最乐观投资者期望的 2 万亿美元，但高于当前 9650 亿美元。",
-      "source": "The Decoder：AI News（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 76,
-      "reason": "文中给出 Anthropic IPO 的估值区间、募资规模和最新的年化营收数字，可对照 OpenAI 融资动向看当前 AI 市场降温。",
-      "publishedAt": "2026-11-08 01:37",
-      "discoveredAt": "2026-11-08 01:41",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794073045.0,
-      "urlOriginal": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
-      "urlDetail": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
       "pool": "selected"
     }
   ]
