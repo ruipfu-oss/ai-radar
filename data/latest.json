@@ -1,9 +1,104 @@
 {
-  "updatedAt": "2026-11-14 09:55",
+  "updatedAt": "2026-11-15 09:28",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "umoosrbjhi12kj7lv51qan4ju",
+      "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+      "originalTitle": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。",
+      "source": "TechCrunch：AI（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 84,
+      "reason": "请愿书给出的签名构成和罢免背景，可帮助读者了解 Nvidia 管理层变动后的各方反应与后续走向。",
+      "publishedAt": "2026-11-15 05:41",
+      "discoveredAt": "2026-11-15 06:23",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794692482.0,
+      "urlOriginal": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "urlDetail": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "vl3jnosrbdn6i5j2we400046i",
+      "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
+      "originalTitle": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+      "summary": "Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。",
+      "source": "The Decoder：AI News（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 78,
+      "reason": "在创纪录 IPO 前夕，Amodei 直言算力投资是公司最深的商业两难，还给出了毛利率与现金缓冲的具体应对思路。",
+      "publishedAt": "2026-11-15 03:05",
+      "discoveredAt": "2026-11-15 03:29",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794683117.0,
+      "urlOriginal": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "urlDetail": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
+      "id": "ni18shok3lh70l1e49nazmgdc",
+      "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+      "originalTitle": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "黄仁勋离开 Nvidia 后，亚洲多国政府相继回应：韩国科技部称 Nvidia 重申将向韩国供应 260,000 块先进 GPU 并继续联合 AI 项目，台湾经济部长龚明鑫认为此事不太可能显著改变全球 AI 产业增长，日本产业省表示将密切关注 Nvidia。",
+      "source": "TechCrunch：AI（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 84,
+      "reason": "",
+      "publishedAt": "2026-11-15 00:34",
+      "discoveredAt": "2026-11-15 01:52",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794674055.0,
+      "urlOriginal": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "urlDetail": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+      "pool": "selected"
+    },
+    {
+      "no": 4,
+      "id": "np6dwfqwflqe7vfse9kkfxj1n",
+      "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
+      "originalTitle": "Open-source AI without Jensen",
+      "summary": "Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "category": "opinion",
+      "categoryCn": "其他",
+      "score": 80,
+      "reason": "作者长期跟踪开源模型生态，从 Nvidia 内部支持机制、监管风险到美国缺位问题给出了完整分析框架。",
+      "publishedAt": "2026-11-14 20:23",
+      "discoveredAt": "2026-11-14 20:41",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794658995.0,
+      "urlOriginal": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "urlDetail": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n",
+      "pool": "selected"
+    },
+    {
+      "no": 5,
+      "id": "gslfz6uqr2sqy68cgv38i4tf0",
+      "title": "黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕",
+      "originalTitle": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，分析这位执掌首家 5 万亿美元公司、占标普 500 约 6% 的创始人的离去意味着什么。",
+      "source": "The Verge：AI（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 84,
+      "reason": "文章梳理了黄仁勋从创办 Nvidia 到押注 CUDA 的关键决策，并结合多位分析师判断其离开后公司的路线图与风险。",
+      "publishedAt": "2026-11-14 20:00",
+      "discoveredAt": "2026-11-14 20:54",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794657600.0,
+      "urlOriginal": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "urlDetail": "https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0",
+      "pool": "selected"
+    },
+    {
+      "no": 6,
       "id": "xzt8t0xkgj3mm17k11s2yo3d4",
       "title": "美联储金融稳定报告：AI成为华尔街头号金融风险",
       "originalTitle": "Fed releases financial stability report",
@@ -22,7 +117,7 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 7,
       "id": "dl9ehywczofu8vp5sj62s6j4n",
       "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
       "originalTitle": "FT: Speaking with Jamie Dimon at a JPMorgan event in New York, Dario Amodei shrugged off market turmoil during Anthropic's roadshow.",
@@ -41,7 +136,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 8,
       "id": "kq4awkrys4uz37b7gsvj5r1dj",
       "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
       "originalTitle": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -60,7 +155,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 9,
       "id": "kei20gkia8a0vhknc859jsfqr",
       "title": "NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造",
       "originalTitle": "so much drama around Jensen Huang and Nvidia board.",
@@ -79,7 +174,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 10,
       "id": "ajfypca37l5knyrnij49v5ofz",
       "title": "Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请",
       "originalTitle": "I feel like I can ask now…what has Claude Duet helped you with today? 😅",
@@ -98,7 +193,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 11,
       "id": "s59xfwl0atld8vs7xq0pdx6hw",
       "title": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
       "originalTitle": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
@@ -117,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 12,
       "id": "p1mfh9oe0xbq4evyru5pp1ikt",
       "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
       "originalTitle": "Nvidia Crises, Anthropic IPO & Off-the-Charts Demand Have the AI World in a Tizzy",
@@ -136,7 +231,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 13,
       "id": "p0jsxs2bnv6tmnmn1soi56759",
       "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
       "originalTitle": "You can use a Stop hook to have Claude try again when a check fails, but make sure it exits with code 2!",
@@ -155,7 +250,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 14,
       "id": "q92ir58jcjtp3g9fn11jlb6ei",
       "title": "研究报告称中国最强 AI 模型使用了被禁出口的 Nvidia Blackwell 芯片训练",
       "originalTitle": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
@@ -174,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 15,
       "id": "z4wsrxr1xmhg3lq3y0ouq5rmr",
       "title": "Sierra 发布 Personal Agent Protocol（Poppy）v1.0",
       "originalTitle": "Releasing Personal Agent Protocol 1.0",
@@ -193,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 16,
       "id": "vot1htumxjgnb0i88rbq3zsuq",
       "title": "ChatGPT 推出 ChatGPT Wallet，dot 可在用户批准下代为完成购买",
       "originalTitle": "Now your dot can securely complete purchases on your behalf—with your approval.",
@@ -212,7 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 17,
       "id": "vsfne926njom5wnadceo8r04m",
       "title": "Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明",
       "originalTitle": "Streaming live at 12 PM ET: A fireside chat with JPMorgan CEO Jamie Dimon and @DarioAmodei. https://www.youtube.com/live/YHEaEpeY3ew",
@@ -231,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 18,
       "id": "um8pmpa91qn1ymvx3pux0sq1x",
       "title": "llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本",
       "originalTitle": "We’re not going to win by lobbying, plotting, or manipulating. We’re going to win by building, in the open, with the whole community!",
@@ -250,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 19,
       "id": "pdhda5tufq7ubi8w17bys7w66",
       "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
       "originalTitle": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -269,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 20,
       "id": "e9o5h2c1o5f0xuh2bgqtc2w7k",
       "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展波及最多 5000 用户",
       "originalTitle": "An update on our recent security incident",
@@ -288,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 21,
       "id": "se0y4v3gihr6s0jmrc5vuv1zo",
       "title": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
       "originalTitle": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
@@ -307,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 22,
       "id": "qp41q77z9ge5hsyrh9kra0c7k",
       "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
       "originalTitle": "实时语音模型 Hy Realtime 发布：能说会唱、还能调用工具",
@@ -326,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 23,
       "id": "x7omcgiafs8nml9fnrog3sg9w",
       "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
       "originalTitle": "WIRED: An internal Nvidia suggestion-box post has drawn more than 1,600 comments, many urging the board to bring back Jensen Huang.",
@@ -345,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 24,
       "id": "h0obmlpmc44dqk1da164ca1z7",
       "title": "Google 展示 Antigravity /teamwork 多智能体协作成果并开放给研究者使用",
       "originalTitle": "Advancing science & engineering with Antigravity’s /teamwork",
@@ -364,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 25,
       "id": "ypeap2t8w4fqqfuvt7mw3wg79",
       "title": "Anthropic 详解常驻智能体的五个核心架构原语",
       "originalTitle": "Building always-on agents",
@@ -383,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 26,
       "id": "t86m3q7vdlqmvm2zmx91vps5a",
       "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
       "originalTitle": "黄仁勋辞职始末。",
@@ -402,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 27,
       "id": "cfh0nazzl7eedgttz8n99fza4",
       "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
       "originalTitle": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -421,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 28,
       "id": "k1kga19xtdab67lhplor8he8n",
       "title": "Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋",
       "originalTitle": "Apple 1985 (Steve Jobs), Atari 1978 (Nolan Bushnell), Uber 2017 (Travis Kalanick), OpenAI 2023 (Sam Altman).",
@@ -440,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 29,
       "id": "hjhcsj440ym8b7ynttcx4433j",
       "title": "Google 智能眼镜开放预购，12 月 10 日发货",
       "originalTitle": "Pre-order today at https://glasses.google and demo them in select Warby Parker, Gentle Monster, and Google stores (shipping Dec 10th!)",
@@ -459,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 30,
       "id": "zlbngirpqifhhi3bd5pbmixu4",
       "title": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
       "originalTitle": "Gemini 4 Hydrogen is rolling out today to all users globally on desktop, mobile, and web.",
@@ -478,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 31,
       "id": "mt013742fhedisepp2i31h1r4",
       "title": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
       "originalTitle": "Hobbies include:",
@@ -497,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 32,
       "id": "lazmov9ciw8y5uqpuda9qcizm",
       "title": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
       "originalTitle": "Atlas is now available to everyone!! I’m very excited to see what users can build with our newest world model! 🤩🌎",
@@ -516,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 33,
       "id": "ajvxvhu8bh001pourbhhjl0ir",
       "title": "Artificial Analysis 评测 Gemini 4 Hydrogen：智能指数 54，接近 Sonnet 5.5 且成本约其 32%",
       "originalTitle": "Google's new Gemini 4 Hydrogen has Intelligence just below Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet’s cost but ~2.5x that ...",
@@ -535,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 34,
       "id": "n73ab4h9gqlu6ucv69ynzxln4",
       "title": "SemiAnalysis 分析黄仁勋辞任 Nvidia 后的公司结构与出口管制走向",
       "originalTitle": "Nvidia and the World Without Jensen",
@@ -554,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 35,
       "id": "v26fsdyhbktgyuedmrx25p58y",
       "title": "Google Gemini 开放推送，覆盖开发者、企业与普通用户渠道",
       "originalTitle": "Now rolling out for:",
@@ -573,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 36,
       "id": "uy1ayrrlqx1snqsv4lub7whsa",
       "title": "Google DeepMind 发布 Gemini 4 Hydrogen",
       "originalTitle": "Introducing Gemini 4 Hydrogen",
@@ -592,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 37,
       "id": "icmwp7qazk244f7fn6zlw8882",
       "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
       "originalTitle": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
@@ -611,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 38,
       "id": "licdk6vosezxouovor3gvtcpe",
       "title": "The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云",
       "originalTitle": "The Jensen Huang scandal is hardly over",
@@ -630,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 39,
       "id": "k7sfjumcmtq0zswb5yj5kmju1",
       "title": "Replit Agent 新增代购能力和 Google Ads 投放功能",
       "originalTitle": "Replit Agent can now buy for your business and help you reach customers",
@@ -649,16 +744,16 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 40,
       "id": "toq4wymx9maq8lhhz8jryi0sv",
-      "title": "黄仁勋辞职后，Nvidia 与 AI 热潮的未来走向分析",
+      "title": "黄仁勋辞任 Nvidia CEO，Azeem Azhar 分析其对 AI 热潮的影响",
       "originalTitle": "🔥 Jensen Huang and the future of the AI boom",
-      "summary": "Azeem Azhar 分析黄仁勋辞任 Nvidia CEO 后的影响，CFO Colette Kress 将临时接任。他指出 Nvidia 五年间售出近 1400 万颗旗舰 AI 芯片、占市场 85%，并向 neocloud 提供财务担保、过去一年在欧洲投资近 100 亿美元；与乔布斯离任时不同，公司没有准备好的继任者，而黄仁勋本人一直是 AI 生态的关键纽带。",
+      "summary": "作者 Azeem Azhar 分析黄仁勋辞任 Nvidia CEO 一事：公司在未设接班政策的情况下由 CFO Colette Kress 临时接手。文章指出 Nvidia 五年间售出近 1400 万颗旗舰 AI 芯片、占 85% 市场，过去一年在欧洲投资近 100 亿美元，而黄仁勋本人是公司与 AI 生态的关键纽带。",
       "source": "Azeem Azhar：Exponential View（RSS）",
       "category": "industry",
       "categoryCn": "行业动态",
-      "score": 82,
-      "reason": "作者以亲历视角评估黄仁勋辞任对 AI 生态的影响，并指出 Nvidia 缺乏继任安排带来的不确定性。",
+      "score": 81,
+      "reason": "作者以多年行业观察为基础，把黄仁勋的个人作用与 Nvidia 在 AI 算力链条中的位置拆开来看，读者可以借此理解接班缺失对生态的实际影响。",
       "publishedAt": "2026-11-13 00:19",
       "discoveredAt": "2026-11-13 00:48",
       "timeNote": "原文发布时间",
@@ -668,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 41,
       "id": "adkgofriq3tvp6qrawfc63yw4",
       "title": "Epoch AI 分析华为和林格尔数据中心，揭示中美算力差距",
       "originalTitle": "What Huawei’s Horinger data center reveals about China’s compute gap",
@@ -687,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 42,
       "id": "nnbnoebf6mvo97usmwj5wziyl",
       "title": "DeepSeek 开放全家桶应用 API：联网搜索、文件输入、阅读链接等能力面向开发者",
       "originalTitle": "发布全家桶应用 API",
@@ -706,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 43,
       "id": "bp01lj0ahiqsoahba8sjor2b4",
       "title": "Apple HomeView 正式开售，售价 299 美元并搭载 Siri AI",
       "originalTitle": "Apple HomeView available today",
@@ -725,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 44,
       "id": "rcjkjkhq7xxwbhh9wnv15fqy1",
       "title": "MOSS-Live 全双工实时交互评测解读：与 GPT-Live-1、豆包的对比",
       "originalTitle": "MOSS-Live：全双工实时交互，与 GPT-Live、豆包的对比",
@@ -744,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 45,
       "id": "x751c9ptxg9qviw1ts32aoa79",
       "title": "Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程",
       "originalTitle": "How 3D transforms and Figma’s agent brought a launch video to life",
@@ -763,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 46,
       "id": "qsbjbz754aodhcijq56puh6va",
       "title": "NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
       "originalTitle": "NVIDIA Announces CEO Transition",
@@ -782,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 47,
       "id": "k99zjo9hbtous9r6vmmz7pxyh",
       "title": "Anthropic 官宣首次公开募股（IPO）",
       "originalTitle": "Our initial public offering: https://ipo.anthropic.com",
@@ -801,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 48,
       "id": "yg97h3u5vthadivuv5po5f0aw",
       "title": "OpenAI 用自动化红队训练提升 GPT-6 Astra 和 Sol 在高风险领域的模糊鲁棒性",
       "originalTitle": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming",
@@ -820,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 49,
       "id": "wz5z4s95o7y82d8fk803hyr3x",
       "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
       "originalTitle": "Stopping a running alignment evaluation",
@@ -839,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 50,
       "id": "t5pucqx6ac58z0ed1b0875ci0",
       "title": "Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型",
       "originalTitle": "Using Claude Opus 5.5 as your daily driver for knowledge work",
@@ -858,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 51,
       "id": "l36ne5q2gsdx6thyia7fi10kn",
       "title": "Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议",
       "originalTitle": "Introducing Claude Meetings",
@@ -877,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 52,
       "id": "ivpl9ziip8mpoa90avi3ke9pj",
       "title": "Jensen Huang 辞任 Nvidia CEO 后对 AI 经济的五点影响分析",
       "originalTitle": "When the Central Bank of AI Changes Chairs",
@@ -896,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
+      "no": 53,
       "id": "djhxmxr9hq0ekn8iwdqt5usih",
       "title": "Anthropic 发布 Claude Tag 创业公司使用指南",
       "originalTitle": "The Claude Tag guide for startups",
@@ -915,7 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
+      "no": 54,
       "id": "cve017k4le2q7l8x1bfr2xdjx",
       "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
       "originalTitle": "How We Built a Self-Correcting Localization System for OpenRouter",
@@ -934,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 50,
+      "no": 55,
       "id": "vq9nwgwhtm31cgoliyb7ydyde",
       "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
       "originalTitle": "How to Stop an AI Agent Stuck in an Infinite Loop",
@@ -953,7 +1048,7 @@
       "pool": "selected"
     },
     {
-      "no": 51,
+      "no": 56,
       "id": "aoxmmcsudy1gf9xmti7slu1wd",
       "title": "WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋",
       "originalTitle": "WSJ: Nvidia’s board, which publicly backed Jensen Huang on Sunday, is now close to deciding whether to remove its founder CEO.",
@@ -972,26 +1067,7 @@
       "pool": "selected"
     },
     {
-      "no": 52,
-      "id": "bx3sq4dxfqblyztkuiktiz0wv",
-      "title": "Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可",
-      "originalTitle": "Praxis-1 Is Now Available",
-      "summary": "Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。该模型为 27B 参数 MoE 扩散 Transformer，同时预测视频与动作，在 NVIDIA RoboLab-120 榜单以 46.2% 成功率居首，超过 FLUX 3 Action（42.9%）、Cosmos3 Nano（36.8%）和 π0.5（28.0%）。",
-      "source": "Runway：News（网页）",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 67,
-      "reason": "原文给出 RoboLab-120 榜单具体成绩、开源范围和适配方式，读者可以据此评估它在自有硬件上的部署可行性。",
-      "publishedAt": "2026-11-12 07:25",
-      "discoveredAt": "2026-11-12 01:03",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794439500.0,
-      "urlOriginal": "https://runwayml.com/news/company-news/praxis-1-is-now-available",
-      "urlDetail": "https://aihot.news/items/bx3sq4dxfqblyztkuiktiz0wv",
-      "pool": "selected"
-    },
-    {
-      "no": 53,
+      "no": 57,
       "id": "r8hsm3m3munjwk1n3u885zszw",
       "title": "Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策",
       "originalTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -1010,7 +1086,7 @@
       "pool": "selected"
     },
     {
-      "no": 54,
+      "no": 58,
       "id": "ep5oqt7m4l7gn3tqieilznmuk",
       "title": "Claude Code 中如何选择 Fable 5.2 与 Opus 等模型",
       "originalTitle": "Fable 5.2 or Opus? When to use each model in Claude Code",
@@ -1026,82 +1102,6 @@
       "sortKey": 1794418220.0,
       "urlOriginal": "https://www.youtube.com/watch?v=C33hJGt-ySg",
       "urlDetail": "https://aihot.news/items/ep5oqt7m4l7gn3tqieilznmuk",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
-      "id": "bisaluc0ii0f4s1gzi2zxbr1k",
-      "title": "a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道",
-      "originalTitle": "Welcome to the B2A Economy",
-      "summary": "a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。",
-      "source": "a16z：News（RSS）",
-      "category": "opinion",
-      "categoryCn": "其他",
-      "score": 62,
-      "reason": "a16z 提出 B2A 经济框架，用 Shopify、Vercel、Stripe 等多组增长数据拆解智能体如何成为新的分发渠道。",
-      "publishedAt": "2026-11-11 23:02",
-      "discoveredAt": "2026-11-11 23:43",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794409358.0,
-      "urlOriginal": "https://www.a16z.news/p/welcome-to-the-b2a-economy",
-      "urlDetail": "https://aihot.news/items/bisaluc0ii0f4s1gzi2zxbr1k",
-      "pool": "selected"
-    },
-    {
-      "no": 56,
-      "id": "r5kn7uexy6jx97qwxwvnpqrom",
-      "title": "Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市",
-      "originalTitle": "Bloomberg: Anthropic’s IPO has drawn orders for several times the shares available, mostly from anchor-size indications of interest (i.e....",
-      "summary": "Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来自大型机构投资者的锚定级意向。公司通过 IPO 加私募配售寻求最高 $90.4B，将超过 SpaceX 的 $85.7B 纪录成为史上最大上市，完全稀释估值目标约 $1.4T；Goldman Sachs 和 Morgan Stanley 牵头共 22 家银行，股票将以 ANT 在纳斯达克全球精选市场交易。",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 78,
-      "reason": "原文汇总了 Anthropic IPO 超额认购倍数、估值目标和上市安排等关键数字，可帮助读者了解这笔史上最大规模上市的认购结构。",
-      "publishedAt": "2026-11-11 22:38",
-      "discoveredAt": "2026-11-11 23:05",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794407931.0,
-      "urlOriginal": "https://x.com/rohanpaul_ai/status/2120526677247939001",
-      "urlDetail": "https://aihot.news/items/r5kn7uexy6jx97qwxwvnpqrom",
-      "pool": "selected"
-    },
-    {
-      "no": 57,
-      "id": "iz168hjk4ew8jpiokzjqcwbgi",
-      "title": "Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
-      "originalTitle": "马斯克旗下 Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
-      "summary": "据彭博社报道，多名未成年受害者就 Grok 被用于把普通照片篡改成儿童性虐待材料（CSAM）对马斯克旗下 xAI 提起多起集体诉讼，律师估计符合索赔条件的受害者可能多达数千人。",
-      "source": "IT之家·人工智能",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 86,
-      "reason": "报道借受害者案例梳理多起针对 xAI 的集体诉讼，呈现 AI 生成内容责任归属与第 230 条适用之争的争议焦点。",
-      "publishedAt": "2026-11-11 21:56",
-      "discoveredAt": "2026-11-11 22:24",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794405404.467,
-      "urlOriginal": "https://www.ithome.com/1/025/809.htm",
-      "urlDetail": "https://aihot.news/items/iz168hjk4ew8jpiokzjqcwbgi",
-      "pool": "selected"
-    },
-    {
-      "no": 58,
-      "id": "z9u4n1e7zfapxjozcn97quhdp",
-      "title": "Anthropic 发布 MAMUBench：单一智能体协调在四类环境中均胜过每个用户各自的智能体团队",
-      "originalTitle": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
-      "summary": "Anthropic Fellows Program 团队构建四个多用户多智能体模拟环境（共享 API token 预算、诊所日历、团体订餐或旅行预订、合并队列），测试 Anthropic、OpenAI 和 Alibaba 的前沿模型，并发布其中三个环境作为基准 MAMUBench。",
-      "source": "Anthropic：Alignment Science Blog（网页）",
-      "category": "paper",
-      "categoryCn": "论文研究",
-      "score": 70,
-      "reason": "Anthropic 用四个模拟环境测出多用户多智能体团队的协调失败模式，并发布 MAMUBench 供社区复测。",
-      "publishedAt": "2026-11-11 08:00",
-      "discoveredAt": "2026-11-12 00:59",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794355200.0,
-      "urlOriginal": "https://alignment.anthropic.com/2026/worse-together/",
-      "urlDetail": "https://aihot.news/items/z9u4n1e7zfapxjozcn97quhdp",
       "pool": "selected"
     }
   ]
