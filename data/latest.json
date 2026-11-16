@@ -1,9 +1,28 @@
 {
-  "updatedAt": "2026-11-15 09:28",
+  "updatedAt": "2026-11-16 09:31",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "izdx1kuppob6c65ghvmyeal38",
+      "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
+      "originalTitle": "",
+      "summary": "作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。",
+      "source": "公众号：数字生命卡兹克",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 72,
+      "reason": "原文拆解了1.4M纯HTML 3D游戏的体积来源和程序化生成原理，并给出可直接复用的提示词模板和自查迭代方法。",
+      "publishedAt": "2026-11-16 07:56",
+      "discoveredAt": "2026-11-16 08:01",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794786960.0,
+      "urlOriginal": "https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg",
+      "urlDetail": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
       "id": "umoosrbjhi12kj7lv51qan4ju",
       "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
       "originalTitle": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -22,7 +41,7 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 3,
       "id": "vl3jnosrbdn6i5j2we400046i",
       "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
       "originalTitle": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
@@ -38,25 +57,6 @@
       "sortKey": 1794683117.0,
       "urlOriginal": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
       "urlDetail": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-      "pool": "selected"
-    },
-    {
-      "no": 3,
-      "id": "ni18shok3lh70l1e49nazmgdc",
-      "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
-      "originalTitle": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary": "黄仁勋离开 Nvidia 后，亚洲多国政府相继回应：韩国科技部称 Nvidia 重申将向韩国供应 260,000 块先进 GPU 并继续联合 AI 项目，台湾经济部长龚明鑫认为此事不太可能显著改变全球 AI 产业增长，日本产业省表示将密切关注 Nvidia。",
-      "source": "TechCrunch：AI（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 84,
-      "reason": "",
-      "publishedAt": "2026-11-15 00:34",
-      "discoveredAt": "2026-11-15 01:52",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794674055.0,
-      "urlOriginal": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "urlDetail": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
       "pool": "selected"
     },
     {
@@ -81,14 +81,14 @@
     {
       "no": 5,
       "id": "gslfz6uqr2sqy68cgv38i4tf0",
-      "title": "黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕",
-      "originalTitle": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "summary": "The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，分析这位执掌首家 5 万亿美元公司、占标普 500 约 6% 的创始人的离去意味着什么。",
+      "title": "黄仁勋离开Nvidia：远见型创始人CEO时代落幕",
+      "originalTitle": "",
+      "summary": "The Verge长文回顾黄仁勋离开Nvidia，分析这位执掌首家5万亿美元公司、占标普500约6%的创始人的离去意味着什么。文章梳理了黄仁勋从创办Nvidia到押注CUDA的关键决策，并结合多位分析师判断其离开后公司的路线图与风险。",
       "source": "The Verge：AI（RSS）",
       "category": "industry",
       "categoryCn": "行业动态",
       "score": 84,
-      "reason": "文章梳理了黄仁勋从创办 Nvidia 到押注 CUDA 的关键决策，并结合多位分析师判断其离开后公司的路线图与风险。",
+      "reason": "文章梳理了黄仁勋从创办Nvidia到押注CUDA的关键决策，并结合多位分析师判断其离开后公司的路线图与风险。",
       "publishedAt": "2026-11-14 20:00",
       "discoveredAt": "2026-11-14 20:54",
       "timeNote": "原文发布时间",
@@ -441,6 +441,25 @@
     },
     {
       "no": 24,
+      "id": "habommgck5ql3tdf688ca370s",
+      "title": "美团 LongCat 开源 LongCat-Video-Avatar 1.6 音频驱动数字人视频生成模型",
+      "originalTitle": "meituan-longcat/LongCat-Video-Avatar-1.6",
+      "summary": "美团 LongCat 团队发布开源音频驱动人体视频生成模型 LongCat-Video-Avatar 1.6，改进口型自然度、唇音同步、面部与肢体动作协调及长视频视觉一致性，缓解自回归续写误差累积，可生成超过 10 分钟的视频，并加入端到端推理优化。",
+      "source": "美团 LongCat：HuggingFace 新模型",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 61,
+      "reason": "原文给出 1.6 版能力改进、33,051 票人工评测排名和完整部署参数，读者可据此评估升级幅度与推理配置。",
+      "publishedAt": "2026-11-13 10:45",
+      "discoveredAt": "2026-11-15 11:38",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794537933.0,
+      "urlOriginal": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+      "urlDetail": "https://aihot.news/items/habommgck5ql3tdf688ca370s",
+      "pool": "selected"
+    },
+    {
+      "no": 25,
       "id": "h0obmlpmc44dqk1da164ca1z7",
       "title": "Google 展示 Antigravity /teamwork 多智能体协作成果并开放给研究者使用",
       "originalTitle": "Advancing science & engineering with Antigravity’s /teamwork",
@@ -459,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 26,
       "id": "ypeap2t8w4fqqfuvt7mw3wg79",
       "title": "Anthropic 详解常驻智能体的五个核心架构原语",
       "originalTitle": "Building always-on agents",
@@ -478,35 +497,16 @@
       "pool": "selected"
     },
     {
-      "no": 26,
-      "id": "t86m3q7vdlqmvm2zmx91vps5a",
-      "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
-      "originalTitle": "黄仁勋辞职始末。",
-      "summary": "英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价开盘下跌14个点。作者依据《纽约时报》、The Information 等报道梳理脉络：从2022年A100、H100对华禁售，到 Megaspeed 采购争议、黄乐被情报机构认定涉间谍活动，再到婚外情曝光后董事会于10月29日起14天内收网，黄仁勋在英伟达33年的时代就此结束。",
-      "source": "公众号：数字生命卡兹克",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 92,
-      "reason": "作者梳理了从芯片出口管制、Megaspeed 调查到黄仁勋辞职的完整时间线，适合想理解事件脉络的读者。",
-      "publishedAt": "2026-11-13 07:56",
-      "discoveredAt": "2026-11-13 08:01",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794527760.0,
-      "urlOriginal": "https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg",
-      "urlDetail": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
-      "pool": "selected"
-    },
-    {
       "no": 27,
       "id": "cfh0nazzl7eedgttz8n99fza4",
-      "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-      "originalTitle": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "summary": "民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。",
+      "title": "美国民主党议员就英伟达对华芯片销售启动调查",
+      "originalTitle": "",
+      "summary": "美国国会民主党议员近日就特朗普政府处理英伟达对华芯片销售一事启动调查，并致函商务部长要求保存相关记录。调查关注芯片出口许可、关税安排及英伟达与政府之间的商业往来等监管问题。",
       "source": "TechCrunch：AI（RSS）",
       "category": "industry",
       "categoryCn": "行业动态",
       "score": 82,
-      "reason": "原文梳理了民主党对 Nvidia 对华芯片销售安排的调查要点，包括关税分成与许可细节，读者可借此了解监管争议的具体脉络。",
+      "reason": "原文梳理了美国民主党对英伟达对华芯片销售安排的调查要点，包括出口许可与关税安排等细节，读者可借此了解相关监管争议的具体脉络。",
       "publishedAt": "2026-11-13 06:42",
       "discoveredAt": "2026-11-13 07:06",
       "timeNote": "原文发布时间",
@@ -519,8 +519,8 @@
       "no": 28,
       "id": "k1kga19xtdab67lhplor8he8n",
       "title": "Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋",
-      "originalTitle": "Apple 1985 (Steve Jobs), Atari 1978 (Nolan Bushnell), Uber 2017 (Travis Kalanick), OpenAI 2023 (Sam Altman).",
-      "summary": "Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。",
+      "originalTitle": "",
+      "summary": "Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "category": "industry",
       "categoryCn": "行业动态",
@@ -633,7 +633,7 @@
       "no": 34,
       "id": "n73ab4h9gqlu6ucv69ynzxln4",
       "title": "SemiAnalysis 分析黄仁勋辞任 Nvidia 后的公司结构与出口管制走向",
-      "originalTitle": "Nvidia and the World Without Jensen",
+      "originalTitle": "",
       "summary": "SemiAnalysis 长文分析黄仁勋辞任 Nvidia CEO 后的连锁影响，作者推测其去职与 GPU 走私及美国推动 RASA 出口管制立法有关。文中指出公司约 60 名直管高管的扁平结构依赖黄本人，继任者 Colette Kress 为临时 CEO，Ian Buck 与 Jonah Alben 被视为技术侧人选但无人能全面接替。",
       "source": "SemiAnalysis 长文 RSS（RSS）",
       "category": "industry",
@@ -840,6 +840,25 @@
     },
     {
       "no": 45,
+      "id": "m76r4bnrvb21vkm8wn2khk0jr",
+      "title": "Kate Clark 转发 WSJ 报道称 Nvidia 正准备罢免 CEO 黄仁勋并征集信源",
+      "originalTitle": "If you want to chat about what all this means for private markets - dealmaking, fundraising, Jensen’s role here, or the ripple effects ac...",
+      "summary": "记者 Kate Clark 分享 WSJ 报道链接，该报道称 Nvidia 正准备罢免 CEO 黄仁勋。她同时留下 Signal 联系方式 415-409-9095，征集关于此事对私募市场、交易撮合、融资及 AI 行业连锁影响的爆料与讨论。",
+      "source": "X：Kate Clark (@KateClarkTweets)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 82,
+      "reason": "记者转发 WSJ 关于 Nvidia 拟罢免 CEO 黄仁勋的报道，并留下 Signal 联系方式征集一手信源，可关注后续进展。",
+      "publishedAt": "2026-11-12 22:39",
+      "discoveredAt": "2026-11-12 22:39",
+      "timeNote": "原文发布时间",
+      "sortKey": 1794494344.0,
+      "urlOriginal": "https://x.com/KateClarkTweets/status/2120889116250288597",
+      "urlDetail": "https://aihot.news/items/m76r4bnrvb21vkm8wn2khk0jr",
+      "pool": "selected"
+    },
+    {
+      "no": 46,
       "id": "x751c9ptxg9qviw1ts32aoa79",
       "title": "Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程",
       "originalTitle": "How 3D transforms and Figma’s agent brought a launch video to life",
@@ -858,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 47,
       "id": "qsbjbz754aodhcijq56puh6va",
       "title": "NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
       "originalTitle": "NVIDIA Announces CEO Transition",
@@ -877,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 48,
       "id": "k99zjo9hbtous9r6vmmz7pxyh",
       "title": "Anthropic 官宣首次公开募股（IPO）",
       "originalTitle": "Our initial public offering: https://ipo.anthropic.com",
@@ -896,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
+      "no": 49,
       "id": "yg97h3u5vthadivuv5po5f0aw",
       "title": "OpenAI 用自动化红队训练提升 GPT-6 Astra 和 Sol 在高风险领域的模糊鲁棒性",
       "originalTitle": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming",
@@ -915,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
+      "no": 50,
       "id": "wz5z4s95o7y82d8fk803hyr3x",
       "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
       "originalTitle": "Stopping a running alignment evaluation",
@@ -934,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 50,
+      "no": 51,
       "id": "t5pucqx6ac58z0ed1b0875ci0",
       "title": "Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型",
       "originalTitle": "Using Claude Opus 5.5 as your daily driver for knowledge work",
@@ -953,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 51,
+      "no": 52,
       "id": "l36ne5q2gsdx6thyia7fi10kn",
       "title": "Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议",
       "originalTitle": "Introducing Claude Meetings",
@@ -972,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 52,
+      "no": 53,
       "id": "ivpl9ziip8mpoa90avi3ke9pj",
       "title": "Jensen Huang 辞任 Nvidia CEO 后对 AI 经济的五点影响分析",
       "originalTitle": "When the Central Bank of AI Changes Chairs",
@@ -991,7 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 53,
+      "no": 54,
       "id": "djhxmxr9hq0ekn8iwdqt5usih",
       "title": "Anthropic 发布 Claude Tag 创业公司使用指南",
       "originalTitle": "The Claude Tag guide for startups",
@@ -1010,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 54,
+      "no": 55,
       "id": "cve017k4le2q7l8x1bfr2xdjx",
       "title": "OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460",
       "originalTitle": "How We Built a Self-Correcting Localization System for OpenRouter",
@@ -1029,7 +1048,7 @@
       "pool": "selected"
     },
     {
-      "no": 55,
+      "no": 56,
       "id": "vq9nwgwhtm31cgoliyb7ydyde",
       "title": "OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题",
       "originalTitle": "How to Stop an AI Agent Stuck in an Infinite Loop",
@@ -1045,25 +1064,6 @@
       "sortKey": 1794441600.0,
       "urlOriginal": "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/",
       "urlDetail": "https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde",
-      "pool": "selected"
-    },
-    {
-      "no": 56,
-      "id": "aoxmmcsudy1gf9xmti7slu1wd",
-      "title": "WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋",
-      "originalTitle": "WSJ: Nvidia’s board, which publicly backed Jensen Huang on Sunday, is now close to deciding whether to remove its founder CEO.",
-      "summary": "WSJ 报道，Nvidia 董事会此前公开支持黄仁勋，如今接近决定是否罢免这位创始人 CEO。起因是黄仁勋与一名被指为中国情报人员的女子交往，随后又曝出与一名 Nvidia 员工的第二段婚外情；周日开始独立调查时董事会表示没有理由认为 Nvidia 机密泄露。",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 89,
-      "reason": "原文汇总了董事会调查、持股与接班安排等关键事实，读者可据此理解 Nvidia 治理层面的最新走向。",
-      "publishedAt": "2026-11-12 07:43",
-      "discoveredAt": "2026-11-12 07:52",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794440585.0,
-      "urlOriginal": "https://x.com/rohanpaul_ai/status/2120663635479625930",
-      "urlDetail": "https://aihot.news/items/aoxmmcsudy1gf9xmti7slu1wd",
       "pool": "selected"
     },
     {
