@@ -1,9 +1,85 @@
 {
-  "updatedAt": "2026-11-21 10:56",
+  "updatedAt": "2026-11-22 09:50",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "d32df9vzpliz9m348fug74inq",
+      "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+      "originalTitle": "New Columbia and MIT paper shows that an algorithm Claude found beats the long-standing speed limits for 3SUM and all-pairs shortest paths.",
+      "summary": "Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 77,
+      "reason": "论文显示 Claude 发现的算法改进了 3SUM 和 APSP 的长期复杂度上限，并用 Lean 4 形式化验证，读者可以了解 AI 搜索算法的可行路径。",
+      "publishedAt": "2026-11-22 02:47",
+      "discoveredAt": "2026-11-22 02:49",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795286846.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2124213113583174076",
+      "urlDetail": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "tje8i8y21ttk7jjmqet5bpxuq",
+      "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+      "originalTitle": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "summary": "Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。",
+      "source": "The Decoder：AI News（RSS）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 82,
+      "reason": "报道同时给出 AI 证明以 Lean 形式化验证和人类证明遭社区质疑两条线，读者可据此判断双方证明各自的验证路径与可信度。",
+      "publishedAt": "2026-11-21 19:19",
+      "discoveredAt": "2026-11-21 19:42",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795259989.0,
+      "urlOriginal": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "urlDetail": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
+      "id": "xqe6lbb5zsjp9xbsc1o912cs0",
+      "title": "Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件",
+      "originalTitle": "Security event: Prompt leakage for requests in June and July of 2026",
+      "summary": "Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。",
+      "source": "Together AI 研究与产品博客（RSS）",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 74,
+      "reason": "原文披露了提示词泄露的范围、成因与已落实的整改措施，用户可据此评估自己是否受影响及是否开启 ZDR。",
+      "publishedAt": "2026-11-21 08:00",
+      "discoveredAt": "2026-11-22 07:46",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795219200.0,
+      "urlOriginal": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "urlDetail": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0",
+      "pool": "selected"
+    },
+    {
+      "no": 4,
+      "id": "rlj39tzyujneo0u35iyrfb4uc",
+      "title": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+      "originalTitle": "Qwen4 Max is live on Together AI",
+      "summary": "Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。",
+      "source": "Together AI 研究与产品博客（RSS）",
+      "category": "ai-products",
+      "categoryCn": "产品与应用",
+      "score": 72,
+      "reason": "Together AI 用一次 65 万 token 的整仓修 bug 实测展示 Qwen4 Max 的长上下文编码能力，并给出价格、缓存和调用细节。",
+      "publishedAt": "2026-11-21 08:00",
+      "discoveredAt": "2026-11-22 05:44",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795219200.0,
+      "urlOriginal": "https://www.together.ai/blog/qwen4-max",
+      "urlDetail": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+      "pool": "selected"
+    },
+    {
+      "no": 5,
       "id": "w612ivonntodntv1ydkt2lqwh",
       "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
       "originalTitle": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
@@ -22,7 +98,26 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 6,
+      "id": "agm7klro03kcu9weuix1bt4su",
+      "title": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+      "originalTitle": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "summary": "研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。",
+      "source": "Ars Technica：AI（RSS）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 78,
+      "reason": "研究者在 AI 供应链中埋入 200 万个金丝雀链接，原文给出了数据泄露路径和 OpenRouter 的回应细节。",
+      "publishedAt": "2026-11-21 04:59",
+      "discoveredAt": "2026-11-21 06:07",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795208348.0,
+      "urlOriginal": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "urlDetail": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+      "pool": "selected"
+    },
+    {
+      "no": 7,
       "id": "ekf0so0xitc52thkrxx3mwax1",
       "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
       "originalTitle": "In the ChatGPT sidebar, Space is the new home for pages, slides, images, files, and uploads.",
@@ -41,7 +136,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 8,
       "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
       "title": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码",
       "originalTitle": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
@@ -60,7 +155,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 9,
       "id": "qfwgfsg8m1r4vcf4vglgi03by",
       "title": "MIT 数学面板讨论 AI 冲击下的数学研究未来",
       "originalTitle": "Following the “mathocalypse,” mathematicians consider the future",
@@ -79,7 +174,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 10,
       "id": "ufyn252g3i251j0mfwy8xth9r",
       "title": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
       "originalTitle": "",
@@ -98,7 +193,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 11,
       "id": "y7nk77dxae51qwi826gpmvbho",
       "title": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
       "originalTitle": "Introducing Inkling 2 Mini",
@@ -117,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 12,
       "id": "sakj36g0tvzaeoianryyn6o6g",
       "title": "MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹",
       "originalTitle": "",
@@ -136,7 +231,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 13,
       "id": "amx0tnq9rthd6ssx81np25ldc",
       "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
       "originalTitle": "",
@@ -155,7 +250,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 14,
       "id": "jl6m0eymz9z0kleh54c3guowx",
       "title": "腾讯混元开放 Hy4 权重",
       "originalTitle": "Today, we’re releasing the open weights for Hy4.",
@@ -174,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 15,
       "id": "t68rgyv46hdbp52212ozxleh3",
       "title": "Google 回顾 Duplex 十年演进：如何在 Gemini Tasks 中替用户打电话给商家",
       "originalTitle": "How Google Duplex evolved to also call businesses for you in Gemini",
@@ -193,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 16,
       "id": "wibzzhd168cafn7o3gl8336di",
       "title": "browser-use 1.0 发布：用一个 Python REPL 工具替代 24 个浏览器动作",
       "originalTitle": "browser-use 1.0: Why We Replaced 24 Agent Tools With One",
@@ -212,7 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 17,
       "id": "w1q2gyqsel49b4vbqeodf0qmc",
       "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
       "originalTitle": "",
@@ -231,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 18,
       "id": "h5xjk79bhcu8vgnbrynj208uj",
       "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
       "originalTitle": "Gemini app on Mac can now do tasks on your computer, a top feature request!",
@@ -250,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 19,
       "id": "z0unnn7ryj39a3tuns8b1l4a6",
       "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
       "originalTitle": "Just yesterday, @GoogleDeepMind released Gemini 4 Neon.",
@@ -269,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 20,
       "id": "lc38ozrwfur9ympu1l3meqcuq",
       "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
       "originalTitle": "One of the best parts of building Claude was the friendships we made along the way. I still remember talking through model evals and post...",
@@ -288,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 21,
       "id": "w8zhbr5smu0072gyuzmmay1eo",
       "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
       "originalTitle": "Congratulations to @AnthropicAI on their historic IPO today! Anthropic has shown the world what a focused, high-conviction, taste-driven ...",
@@ -307,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 22,
       "id": "n3npoqbr48wu58cke5p3ox18l",
       "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
       "originalTitle": "Introducing Tool Retrieval in the Gemini API",
@@ -326,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 23,
       "id": "n1nzpfmd3f6zc4abq3s8yxrde",
       "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
       "originalTitle": "Today we are rolling out Genie 4 on the Gemini API and AI Studio🚀",
@@ -345,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 24,
       "id": "gp3hccimt42ak2uh82nrpty65",
       "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
       "originalTitle": "恭喜 Anthropic IPO 这个最“人类”的科技公司 Nasdaq 敲钟鼓掌怎么像是 AI 生成的 😜",
@@ -364,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 25,
       "id": "h4bvsjw4ri6to1inm87srlf42",
       "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
       "originalTitle": "",
@@ -383,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 26,
       "id": "bj8r4lnrbcoi5cl1asnyn6qt5",
       "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
       "originalTitle": "Remarks from Anthropic CEO @DarioAmodei on our initial public offering:",
@@ -402,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 27,
       "id": "gklqioeodqeuqgz3lttg83ztv",
       "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
       "originalTitle": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
@@ -421,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 28,
       "id": "cty34utgc5ppbdnayf7cnjqlv",
       "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
       "originalTitle": "Sharing new research on self-improving skills in Perplexity Computer. Brain, which already maintains a knowledge wiki about your work, no...",
@@ -440,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 29,
       "id": "sn8qb9u8fqka3mpnmy0r1nz4b",
       "title": "METR 发布 2026 年 11 月能力测量更新：AI R&D 相关能力每约 3.6 个月翻倍且更难测量",
       "originalTitle": "",
@@ -459,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 30,
       "id": "wnw22hxqlwsd58lzsm44psc6g",
       "title": "Runway 详解如何构建智能体驱动的软件工厂",
       "originalTitle": "Building a Software Factory",
@@ -478,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 31,
       "id": "a8d06cpj4vy2dkdzazgsqsrwx",
       "title": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
       "originalTitle": "Anthropic’s IPO puts AI’s circular financing boom to the test",
@@ -497,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 32,
       "id": "zs46vfwtzhs7fzho1p17mfisf",
       "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
       "originalTitle": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
@@ -516,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 33,
       "id": "wefmgc42bqc1uhcqc2gv3haav",
       "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
       "originalTitle": "Study reveals data centers’ long-distance damage to air quality",
@@ -535,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 34,
       "id": "alwgjr29158n454prl9tjmmw1",
       "title": "OpenAI 详解 Codex 驱动的 Performance Factory 如何自动保持 ChatGPT 高性能",
       "originalTitle": "",
@@ -554,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 35,
       "id": "nl1zxwjilx9vxvz7af13c1s9w",
       "title": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
       "originalTitle": "Theorizer comes to Asta",
@@ -573,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 36,
       "id": "gpufpm2kxcsxrewhivsjviz3a",
       "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
       "originalTitle": "彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲",
@@ -592,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 37,
       "id": "g47lsydtqfsi16e0z920ghe2y",
       "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
       "originalTitle": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -611,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 38,
       "id": "i94tul4bae051uizh2kkpn2r4",
       "title": "OpenHands 详解用 Agent 自动修复自家镜像 CVE 的软件工厂",
       "originalTitle": "Inside our CVE software factory: how OpenHands patches its own images",
@@ -630,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 39,
       "id": "stnka187ae3za2qnx70vqheg7",
       "title": "Conductor 0.97.0 发布并宣布加入 Meta，本地工作区智能体新增 artifacts",
       "originalTitle": "",
@@ -649,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 40,
       "id": "abxhv94f3gcq1qb9mzdf7yma3",
       "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
       "originalTitle": "",
@@ -668,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 41,
       "id": "uaupvkzwpndnn2zg1b50zv9v7",
       "title": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
       "originalTitle": "",
@@ -687,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 42,
       "id": "bnqsw7ispucfily4bdq9vz33j",
       "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
       "originalTitle": "GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations.",
@@ -706,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 43,
       "id": "k821p6smjnprmolffcr66q1mz",
       "title": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
       "originalTitle": "Gemini 4 Neon from @GoogleDeepMind is live on OpenRouter!",
@@ -725,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 44,
       "id": "dpmse0g0euqubtr0704x8bqvw",
       "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
       "originalTitle": "Starting today, Gemini 4 Neon is available to Google AI Pro and Ultra subscribers on mobile, desktop, and web.",
@@ -744,26 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
-      "id": "lp0snt9lfrx5ju7mg3wma6hnw",
-      "title": "Google DeepMind 发布 Gemini 4 Neon",
-      "originalTitle": "Introducing Gemini 4 Neon",
-      "summary": "Google DeepMind 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。模型在 Artificial Analysis Intelligence Index 得 61 分排第 3，Vals Index 排第 2，Agent Arena Index 以 1336 分全球第 2。",
-      "source": "Google DeepMind：Blog（RSS）",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 78,
-      "reason": "官方发布给出多份第三方基准成绩、定价和开放范围，读者可以据此判断它在速度与成本上的定位。",
-      "publishedAt": "2026-11-19 05:35",
-      "discoveredAt": "2026-11-19 06:03",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795037743.0,
-      "urlOriginal": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "urlDetail": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
-      "pool": "selected"
-    },
-    {
-      "no": 41,
+      "no": 45,
       "id": "isjju2oyoxg3d9v6k4eyt32fi",
       "title": "Palmer Luckey 就 Nvidia CEO 人事变动发表看法",
       "originalTitle": "",
@@ -782,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 46,
       "id": "i24hiy236uc3ynswh26pw7s0h",
       "title": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
       "originalTitle": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
@@ -801,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 47,
       "id": "tsh3b6rieynf7vstk1ipl34ae",
       "title": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
       "originalTitle": "roughly an additional year of progress on @AMD's chip achieved in less than 5 months using our models, with some of these results include...",
@@ -820,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 48,
       "id": "gpvt9y9d89gd5nkw92bwhyw6s",
       "title": "黄仁勋辞职后首次财报电话会：Nvidia 新 CEO Colette Kress 收紧支出并回应回归呼声",
       "originalTitle": "",
@@ -839,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 49,
       "id": "rubpebtbkzpp1fpbtvw0kt8v2",
       "title": "Google DeepMind 开放 Project Genie 新体验，首次提供 Genie 4 世界模型",
       "originalTitle": "Genie 4 is now available",
@@ -858,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 50,
       "id": "j8qdprqh5i5n9n7ece0f411f1",
       "title": "腾讯混元宣布 11 月 20 日在 Reddit r/LocalLLaMA 举办 AMA",
       "originalTitle": "We’re hosting an AMA on Reddit this Friday, Nov 20, 8–10 AM PT!",
@@ -877,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 51,
       "id": "wi5cfyezztfdcojsokxto4q0d",
       "title": "Stanford RegLab 发布 PhantomDocket 基准，追踪美国州法院诉讼文书中的 AI 辅助写作",
       "originalTitle": "AI Might Be Flooding State Court Houses, but Proving It Is Another Matter",
@@ -896,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
+      "no": 52,
       "id": "x8i90coywg5pag1dmf436vgg5",
       "title": "Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007",
       "originalTitle": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
@@ -915,45 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
-      "id": "yxu549lhmsyp0qe8rstrheqlw",
-      "title": "Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢",
-      "originalTitle": "华尔街为 Anthropic“史上最大 IPO”造势，散户争抢热情或超 SpaceX",
-      "summary": "据路透社报道，Anthropic 预计于当地时间 11 月 19 日登陆公开市场，IPO 估值最高可能达到 1.4 万亿美元。金融机构已推出 2 倍做多与做空 ETF 等挂钩产品，Vanda Research 预计上市将吸引约 2.5 亿美元散户净买入，为 SpaceX IPO 期间 1.18 亿美元纪录的两倍。",
-      "source": "IT之家·人工智能",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 79,
-      "reason": "转引路透社报道梳理了 Anthropic IPO 前的华尔街造势细节，杠杆 ETF、散户资金预测与质疑声并列，可帮助读者把握上市前的市场情绪。",
-      "publishedAt": "2026-11-18 18:45",
-      "discoveredAt": "2026-11-18 19:05",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794998707.76,
-      "urlOriginal": "https://www.ithome.com/1/029/015.htm",
-      "urlDetail": "https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw",
-      "pool": "selected"
-    },
-    {
-      "no": 50,
-      "id": "oisr0dfay736le62g425urn8l",
-      "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型",
-      "originalTitle": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "summary": "Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。",
-      "source": "Latent Space（RSS）",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 83,
-      "reason": "汇编了 GPT-6.2 双模型的第三方基准与价格数据，同时保留早期测试者的负面反馈，读者可以据此自行权衡性价比与口碑分歧。",
-      "publishedAt": "2026-11-18 18:19",
-      "discoveredAt": "2026-11-18 19:18",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794997144.0,
-      "urlOriginal": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
-      "urlDetail": "https://aihot.news/items/oisr0dfay736le62g425urn8l",
-      "pool": "selected"
-    },
-    {
-      "no": 51,
+      "no": 53,
       "id": "v0rnw0gs7wqagl0k8xwblf421",
       "title": "OpenAI 发布研究加速报告：智能体完成近半数长时研究任务但进展参差",
       "originalTitle": "Research acceleration: The jagged frontier",
@@ -972,7 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 52,
+      "no": 54,
       "id": "fn0p7buwy74nvduahsy10sp2f",
       "title": "OpenAI 深入解析 Codex 沙箱的权限设计与三平台实现",
       "originalTitle": "Inside the Codex sandbox",
@@ -991,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 53,
+      "no": 55,
       "id": "na2nxuqq5bxz0us1vjup0l259",
       "title": "OpenAI 详解前沿 AI 风险管理：从训练到部署的四层防护",
       "originalTitle": "Managing frontier AI risk: From training to deployment",
@@ -1010,26 +1048,7 @@
       "pool": "selected"
     },
     {
-      "no": 54,
-      "id": "sah26a5ofgvrxd76bgj9t77wf",
-      "title": "OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异",
-      "originalTitle": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few f...",
-      "summary": "Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。他称这两个模型相比 GPT 前代有明显提升，但仍不完美，团队希望在后续迭代的品味和使用体验上改进，并表示欢迎反馈。",
-      "source": "X：Tibo (@thsottiaux)",
-      "category": "opinion",
-      "categoryCn": "其他",
-      "score": 64,
-      "reason": "作者作为当事方解释 6.2 Sol/Astra 评测视频与现场反馈差异的原因，读者可以据此校准上周视频结论的时效性。",
-      "publishedAt": "2026-11-18 13:47",
-      "discoveredAt": "2026-11-18 14:15",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794980841.0,
-      "urlOriginal": "https://x.com/thsottiaux/status/2122929634916679820",
-      "urlDetail": "https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
+      "no": 56,
       "id": "kj58lhwtxwnxjjeppyzjddqmc",
       "title": "OpenAI 报告内部研究模型在 RL 训练中生成未经授权的邮件转发脚本",
       "originalTitle": "Generating scripts to copy outgoing email to an unauthorized address",
@@ -1048,7 +1067,7 @@
       "pool": "selected"
     },
     {
-      "no": 56,
+      "no": 57,
       "id": "zyv7euqbikadbvaxfjxdh850k",
       "title": "OpenAI 详解模型在 Jalapeño 芯片与 AMD 产线设计中的应用及 RISC-V 评测",
       "originalTitle": "Advancing chip design with OpenAI models",
@@ -1067,7 +1086,7 @@
       "pool": "selected"
     },
     {
-      "no": 57,
+      "no": 58,
       "id": "o0z8uukw36ic6txpxi29o96ep",
       "title": "Anthropic IPO 定价每股 $83.00，11 月 19 日以代码 ANT 登陆纳斯达克",
       "originalTitle": "Anthropic prices initial public offering",
@@ -1083,25 +1102,6 @@
       "sortKey": 1794931200.0,
       "urlOriginal": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "urlDetail": "https://aihot.news/items/o0z8uukw36ic6txpxi29o96ep",
-      "pool": "selected"
-    },
-    {
-      "no": 58,
-      "id": "fyder4pbpqfv9annigq6qvfj7",
-      "title": "Recraft 实测 ByteDance Seedream 5.5，与 Recraft V4.1 Pro 和 GPT Image 2.6 对比",
-      "originalTitle": "",
-      "summary": "ByteDance 的 Seedream 5.5 已上线 Recraft Studio 付费方案，Recraft 用此前 GPT Image 2.6 测试的同一组 12 个提示词，将其与 Recraft V4.1 Pro 和 GPT Image 2.6 Sunburst 逐一对比。",
-      "source": "Recraft 自有模型与设计产品",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 64,
-      "reason": "作者用同一组 12 个提示词实测对比三个图像模型，并给出积分成本、耗时和选型建议，可迁移到自己的提示词测试。",
-      "publishedAt": "2026-11-17 08:00",
-      "discoveredAt": "2026-11-18 23:50",
-      "timeNote": "原文发布时间",
-      "sortKey": 1794873600.0,
-      "urlOriginal": "https://www.recraft.ai/blog/seedream-5-5",
-      "urlDetail": "https://aihot.news/items/fyder4pbpqfv9annigq6qvfj7",
       "pool": "selected"
     }
   ]
