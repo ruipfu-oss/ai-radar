@@ -1,9 +1,161 @@
 {
-  "updatedAt": "2026-11-26 11:52",
+  "updatedAt": "2026-11-27 11:53",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "cdkswjz368inpelrz3f52rekx",
+      "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+      "originalTitle": "",
+      "summary": "作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。买断制将 Skill 完整内容交付本地，订阅制把 Skill 保留在云端沙盒中、Agent 看不到明文；买断定价 0.01-50 元，订阅按周月季度收费上限 50 元，免费试用最低 5 次。",
+      "source": "公众号：数字生命卡兹克",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 71,
+      "reason": "作者以买家和卖家双视角实测支付宝 SkillPay 的买断与订阅两种模式，给出了从签约、定价到收款的上架流程和费用细节。",
+      "publishedAt": "2026-11-27 07:56",
+      "discoveredAt": "2026-11-27 08:02",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795737360.0,
+      "urlOriginal": "https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw",
+      "urlDetail": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "gc4qp85ij5qzhu53qzkg8quqj",
+      "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+      "originalTitle": "Wow!",
+      "summary": "Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。GDP 映射为金产量、城市按真实产业分化，含 19 个视图、524 个都市的 City View 和覆盖 3,100+ 县的 Explorer，已部署在 https://karpathy.ai/usaciv/。作者 Ado 转发并感叹。",
+      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 67,
+      "reason": "Karpathy 用 Claude Code 和 Opus 5.5 耗时 7 小时写出 45K 行代码，把美国真实数据做成了文明风格游戏地图，展示了 Agent 长程编码的实际产出。",
+      "publishedAt": "2026-11-27 00:44",
+      "discoveredAt": "2026-11-27 00:53",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795711487.0,
+      "urlOriginal": "https://x.com/adocomplete/status/2125994186252161315",
+      "urlDetail": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
+      "id": "jcdfpftbam647yhc210dbace9",
+      "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
+      "originalTitle": "Everyone hated on MCP when Skills and CLIs took over. I'm more bullish on MCP than ever",
+      "summary": "Philipp Schmid 撰文解释为何在 Skills 和 CLI 流行后依然看好 MCP：Linear 和 Notion 的 agent 每周创建约 240 万条 issue 和页面，Atlassian 每天 MCP 工具调用超 500 万次，其中 44% 用户来自软件团队之外，Notion 报告 60 倍 MCP 流量增长。",
+      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "category": "opinion",
+      "categoryCn": "其他",
+      "score": 65,
+      "reason": "作者基于 Linear、Notion、Atlassian 等真实用量数据解释为何依然看好 MCP，并梳理 Code Mode、Skills、Events、MCP Apps 四个方向。",
+      "publishedAt": "2026-11-26 21:30",
+      "discoveredAt": "2026-11-26 21:48",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795699828.0,
+      "urlOriginal": "https://x.com/_philschmid/status/2125945282072297794",
+      "urlDetail": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
+      "pool": "selected"
+    },
+    {
+      "no": 4,
+      "id": "cxodjj13xa8ey821rbnmumcrf",
+      "title": "MiniMax 推出 H3 Family：旗舰与扩展视频图像模型",
+      "originalTitle": "",
+      "summary": "MiniMax 发布 H3 Family，包含旗舰 H3、H3-Highspeed、H3-Lite、H3-Image 系列及 fal、Suno、HeyGen、Pika 等第三方的扩展模型。H3 开源 100 天已衍生 1,472 个模型、累计下载超 1.48 亿次，旗舰 H3 支持 2K 输出、起价 $0.08/秒，H3-Image Highspeed 最快 10 秒内生成 4K 图像。",
+      "source": "MiniMax：Blog（网页）",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 72,
+      "reason": "原文梳理了 H3 开源百天衍生的社区生态，并给出旗舰与扩展模型的定价和速度数据，便于比较选用。",
+      "publishedAt": "2026-11-26 20:00",
+      "discoveredAt": "2026-11-26 14:55",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795694409.0,
+      "urlOriginal": "https://www.minimax.io/blog/minimax-h3-family",
+      "urlDetail": "https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf",
+      "pool": "selected"
+    },
+    {
+      "no": 5,
+      "id": "rlt60gq96bl1cf5b88o8rbj30",
+      "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
+      "originalTitle": "FT just reported Nvidia froze south-east Asian server shipments days after Washington targeted Chinese labs renting cloud compute.",
+      "summary": "据 FT 报道，Nvidia 已通知 Dell、Supermicro 等制造伙伴停止向马来西亚、新加坡、泰国和印尼发运服务器，原因是美国要求这些国家及巴西的先进 AI 芯片需申请许可。此前中国 AI 实验室通过当地云厂商租用 Nvidia 算力绕开直接出口禁令，云厂商现有 90 天证明无受限用户但缺乏申请指引；Nvidia 2025 年经新加坡部门入账 $104B，同比增长 72%。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 76,
+      "reason": "转述 FT 报道并补充许可规则细节，读者可以了解这次停运与云算力转租渠道之间的关系。",
+      "publishedAt": "2026-11-26 15:00",
+      "discoveredAt": "2026-11-26 15:21",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795676425.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2125847124600656142",
+      "urlDetail": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
+      "pool": "selected"
+    },
+    {
+      "no": 6,
+      "id": "gv1y811sp5p9kl7p3ci7xjt5n",
+      "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+      "originalTitle": "",
+      "summary": "Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。",
+      "source": "Calif：Research（AI 漏洞研究）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 62,
+      "reason": "原文完整披露了 Tor Browser 15.0.22 的 UAF 利用链与去匿名化过程，并给出已修复的版本号，可据此理解浏览器沙箱边界问题。",
+      "publishedAt": "2026-11-26 08:00",
+      "discoveredAt": "2026-11-26 12:04",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795651200.0,
+      "urlOriginal": "https://calif.io/research/tortilla-with-onion",
+      "urlDetail": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+      "pool": "selected"
+    },
+    {
+      "no": 7,
+      "id": "g5yjacklnlbp3v51hkzciksjy",
+      "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+      "originalTitle": "OEMpocalypse Part 2: Rooting Samsung Flagships via Knox DualDAR",
+      "summary": "Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。",
+      "source": "Calif：Research（AI 漏洞研究）",
+      "category": "paper",
+      "categoryCn": "论文研究",
+      "score": 72,
+      "reason": "作者亲历复现并披露完整漏洞细节，读者可了解 OEM 驱动漏洞链如何绕过 RKP 等多层防御获取 root。",
+      "publishedAt": "2026-11-26 08:00",
+      "discoveredAt": "2026-11-26 12:04",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795651200.0,
+      "urlOriginal": "https://calif.io/research/oempocalypse-part-2",
+      "urlDetail": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+      "pool": "selected"
+    },
+    {
+      "no": 8,
+      "id": "vboh9u5yjfjgj1ha6rl804tkh",
+      "title": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
+      "originalTitle": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "summary": "Google 于 11 月 24 日将八个 Workspace MCP 服务器正式开放，并在 API 条款中新增条款，要求自 2027 年 2 月 1 日起由 AI Agent 驱动的工具必须通过这些服务器访问 Gmail、Drive 等 Workspace 服务，直接调用 REST API 将按 Standard 级配额受限。",
+      "source": "Hacker News：AI 热帖",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 79,
+      "reason": "文章拆解了新条款下各 MCP 服务器的工具缺口、配额与数据留存限制，独立开发者与合作伙伴的能力差异可直接对照自查。",
+      "publishedAt": "2026-11-26 08:00",
+      "discoveredAt": "2026-11-26 20:45",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795651200.0,
+      "urlOriginal": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "urlDetail": "https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh",
+      "pool": "selected"
+    },
+    {
+      "no": 9,
       "id": "mruv0rx3oxnkjy9ll805qaidc",
       "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
       "originalTitle": "",
@@ -22,7 +174,26 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 10,
+      "id": "e6gp31eup40d99unaon9umnpo",
+      "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
+      "originalTitle": "Interesting",
+      "summary": "Anthropic 的 Dario Amodei 发长文否认其主张“向 AI 交出人类自由意志”，称其文章一贯主张 AI 须受合法民主程序治理。他区分了全球治理层面的交权与具体任务的自动化，后者持混合态度，包括对递归自我改进设限、警惕端到端部署带来的就业冲击，并称 Anthropic 曾拒绝让自家模型用于自主武器；文末批评部分 AI CEO 只喊“人类控制”等口号而无实质行动。Elon Musk 转发并评论 Interesting。",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "category": "opinion",
+      "categoryCn": "其他",
+      "score": 68,
+      "reason": "Dario Amodei 澄清自己主张 AI 治理须服从民主程序，并区分任务自动化与交出治理权，读者可对照各方在自动化上的立场差异。",
+      "publishedAt": "2026-11-26 03:12",
+      "discoveredAt": "2026-11-26 12:38",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795633973.0,
+      "urlOriginal": "https://x.com/elonmusk/status/2125669066388209784",
+      "urlDetail": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+      "pool": "selected"
+    },
+    {
+      "no": 11,
       "id": "j0hoj1rlmltoft6okserijp25",
       "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
       "originalTitle": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
@@ -41,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 12,
       "id": "rnanzlnaqxdr2icjqw0qwv9la",
       "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
       "originalTitle": "How Anthropic builds software in 2026 with Katelyn Lesse",
@@ -60,7 +231,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 13,
       "id": "br6usy3mxv1q0mzxhgf9y8qam",
       "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
       "originalTitle": "How Context Drift Impacts Your AI Agents",
@@ -79,7 +250,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 14,
       "id": "vz3bvc1o7zuki3x2zw8lnnv78",
       "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
       "originalTitle": "OpenClaw 2026.11.10 is out! 🦞",
@@ -98,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 15,
       "id": "ogucsvlqrdr1rvfh5nvx757cx",
       "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
       "originalTitle": "An LLM can facilitate illegal activities and malicious intents. @NatureComms",
@@ -117,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 16,
       "id": "kzwj96fvnn3whzvnhqdvsh830",
       "title": "黄仁勋回归后 Nvidia 仍面临 Megaspeed 芯片出口合规调查",
       "originalTitle": "",
@@ -136,7 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 17,
       "id": "i5qr52169dlque8rb2sl4i5jo",
       "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
       "originalTitle": "Introducing Pax and the Pydantic AI Harness beta, on the road to 1.0",
@@ -155,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 18,
       "id": "uyodjb16jngloilypsm1d3q0d",
       "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
       "originalTitle": "A practical guide to shipping with Claude Code",
@@ -174,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 19,
       "id": "hyofqy3ukzks1eyr4bu317bez",
       "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
       "originalTitle": "A great new paper from MIT and Microsoft",
@@ -193,16 +364,16 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 20,
       "id": "cebavio3uyjwli5r3imsuq1si",
-      "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
+      "title": "千问App免费开放打电话服务，可代用户拨号沟通需求",
       "originalTitle": "@所有人 打电话这种小事，今天起就交给我吧",
-      "summary": "千问APP宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并经授权后，AI可代为拨打电话、沟通需求。文中示例包括定时提醒朋友带饮料、定时来电叫醒起床、代订包间或询问快递等场景，并邀请用户在评论区分享想安排的任务。",
+      "summary": "千问App宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并授权后，AI可代为拨打电话、沟通需求。文中举例称可帮用户联系酒店前台找回遗落行李并沟通寄回，还适用于订包间、催快递等场景。",
       "source": "公众号：千问APP（阿里）",
       "category": "ai-products",
       "categoryCn": "产品与应用",
-      "score": 72,
-      "reason": "官方宣布千问Go打电话服务免费开放，经用户授权可代拨电话与定时来电，读者可据此评估这一Agent能力对日常沟通场景的适用性。",
+      "score": 73,
+      "reason": "千问App官方介绍免费开放的代打电话服务，说明了授权流程和订包间、催快递等典型使用场景。",
       "publishedAt": "2026-11-25 12:32",
       "discoveredAt": "2026-11-25 12:41",
       "timeNote": "原文发布时间",
@@ -212,7 +383,26 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 21,
+      "id": "hdvt6wswzycj78wnr7r43xn6o",
+      "title": "蚂蚁 inclusionAI 开源 Ming-Image-0.2-Design 图像生成模型",
+      "originalTitle": "inclusionAI/Ming-Image-0.2-Design",
+      "summary": "蚂蚁 inclusionAI 在 Hugging Face 发布并开源 Ming-Image-0.2-Design，改进复杂构图、光照和文字渲染，可用于电商主图、UI 设计稿和空间效果图。",
+      "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
+      "category": "ai-models",
+      "categoryCn": "模型发布",
+      "score": 61,
+      "reason": "官方发布页给出能力改进、榜单排名和部署参数，读者可以据此判断它在设计出图场景中的实际用法。",
+      "publishedAt": "2026-11-25 12:02",
+      "discoveredAt": "2026-11-26 18:33",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795579364.0,
+      "urlOriginal": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+      "urlDetail": "https://aihot.news/items/hdvt6wswzycj78wnr7r43xn6o",
+      "pool": "selected"
+    },
+    {
+      "no": 22,
       "id": "yhlpti07v4y216qat3ml1qmca",
       "title": "Anthropic 上市不到一周跌破 83 美元发行价",
       "originalTitle": "“人类史上最大 IPO”上市不到 1 周就破发，Anthropic 跌破 83 美元发行价",
@@ -231,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 23,
       "id": "pdtslys0302mclldlo6l1dlr9",
       "title": "矩阵乘法指数被证明精确为 9/4",
       "originalTitle": "matrix multiplication exponent is exactly 9/4: \"This is really the kind of result that I never thought I would see in my lifetime\"",
@@ -250,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 24,
       "id": "u71y2i8e6zhwauu7gpuyxrp4z",
       "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
       "originalTitle": "",
@@ -269,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 25,
       "id": "gat7lwf755dyryyd45gvlesxz",
       "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
       "originalTitle": "New Anthropic research: When an AI agent can escape its sandbox, will it choose to?",
@@ -288,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 26,
       "id": "eb9lfibaf8fpouyw0x3vh63st",
       "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
       "originalTitle": "GPT-6.2 Astra for solving a significant historical mystery:",
@@ -307,26 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
-      "id": "nm8mi41auemid3iivue4tel3d",
-      "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-      "originalTitle": "Google Workspace MCP servers and gwscli are GA today. No Enterprise plan or billing card needed with the new 1-click Personal mode setup.",
-      "summary": "Philipp Schmid 宣布 Google Workspace MCP servers 与 gwscli 正式 GA，新增 Personal 模式一键开通，无需 Enterprise 计划或绑卡。共 8 个 server 覆盖 Gmail、Drive、Docs、Sheets、Slides、Calendar、Chat、Tasks，免费档为每产品每天 5,000 次请求，发送和分享内置 HITL 确认。他提到仍需经过 Google Cloud，但比旧的 OAuth 同意屏和应用审核流程好得多，欢迎试用反馈。",
-      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 73,
-      "reason": "作者来自 Google DeepMind 开发者体验团队，说明了 Personal 模式的免企业开通方式和各服务免费额度，可据此评估是否接入工作流。",
-      "publishedAt": "2026-11-25 02:32",
-      "discoveredAt": "2026-11-25 02:45",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795545133.0,
-      "urlOriginal": "https://x.com/_philschmid/status/2125296446459056156",
-      "urlDetail": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
-      "pool": "selected"
-    },
-    {
-      "no": 18,
+      "no": 27,
       "id": "lb66i6g7eq01l6hx0rr8f7k9r",
       "title": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
       "originalTitle": "",
@@ -345,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 28,
       "id": "dvu6olan4q58k1evvnp8t60t2",
       "title": "腾讯开源模型 Hy4 Flash 上线 Fireworks serverless",
       "originalTitle": "Hy4 Flash on Fireworks: Tencent's open model for cost-efficient professional work",
@@ -364,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 29,
       "id": "h1ja45355xx1xf9rqf89cv1if",
       "title": "Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法",
       "originalTitle": "Migrating our Messages API to Rust",
@@ -383,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 30,
       "id": "yg04c9d5qnwzitqstg19c6ow2",
       "title": "OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力",
       "originalTitle": "",
@@ -402,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 31,
       "id": "ygbhvp086wl672gfxuhfgl23x",
       "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
       "originalTitle": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -421,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 32,
       "id": "yz5va6l60tfkmdampmsiz0jq2",
       "title": "ChinaTalk 分析 BIS 租赁算力新规或为美国换取约六个月算力领先",
       "originalTitle": "",
@@ -440,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 33,
       "id": "d41p6k2h48zm8u2kl5xdzqx5h",
       "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
       "originalTitle": "We’re working with Cisco on what we think are going to be key infrastructure primitives in the new era of cybersecurity.",
@@ -459,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 34,
       "id": "yh9lmlhqwoc77d1ii1mvr5d6x",
       "title": "Mantic 与 Thinking Machines 训练可扩展预测智能体，成本降 15 倍",
       "originalTitle": "Training a Scalable Forecasting Agent (Guest Post with Mantic)",
@@ -478,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 35,
       "id": "jb7ohptrc5ctyx9maoimz2hn0",
       "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
       "originalTitle": "分享两个最近我自己做产品用来优化用户体验和产品动效的Prompt，我觉得效果还挺不错的。",
@@ -497,26 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
-      "id": "f1380j6hyrxn0rnz6666nu3b8",
-      "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-      "originalTitle": "",
-      "summary": "MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。",
-      "source": "公众号：MiniMax（稀宇科技）",
-      "category": "ai-products",
-      "categoryCn": "产品与应用",
-      "score": 69,
-      "reason": "MiniMax 官方梳理了 H3 开源百天的生态数据与全系列模型的定位、价格和速度，便于按场景选型。",
-      "publishedAt": "2026-11-24 10:11",
-      "discoveredAt": "2026-11-24 10:21",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795486296.0,
-      "urlOriginal": "https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ",
-      "urlDetail": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-      "pool": "selected"
-    },
-    {
-      "no": 28,
+      "no": 36,
       "id": "zto0pspydy8330r0bvwqb6j5z",
       "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
       "originalTitle": "",
@@ -535,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 37,
       "id": "zcpto4b7qb8sr6v6n223kd2sx",
       "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
       "originalTitle": "Turn artifacts into Mac and Windows apps",
@@ -554,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 38,
       "id": "w9zx5w4dj1xhxvjylbijskshq",
       "title": "Claude 月度回顾转正，artifact 可装为桌面应用，连接器文件传输开启 beta",
       "originalTitle": "Monthly recap is out of beta · Install artifacts as apps (beta) · Send files to connected apps and save files from them (beta)",
@@ -573,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 39,
       "id": "kjd2qp2iuk9zxdfqj5qk2a8f9",
       "title": "Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新",
       "originalTitle": "",
@@ -592,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 40,
       "id": "frmncgr2jcrvfm3t6jgabqhfh",
       "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
       "originalTitle": "Introducing ShellBench, the benchmark for real-world tasks",
@@ -611,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 41,
       "id": "gl6fl6hsisrt26tg83li0j4gk",
       "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
       "originalTitle": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.",
@@ -630,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 42,
       "id": "h1vnjuwxsli7ku7rpocjlr3s2",
       "title": "Claude 推出插件，统一连接器与技能的接入方式",
       "originalTitle": "There’s now one way to connect your tools to Claude, teach it a new skill, or do both.",
@@ -649,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 43,
       "id": "zur9ndkrkvtk4lqiix14q468s",
       "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
       "originalTitle": "The Figma agent is now available in FigJam and Slides",
@@ -668,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 44,
       "id": "vlxrimiuixb91iodhjh5hxmte",
       "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
       "originalTitle": "",
@@ -687,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 45,
       "id": "cyorgi8t8dm2fo6ee3b5a6qs2",
       "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
       "originalTitle": "A more tailored Google Search that’s uniquely yours",
@@ -706,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 46,
       "id": "pjpgapf3mbvmy98cywxhwf07n",
       "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
       "originalTitle": "Finding faster quantum algorithms with agents and formal verification",
@@ -725,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 47,
       "id": "youah0x28ti3a58sj8ku26rdy",
       "title": "METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍",
       "originalTitle": "Interpreting a recent acceleration in pretraining loss",
@@ -744,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 48,
       "id": "gflb0kkwzma61spkzpp1uxmrk",
       "title": "Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning",
       "originalTitle": "Introducing SWE-2.1",
@@ -763,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 49,
       "id": "uz9j9ukn8j60mwkeeaibmmctw",
       "title": "Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设",
       "originalTitle": "Building stronger biological reasoning models",
@@ -782,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 50,
       "id": "qkxvs90ewfu3k430sdefndv56",
       "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
       "originalTitle": "",
@@ -801,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 51,
       "id": "uop2ab4998l6dxugsgtg7w7rn",
       "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
       "originalTitle": "",
@@ -820,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 52,
       "id": "gp8e9a8oitha0rbip8pzntuff",
       "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
       "originalTitle": "Agentic Attacks: In The Wild",
@@ -839,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 53,
       "id": "ajcxs84uezjqgsgxpdtr31o0l",
       "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
       "originalTitle": "Jensen Huang is now back!",
@@ -858,7 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 54,
       "id": "d4hhqnlmrclsx7d6idtvq95wz",
       "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
       "originalTitle": "GLM-5.4：瞄向泛Coding，首个Loop Transformer带来的惊喜",
@@ -877,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 55,
       "id": "dus34samsjrld1qopq65v54uq",
       "title": "Anthropic IPO 前三家机构如何重注押注",
       "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -896,7 +1048,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
+      "no": 56,
       "id": "t7jlbaldqf2zcliuva1sofoks",
       "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
       "originalTitle": "Introducing Claude Ship",
@@ -915,45 +1067,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
-      "id": "jub44k9eeq0vdw8c37lcpbzwp",
-      "title": "OpenRouter 实测用 MCP 连接器让 Claude 生成图像并对比四款模型",
-      "originalTitle": "Can Claude Generate Images? Yes, with a Connector",
-      "summary": "OpenRouter 发布教程演示如何通过 OpenRouter MCP 服务器（https://mcp.openrouter.ai/mcp）作为连接器让 Claude 调用图像模型生成真实图片，覆盖截至 2026 年 11 月 19 日的 74 款图像模型。",
-      "source": "OpenRouter：Announcements（RSS）",
-      "category": "tip",
-      "categoryCn": "技术实践",
-      "score": 76,
-      "reason": "OpenRouter 实测演示了让 Claude 借 MCP 连接器调用图像模型的完整流程，并给出四款模型的价格与耗时对比。",
-      "publishedAt": "2026-11-23 08:00",
-      "discoveredAt": "2026-11-26 05:07",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795392000.0,
-      "urlOriginal": "https://openrouter.ai/blog/tutorials/can-claude-generate-images/",
-      "urlDetail": "https://aihot.news/items/jub44k9eeq0vdw8c37lcpbzwp",
-      "pool": "selected"
-    },
-    {
-      "no": 50,
-      "id": "hz782dpcwhurj6584rtd13eaf",
-      "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
-      "originalTitle": "毫无保留地分享一下，我是如何让Claude、GPT和Gemini完美协同的。",
-      "summary": "自媒体作者卡兹克分享自己让 Claude、GPT 和 Gemini 协同工作的方法：把 Claude Opus 5.5 当总指挥负责沟通、拆解和验收，Gemini 4 Neon 当军师出方案和改界面文案，GPT 负责后端、算法、修 BUG 和代码审查。",
-      "source": "公众号：数字生命卡兹克",
-      "category": "tip",
-      "categoryCn": "技术实践",
-      "score": 72,
-      "reason": "作者以自己半个月的多模型使用实践为基础，给出按模型性格分工的调度结构和可复制的 CLAUDE.md 规则。",
-      "publishedAt": "2026-11-23 07:56",
-      "discoveredAt": "2026-11-23 08:01",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795391760.0,
-      "urlOriginal": "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA",
-      "urlDetail": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-      "pool": "selected"
-    },
-    {
-      "no": 51,
+      "no": 57,
       "id": "tl8v9gto8rd3e4x40xfbljj13",
       "title": "AISI 红队论文：攻击策略选择会让 LLM 监视器评估结果失真",
       "originalTitle": "Attack policy selection can make monitor evaluations misleading",
@@ -972,7 +1086,7 @@
       "pool": "selected"
     },
     {
-      "no": 52,
+      "no": 58,
       "id": "gj8mzwrgqlkvim6xe382a35q2",
       "title": "Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组",
       "originalTitle": "Working with AI",
@@ -988,120 +1102,6 @@
       "sortKey": 1795363200.0,
       "urlOriginal": "https://www.anthropic.com/research/working-with-ai",
       "urlDetail": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
-      "pool": "selected"
-    },
-    {
-      "no": 53,
-      "id": "dr26culfdd1cb21w56i8iruts",
-      "title": "MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国",
-      "originalTitle": "Exactly! 💙 The real impact of small models comes from making AI accessible, affordable, and useful in everyday life. Excited to see more...",
-      "summary": "面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 65,
-      "reason": "引用内容梳理了 MiniCPM 在老挝、马来西亚、肯尼亚等实际落地情况，读者可借此看小模型如何嵌入日常系统而非比拼参数量。",
-      "publishedAt": "2026-11-22 19:25",
-      "discoveredAt": "2026-11-23 05:06",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795346720.0,
-      "urlOriginal": "https://x.com/OpenBMB/status/2124464239670964531",
-      "urlDetail": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
-      "pool": "selected"
-    },
-    {
-      "no": 54,
-      "id": "g3vdho0vzm8rzriiz5grruy3m",
-      "title": "用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析",
-      "originalTitle": "Thanks for the detailed hands-on review! 💙 Great to see MiniCPM5-2B being used in a local-first workflow. We really appreciate you shari...",
-      "summary": "用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache-2.0 开源，网页版和微信小程序也基于它。",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "category": "opinion",
-      "categoryCn": "其他",
-      "score": 71,
-      "reason": "用户实测记录了本地跑通 Mirobody 的完整流程，也包括扫描页漏读、LOINC 编码对不上和 2B 模型答错的细节，可作本地部署健康数据工作流的参考。",
-      "publishedAt": "2026-11-22 19:15",
-      "discoveredAt": "2026-11-23 05:06",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795346131.0,
-      "urlOriginal": "https://x.com/OpenBMB/status/2124461770043785636",
-      "urlDetail": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
-      "id": "ikpixx0j7414se1f6lww2csek",
-      "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
-      "originalTitle": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
-      "summary": "Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。",
-      "source": "The Decoder：AI News（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 85,
-      "reason": "社区正式确认与代码验证细节都写得很具体，读者可以了解这道数学难题如何以 Lean 形式被独立核验。",
-      "publishedAt": "2026-11-22 19:08",
-      "discoveredAt": "2026-11-22 20:05",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795345711.0,
-      "urlOriginal": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
-      "urlDetail": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-      "pool": "selected"
-    },
-    {
-      "no": 56,
-      "id": "p9h5xzsooms0foxeakoivy7qt",
-      "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
-      "originalTitle": "菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可",
-      "summary": "2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。",
-      "source": "IT之家·人工智能",
-      "category": "opinion",
-      "categoryCn": "其他",
-      "score": 85,
-      "reason": "菲尔兹奖得主梅纳德对 AI 辅助黎曼猜想证明的判断，提醒读者形式化验证通过不等于数学界认可，理解证明思想才是关键。",
-      "publishedAt": "2026-11-22 17:35",
-      "discoveredAt": "2026-11-22 18:15",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795340158.183,
-      "urlOriginal": "https://www.ithome.com/1/030/677.htm",
-      "urlDetail": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
-      "pool": "selected"
-    },
-    {
-      "no": 57,
-      "id": "r7kb35fpdwc1m2iqsmd310tdj",
-      "title": "OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据",
-      "originalTitle": "Perplexity and Intelligence",
-      "summary": "OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "category": "opinion",
-      "categoryCn": "其他",
-      "score": 63,
-      "reason": "OpenAI 公开自 GPT-3.5 以来的内部 log-perplexity 数据，并提出以困惑度作为跨实验室共享的安全限速指标。",
-      "publishedAt": "2026-11-22 08:00",
-      "discoveredAt": "2026-11-23 02:47",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795305600.0,
-      "urlOriginal": "https://openai.com/index/perplexity-and-intelligence",
-      "urlDetail": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj",
-      "pool": "selected"
-    },
-    {
-      "no": 58,
-      "id": "xqe6lbb5zsjp9xbsc1o912cs0",
-      "title": "Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件",
-      "originalTitle": "Security event: Prompt leakage for requests in June and July of 2026",
-      "summary": "Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。",
-      "source": "Together AI 研究与产品博客（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 74,
-      "reason": "原文披露了提示词泄露的范围、成因与已落实的整改措施，用户可据此评估自己是否受影响及是否开启 ZDR。",
-      "publishedAt": "2026-11-21 08:00",
-      "discoveredAt": "2026-11-22 07:46",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795219200.0,
-      "urlOriginal": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "urlDetail": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0",
       "pool": "selected"
     }
   ]
