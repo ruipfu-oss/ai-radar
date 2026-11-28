@@ -1,9 +1,66 @@
 {
-  "updatedAt": "2026-11-27 11:53",
+  "updatedAt": "2026-11-28 11:40",
   "count": 58,
   "items": [
     {
       "no": 1,
+      "id": "l9md8ugx8e2zlm5g1tuqthmaw",
+      "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+      "originalTitle": "Exciting to see Sage-Interaction built on MiniCPM-o 4.5! 💙 Listening while speaking and delegating complex tasks without interrupting th...",
+      "summary": "OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开源全双工语音视频模型 Sage-Interaction，该模型基于 MiniCPM-o 4.5 构建。OpenBMB 称赞其边说边听、在不打断对话的情况下把复杂任务交给后端模型，是迈向更自然 AI 交互的一步，并向 InternLM 团队致意。",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 65,
+      "reason": "OpenBMB 对他人基于 MiniCPM-o 4.5 构建的全双工语音模型给予反馈，侧面说明该底座模型在语音交互场景的外部落地情况。",
+      "publishedAt": "2026-11-27 21:32",
+      "discoveredAt": "2026-11-27 21:51",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795786335.0,
+      "urlOriginal": "https://x.com/OpenBMB/status/2126308118741323853",
+      "urlDetail": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+      "pool": "selected"
+    },
+    {
+      "no": 2,
+      "id": "tiqf353lek6sib8ktn8uvc6nc",
+      "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+      "originalTitle": "分享个Antigravity的小技巧。",
+      "summary": "卡兹克分享一个 Antigravity 使用技巧，针对模型长时间闷头干活不输出信息的问题，只需在 GEMINI.md 中加一句话，要求动手前说要做什么、有发现、换方向、卡住或连干四五步时再说一句，即可获得类似 Claude 或 Codex 那种实时汇报进度的交互体验。",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "category": "tip",
+      "categoryCn": "技术实践",
+      "score": 69,
+      "reason": "原文给出了可直接复用的 GEMINI.md 提示词，让 Antigravity 边干活边汇报进度，改善交互掌控感。",
+      "publishedAt": "2026-11-27 20:38",
+      "discoveredAt": "2026-11-27 20:45",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795783125.0,
+      "urlOriginal": "https://x.com/Khazix0918/status/2126294658431201385",
+      "urlDetail": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+      "pool": "selected"
+    },
+    {
+      "no": 3,
+      "id": "v5fxjqr2vapkk9vn1j9a8ke96",
+      "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+      "originalTitle": "According to US security firm Dragos, MiniMax collected private links from user prompts and opened them, even under no-storage requests.",
+      "summary": "据美国安全公司 Dragos，MiniMax 收集并打开了用户提示词中的私有链接，即便用户要求不存储数据。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "category": "industry",
+      "categoryCn": "行业动态",
+      "score": 84,
+      "reason": "转述 Dragos 的金丝雀测试细节，读者可以据此评估把敏感数据交给 AI 服务商的风险和供应商的隐私承诺可信度。",
+      "publishedAt": "2026-11-27 15:21",
+      "discoveredAt": "2026-11-27 15:30",
+      "timeNote": "原文发布时间",
+      "sortKey": 1795764100.0,
+      "urlOriginal": "https://x.com/rohanpaul_ai/status/2126214860421914884",
+      "urlDetail": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+      "pool": "selected"
+    },
+    {
+      "no": 4,
       "id": "cdkswjz368inpelrz3f52rekx",
       "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
       "originalTitle": "",
@@ -22,7 +79,7 @@
       "pool": "selected"
     },
     {
-      "no": 2,
+      "no": 5,
       "id": "gc4qp85ij5qzhu53qzkg8quqj",
       "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
       "originalTitle": "Wow!",
@@ -41,7 +98,7 @@
       "pool": "selected"
     },
     {
-      "no": 3,
+      "no": 6,
       "id": "jcdfpftbam647yhc210dbace9",
       "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
       "originalTitle": "Everyone hated on MCP when Skills and CLIs took over. I'm more bullish on MCP than ever",
@@ -60,7 +117,7 @@
       "pool": "selected"
     },
     {
-      "no": 4,
+      "no": 7,
       "id": "cxodjj13xa8ey821rbnmumcrf",
       "title": "MiniMax 推出 H3 Family：旗舰与扩展视频图像模型",
       "originalTitle": "",
@@ -79,7 +136,7 @@
       "pool": "selected"
     },
     {
-      "no": 5,
+      "no": 8,
       "id": "rlt60gq96bl1cf5b88o8rbj30",
       "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
       "originalTitle": "FT just reported Nvidia froze south-east Asian server shipments days after Washington targeted Chinese labs renting cloud compute.",
@@ -98,7 +155,7 @@
       "pool": "selected"
     },
     {
-      "no": 6,
+      "no": 9,
       "id": "gv1y811sp5p9kl7p3ci7xjt5n",
       "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
       "originalTitle": "",
@@ -117,7 +174,7 @@
       "pool": "selected"
     },
     {
-      "no": 7,
+      "no": 10,
       "id": "g5yjacklnlbp3v51hkzciksjy",
       "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
       "originalTitle": "OEMpocalypse Part 2: Rooting Samsung Flagships via Knox DualDAR",
@@ -136,7 +193,7 @@
       "pool": "selected"
     },
     {
-      "no": 8,
+      "no": 11,
       "id": "vboh9u5yjfjgj1ha6rl804tkh",
       "title": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
       "originalTitle": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
@@ -155,7 +212,7 @@
       "pool": "selected"
     },
     {
-      "no": 9,
+      "no": 12,
       "id": "mruv0rx3oxnkjy9ll805qaidc",
       "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
       "originalTitle": "",
@@ -174,7 +231,7 @@
       "pool": "selected"
     },
     {
-      "no": 10,
+      "no": 13,
       "id": "e6gp31eup40d99unaon9umnpo",
       "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
       "originalTitle": "Interesting",
@@ -193,7 +250,7 @@
       "pool": "selected"
     },
     {
-      "no": 11,
+      "no": 14,
       "id": "j0hoj1rlmltoft6okserijp25",
       "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
       "originalTitle": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
@@ -212,7 +269,7 @@
       "pool": "selected"
     },
     {
-      "no": 12,
+      "no": 15,
       "id": "rnanzlnaqxdr2icjqw0qwv9la",
       "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
       "originalTitle": "How Anthropic builds software in 2026 with Katelyn Lesse",
@@ -231,7 +288,7 @@
       "pool": "selected"
     },
     {
-      "no": 13,
+      "no": 16,
       "id": "br6usy3mxv1q0mzxhgf9y8qam",
       "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
       "originalTitle": "How Context Drift Impacts Your AI Agents",
@@ -250,7 +307,7 @@
       "pool": "selected"
     },
     {
-      "no": 14,
+      "no": 17,
       "id": "vz3bvc1o7zuki3x2zw8lnnv78",
       "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
       "originalTitle": "OpenClaw 2026.11.10 is out! 🦞",
@@ -269,7 +326,7 @@
       "pool": "selected"
     },
     {
-      "no": 15,
+      "no": 18,
       "id": "ogucsvlqrdr1rvfh5nvx757cx",
       "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
       "originalTitle": "An LLM can facilitate illegal activities and malicious intents. @NatureComms",
@@ -288,7 +345,7 @@
       "pool": "selected"
     },
     {
-      "no": 16,
+      "no": 19,
       "id": "kzwj96fvnn3whzvnhqdvsh830",
       "title": "黄仁勋回归后 Nvidia 仍面临 Megaspeed 芯片出口合规调查",
       "originalTitle": "",
@@ -307,7 +364,7 @@
       "pool": "selected"
     },
     {
-      "no": 17,
+      "no": 20,
       "id": "i5qr52169dlque8rb2sl4i5jo",
       "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
       "originalTitle": "Introducing Pax and the Pydantic AI Harness beta, on the road to 1.0",
@@ -326,7 +383,7 @@
       "pool": "selected"
     },
     {
-      "no": 18,
+      "no": 21,
       "id": "uyodjb16jngloilypsm1d3q0d",
       "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
       "originalTitle": "A practical guide to shipping with Claude Code",
@@ -345,7 +402,7 @@
       "pool": "selected"
     },
     {
-      "no": 19,
+      "no": 22,
       "id": "hyofqy3ukzks1eyr4bu317bez",
       "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
       "originalTitle": "A great new paper from MIT and Microsoft",
@@ -364,7 +421,7 @@
       "pool": "selected"
     },
     {
-      "no": 20,
+      "no": 23,
       "id": "cebavio3uyjwli5r3imsuq1si",
       "title": "千问App免费开放打电话服务，可代用户拨号沟通需求",
       "originalTitle": "@所有人 打电话这种小事，今天起就交给我吧",
@@ -383,7 +440,7 @@
       "pool": "selected"
     },
     {
-      "no": 21,
+      "no": 24,
       "id": "hdvt6wswzycj78wnr7r43xn6o",
       "title": "蚂蚁 inclusionAI 开源 Ming-Image-0.2-Design 图像生成模型",
       "originalTitle": "inclusionAI/Ming-Image-0.2-Design",
@@ -402,7 +459,7 @@
       "pool": "selected"
     },
     {
-      "no": 22,
+      "no": 25,
       "id": "yhlpti07v4y216qat3ml1qmca",
       "title": "Anthropic 上市不到一周跌破 83 美元发行价",
       "originalTitle": "“人类史上最大 IPO”上市不到 1 周就破发，Anthropic 跌破 83 美元发行价",
@@ -421,7 +478,7 @@
       "pool": "selected"
     },
     {
-      "no": 23,
+      "no": 26,
       "id": "pdtslys0302mclldlo6l1dlr9",
       "title": "矩阵乘法指数被证明精确为 9/4",
       "originalTitle": "matrix multiplication exponent is exactly 9/4: \"This is really the kind of result that I never thought I would see in my lifetime\"",
@@ -440,7 +497,7 @@
       "pool": "selected"
     },
     {
-      "no": 24,
+      "no": 27,
       "id": "u71y2i8e6zhwauu7gpuyxrp4z",
       "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
       "originalTitle": "",
@@ -459,7 +516,7 @@
       "pool": "selected"
     },
     {
-      "no": 25,
+      "no": 28,
       "id": "gat7lwf755dyryyd45gvlesxz",
       "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
       "originalTitle": "New Anthropic research: When an AI agent can escape its sandbox, will it choose to?",
@@ -478,7 +535,7 @@
       "pool": "selected"
     },
     {
-      "no": 26,
+      "no": 29,
       "id": "eb9lfibaf8fpouyw0x3vh63st",
       "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
       "originalTitle": "GPT-6.2 Astra for solving a significant historical mystery:",
@@ -497,7 +554,7 @@
       "pool": "selected"
     },
     {
-      "no": 27,
+      "no": 30,
       "id": "lb66i6g7eq01l6hx0rr8f7k9r",
       "title": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
       "originalTitle": "",
@@ -516,7 +573,7 @@
       "pool": "selected"
     },
     {
-      "no": 28,
+      "no": 31,
       "id": "dvu6olan4q58k1evvnp8t60t2",
       "title": "腾讯开源模型 Hy4 Flash 上线 Fireworks serverless",
       "originalTitle": "Hy4 Flash on Fireworks: Tencent's open model for cost-efficient professional work",
@@ -535,7 +592,7 @@
       "pool": "selected"
     },
     {
-      "no": 29,
+      "no": 32,
       "id": "h1ja45355xx1xf9rqf89cv1if",
       "title": "Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法",
       "originalTitle": "Migrating our Messages API to Rust",
@@ -554,7 +611,7 @@
       "pool": "selected"
     },
     {
-      "no": 30,
+      "no": 33,
       "id": "yg04c9d5qnwzitqstg19c6ow2",
       "title": "OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力",
       "originalTitle": "",
@@ -573,7 +630,7 @@
       "pool": "selected"
     },
     {
-      "no": 31,
+      "no": 34,
       "id": "ygbhvp086wl672gfxuhfgl23x",
       "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
       "originalTitle": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -592,7 +649,7 @@
       "pool": "selected"
     },
     {
-      "no": 32,
+      "no": 35,
       "id": "yz5va6l60tfkmdampmsiz0jq2",
       "title": "ChinaTalk 分析 BIS 租赁算力新规或为美国换取约六个月算力领先",
       "originalTitle": "",
@@ -611,7 +668,7 @@
       "pool": "selected"
     },
     {
-      "no": 33,
+      "no": 36,
       "id": "d41p6k2h48zm8u2kl5xdzqx5h",
       "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
       "originalTitle": "We’re working with Cisco on what we think are going to be key infrastructure primitives in the new era of cybersecurity.",
@@ -630,7 +687,7 @@
       "pool": "selected"
     },
     {
-      "no": 34,
+      "no": 37,
       "id": "yh9lmlhqwoc77d1ii1mvr5d6x",
       "title": "Mantic 与 Thinking Machines 训练可扩展预测智能体，成本降 15 倍",
       "originalTitle": "Training a Scalable Forecasting Agent (Guest Post with Mantic)",
@@ -649,7 +706,7 @@
       "pool": "selected"
     },
     {
-      "no": 35,
+      "no": 38,
       "id": "jb7ohptrc5ctyx9maoimz2hn0",
       "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
       "originalTitle": "分享两个最近我自己做产品用来优化用户体验和产品动效的Prompt，我觉得效果还挺不错的。",
@@ -668,7 +725,7 @@
       "pool": "selected"
     },
     {
-      "no": 36,
+      "no": 39,
       "id": "zto0pspydy8330r0bvwqb6j5z",
       "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
       "originalTitle": "",
@@ -687,7 +744,7 @@
       "pool": "selected"
     },
     {
-      "no": 37,
+      "no": 40,
       "id": "zcpto4b7qb8sr6v6n223kd2sx",
       "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
       "originalTitle": "Turn artifacts into Mac and Windows apps",
@@ -706,7 +763,7 @@
       "pool": "selected"
     },
     {
-      "no": 38,
+      "no": 41,
       "id": "w9zx5w4dj1xhxvjylbijskshq",
       "title": "Claude 月度回顾转正，artifact 可装为桌面应用，连接器文件传输开启 beta",
       "originalTitle": "Monthly recap is out of beta · Install artifacts as apps (beta) · Send files to connected apps and save files from them (beta)",
@@ -725,7 +782,7 @@
       "pool": "selected"
     },
     {
-      "no": 39,
+      "no": 42,
       "id": "kjd2qp2iuk9zxdfqj5qk2a8f9",
       "title": "Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新",
       "originalTitle": "",
@@ -744,7 +801,7 @@
       "pool": "selected"
     },
     {
-      "no": 40,
+      "no": 43,
       "id": "frmncgr2jcrvfm3t6jgabqhfh",
       "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
       "originalTitle": "Introducing ShellBench, the benchmark for real-world tasks",
@@ -763,7 +820,7 @@
       "pool": "selected"
     },
     {
-      "no": 41,
+      "no": 44,
       "id": "gl6fl6hsisrt26tg83li0j4gk",
       "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
       "originalTitle": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.",
@@ -782,7 +839,7 @@
       "pool": "selected"
     },
     {
-      "no": 42,
+      "no": 45,
       "id": "h1vnjuwxsli7ku7rpocjlr3s2",
       "title": "Claude 推出插件，统一连接器与技能的接入方式",
       "originalTitle": "There’s now one way to connect your tools to Claude, teach it a new skill, or do both.",
@@ -801,7 +858,7 @@
       "pool": "selected"
     },
     {
-      "no": 43,
+      "no": 46,
       "id": "zur9ndkrkvtk4lqiix14q468s",
       "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
       "originalTitle": "The Figma agent is now available in FigJam and Slides",
@@ -820,7 +877,7 @@
       "pool": "selected"
     },
     {
-      "no": 44,
+      "no": 47,
       "id": "vlxrimiuixb91iodhjh5hxmte",
       "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
       "originalTitle": "",
@@ -839,7 +896,7 @@
       "pool": "selected"
     },
     {
-      "no": 45,
+      "no": 48,
       "id": "cyorgi8t8dm2fo6ee3b5a6qs2",
       "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
       "originalTitle": "A more tailored Google Search that’s uniquely yours",
@@ -858,7 +915,7 @@
       "pool": "selected"
     },
     {
-      "no": 46,
+      "no": 49,
       "id": "pjpgapf3mbvmy98cywxhwf07n",
       "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
       "originalTitle": "Finding faster quantum algorithms with agents and formal verification",
@@ -877,7 +934,7 @@
       "pool": "selected"
     },
     {
-      "no": 47,
+      "no": 50,
       "id": "youah0x28ti3a58sj8ku26rdy",
       "title": "METR 解读 OpenAI 预训练损失加速：2026 年初以来下降速度约为此前 7 倍",
       "originalTitle": "Interpreting a recent acceleration in pretraining loss",
@@ -896,7 +953,7 @@
       "pool": "selected"
     },
     {
-      "no": 48,
+      "no": 51,
       "id": "gflb0kkwzma61spkzpp1uxmrk",
       "title": "Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning",
       "originalTitle": "Introducing SWE-2.1",
@@ -915,7 +972,7 @@
       "pool": "selected"
     },
     {
-      "no": 49,
+      "no": 52,
       "id": "uz9j9ukn8j60mwkeeaibmmctw",
       "title": "Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设",
       "originalTitle": "Building stronger biological reasoning models",
@@ -934,7 +991,7 @@
       "pool": "selected"
     },
     {
-      "no": 50,
+      "no": 53,
       "id": "qkxvs90ewfu3k430sdefndv56",
       "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
       "originalTitle": "",
@@ -953,26 +1010,7 @@
       "pool": "selected"
     },
     {
-      "no": 51,
-      "id": "uop2ab4998l6dxugsgtg7w7rn",
-      "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-      "originalTitle": "",
-      "summary": "Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。",
-      "source": "TechCrunch：AI（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 83,
-      "reason": "报道梳理了 Nvidia 董事会复职黄仁勋的决策链条与白宫表态之间的先后关系，读者可借此看到政治表态与调查程序的错位。",
-      "publishedAt": "2026-11-23 23:04",
-      "discoveredAt": "2026-11-23 23:34",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795446241.0,
-      "urlOriginal": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "urlDetail": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-      "pool": "selected"
-    },
-    {
-      "no": 52,
+      "no": 54,
       "id": "gp8e9a8oitha0rbip8pzntuff",
       "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
       "originalTitle": "Agentic Attacks: In The Wild",
@@ -991,7 +1029,7 @@
       "pool": "selected"
     },
     {
-      "no": 53,
+      "no": 55,
       "id": "ajcxs84uezjqgsgxpdtr31o0l",
       "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
       "originalTitle": "Jensen Huang is now back!",
@@ -1007,44 +1045,6 @@
       "sortKey": 1795442670.0,
       "urlOriginal": "https://x.com/thexpin/status/2124866686025400819",
       "urlDetail": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-      "pool": "selected"
-    },
-    {
-      "no": 54,
-      "id": "d4hhqnlmrclsx7d6idtvq95wz",
-      "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
-      "originalTitle": "GLM-5.4：瞄向泛Coding，首个Loop Transformer带来的惊喜",
-      "summary": "智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。",
-      "source": "公众号：智谱（GLM）",
-      "category": "ai-models",
-      "categoryCn": "模型发布",
-      "score": 76,
-      "reason": "原文给出Loop Transformer的架构细节、30B对比实验和部署成本数据，读者可以据此理解权重共享循环深度在旗舰规模上的落地方式。",
-      "publishedAt": "2026-11-23 17:42",
-      "discoveredAt": "2026-11-23 17:51",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795426931.0,
-      "urlOriginal": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
-      "urlDetail": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-      "pool": "selected"
-    },
-    {
-      "no": 55,
-      "id": "dus34samsjrld1qopq65v54uq",
-      "title": "Anthropic IPO 前三家机构如何重注押注",
-      "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。",
-      "source": "TechCrunch：AI（RSS）",
-      "category": "industry",
-      "categoryCn": "行业动态",
-      "score": 83,
-      "reason": "报道还原了 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic 上市前的投资决策过程，可了解机构在争议时点押注的依据。",
-      "publishedAt": "2026-11-23 09:25",
-      "discoveredAt": "2026-11-23 09:34",
-      "timeNote": "原文发布时间",
-      "sortKey": 1795397153.0,
-      "urlOriginal": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "urlDetail": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
       "pool": "selected"
     },
     {
